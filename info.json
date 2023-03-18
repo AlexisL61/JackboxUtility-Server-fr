@@ -1,11 +1,11 @@
 {
-    "id":"",
-    "name":"",
-    "description":"",
-    "image":"",
+    "id":"jackbox-fr",
+    "name":"Jackbox France",
+    "description":"Le serveur d'installation de patch pour la communauté française !",
+    "image":"news_images/logo.png",
 
     "urls":{
-        "api":"",
-        "assets":""
+        "api":"https://games.jbfr.fr/api/v2",
+        "assets":"https://games.jbfr.fr/assets"
     }
 }
