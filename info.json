@@ -4,8 +4,11 @@
     "description":"Le serveur d'installation de patch pour la communauté française !",
     "image":"news_images/logo.png",
 
-    "urls":{
-        "api":"https://games.jbfr.fr/api/v2",
-        "assets":"https://games.jbfr.fr/assets"
-    }
+    "urls":[
+        {
+            "versions":["1.0.0"],
+            "api":"https://games.jbfr.fr/api/v2",
+            "assets":"https://games.jbfr.fr/assets"
+        }
+    ]
 }
