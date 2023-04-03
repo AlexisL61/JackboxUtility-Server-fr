@@ -1752,6 +1752,33 @@
             "path":"loaders/tjpp9/default.zip",
             "version":"1.0.0"
         },
+        "patchs":[
+            {
+                "id":"jpp9_fr",
+                "name":"Jackbox Party Pack 9 FR",
+                "small_description":"Traduisez votre jeu en Français !",
+                "description":"Traduisez votre jeu en français avec ce patch !",
+                "version":"0.1.0",
+                "components":[
+                    {
+                        "id":"test_id",
+                        "linked_game":"",
+                        "name":"Test",
+                        "description":"Test",
+                        "authors":"Test",
+                        "small_description":"Test",
+                        "patch_type":{
+                            "game_text":true,
+                            "game_assets":false,
+                            "game_subtitles":false,
+                            "website":false,
+                            "audios":false
+                        }
+                    }
+                ]
+                
+            }
+        ],
         "games":[
             {
                 "id":"fibbage4",
