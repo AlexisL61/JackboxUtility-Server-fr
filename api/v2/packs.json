@@ -1762,7 +1762,7 @@
                 "components":[
                     {
                         "id":"test_id",
-                        "linked_game":"",
+                        "linked_game":"fibbage4",
                         "name":"Test",
                         "description":"Test",
                         "authors":"Test",
