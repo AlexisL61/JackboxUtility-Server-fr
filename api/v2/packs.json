@@ -1755,7 +1755,7 @@
 	"configuration":{
 		"file":"config.jet",
 		"version_property":"buildVersion"
-	}
+	},
         "patchs":[
             {
                 "id":"jpp9_fr",
