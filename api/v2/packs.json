@@ -1762,7 +1762,7 @@
                 "name":"Jackbox Party Pack 9 FR",
                 "small_description":"Traduisez votre jeu en Français !",
                 "description":"Traduisez votre jeu en français avec ce patch !",
-                "version":"0.1.0",
+                "version":"Build:  20.12-DE",
 		"patch_path":"https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-1-German/releases/latest/download/The-Jackbox-Party-Pack-1-German.zip",
                 "components":[
                     {
