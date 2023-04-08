@@ -1752,6 +1752,10 @@
             "path":"loaders/tjpp9/default.zip",
             "version":"1.0.0"
         },
+	"configuration":{
+		"file":"config.jet",
+		"version_property":"buildVersion"
+	}
         "patchs":[
             {
                 "id":"jpp9_fr",
