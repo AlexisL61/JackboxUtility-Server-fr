@@ -1759,6 +1759,7 @@
                 "small_description":"Traduisez votre jeu en Français !",
                 "description":"Traduisez votre jeu en français avec ce patch !",
                 "version":"0.1.0",
+		"patch_path":"https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-1-German/releases/latest/download/The-Jackbox-Party-Pack-1-German.zip"
                 "components":[
                     {
                         "id":"fibbage4_test_patch",
