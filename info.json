@@ -10,5 +10,7 @@
             "api":"https://raw.githubusercontent.com/AlexisL61/JackboxUtility-Server-fr/main/api/v2",
             "assets":"https://games.jbfr.fr/assets"
         }
-    ]
+    ],
+    
+    "controller":"laboxdejack.fr"
 }
