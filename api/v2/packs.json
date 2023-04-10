@@ -1750,7 +1750,7 @@
         },
 	"launchers_id":{
 	    "steam":"1850960" 
-	}
+	},
         "loader":{
             "path":"loaders/tjpp9/default.zip",
             "version":"1.0.0"
