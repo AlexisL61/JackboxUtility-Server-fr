@@ -36,6 +36,10 @@
         "id":"jpp1",
         "name":"Jackbox Party Pack 1",
         "description":"Le premier party pack de Jackbox",
+	"launchers_id":{
+	    "steam":"331670",
+	    "epic":"Feverfew"
+	},
         "executables":{
             "windows":"The Jackbox Party Pack 1.exe",
             "mac":"The Jackbox Party Pack 1.app/Contents/MacOS/The Jackbox Party Pack 1",
@@ -199,6 +203,10 @@
         "id":"jpp2",
         "name":"Jackbox Party Pack 2",
         "description":"Le deuxième party pack de Jackbox",
+	"launchers_id":{
+	    "steam":"397460",
+	    "epic":"Lilac"
+	},
         "executables":{
             "windows":"The Jackbox Party Pack 2.exe",
             "mac":"The Jackbox Party Pack 2.app/Contents/MacOS/The Jackbox Party Pack 2",
@@ -401,6 +409,10 @@
         "id":"jpp3",
         "name":"Jackbox Party Pack 3",
         "description":"Le troisième party pack de Jackbox",
+	"launchers_id":{
+	    "steam":"434170",
+	    "epic":"Orchid"
+	},
         "executables":{
             "windows":"The Jackbox Party Pack 3.exe",
             "mac":"The Jackbox Party Pack 3.app/Contents/MacOS/The Jackbox Party Pack 3",
@@ -572,6 +584,10 @@
         "id":"jpp4",
         "name":"Jackbox Party Pack 4",
         "description":"Le quatrième party pack de Jackbox",
+	"launchers_id":{
+	    "steam":"610180",
+	    "epic":"Snowdrop"
+	},
         "executables":{
             "windows":"The Jackbox Party Pack 4.exe",
             "mac":"The Jackbox Party Pack 4.app/Contents/MacOS/The Jackbox Party Pack 4",
@@ -800,6 +816,10 @@
             "mac":"The Jackbox Party Pack 5.app/Contents/MacOS/The Jackbox Party Pack 5",
             "linux":"Launcher.sh"
         },
+	"launchers_id":{
+	    "steam":"774461",
+	    "epic":"Geranium"
+	},
         "loader":{
             "path":"loaders/tjpp5/default.zip",
             "version":"1.0.0"
@@ -1026,6 +1046,10 @@
             "mac":"The Jackbox Party Pack 6.app/Contents/MacOS/The Jackbox Party Pack 6",
             "linux":"Launcher.sh"
         },
+	"launchers_id":{
+	    "steam":"1005300",
+	    "epic":"Astrapia"
+	},
         "loader":{
             "path":"loaders/tjpp6/default.zip",
             "version":"1.0.0"
@@ -1268,6 +1292,10 @@
             "mac":"The Jackbox Party Pack 7.app/Contents/MacOS/The Jackbox Party Pack 7",
             "linux":"Launcher.sh"
         },
+	"launchers_id":{
+	    "steam":"1211630",
+	    "epic":"7fb6ce95c6d04a44a55fef16ea0db4c9"
+	},
         "loader":{
             "path":"loaders/tjpp7/default.zip",
             "version":"1.0.0"
@@ -1511,6 +1539,10 @@
             "path":"loaders/tjpp8/default.zip",
             "version":"1.0.0"
         },
+	"launchers_id":{
+	    "steam":"1552350",
+	    "epic":"67003fc4eaa444608acf083a08dc907e"
+	},
         "games":[
             {
                 "id":"drawful_animate",
@@ -1749,7 +1781,8 @@
             "linux":"Launcher.sh"
         },
 	"launchers_id":{
-	    "steam":"1850960" 
+	    "steam":"1850960",
+	    "epic":"ec6f77d356b247dc8d210850de8a3e2f"
 	},
         "loader":{
             "path":"loaders/tjpp9/default.zip",
@@ -2035,6 +2068,9 @@
             "mac":"The Jackbox Party Starter.app/Contents/MacOS/The Jackbox Party Pack Starter",
             "linux":"Launcher.sh"
         },
+	"launchers_id":{
+	    "steam":"1755580"
+	},
         "loader":{
             "path":"loaders/tjpstarter/default.zip",
             "version":"1.0.0"
