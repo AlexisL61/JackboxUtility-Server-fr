@@ -1748,6 +1748,9 @@
             "mac":"The Jackbox Party Pack 9.app/Contents/MacOS/The Jackbox Party Pack 9",
             "linux":"Launcher.sh"
         },
+	"launchers_id":{
+	    "steam":"1850960" 
+	}
         "loader":{
             "path":"loaders/tjpp9/default.zip",
             "version":"1.0.0"
