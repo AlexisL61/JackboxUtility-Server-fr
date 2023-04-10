@@ -11,6 +11,6 @@
             "assets":"https://games.jbfr.fr/assets"
         }
     ],
-    
-    "controller":"laboxdejack.fr"
+    "controller":"laboxdejack.fr",
+    "languages":["fr"]
 }
