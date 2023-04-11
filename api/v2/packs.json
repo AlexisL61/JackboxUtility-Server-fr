@@ -31,6 +31,14 @@
             "description":"Ces jeux sont des jeux de culture générale."
        }
     ],
+    "patchsCategories":
+    [
+    	{
+	    "id":"french_patchs",
+	    "name":"Traduisez vos jeux en français",
+	    "patchs":["jpp9_fr"]
+	}
+    ],
     "packs":[
     {
         "id":"jpp1",
