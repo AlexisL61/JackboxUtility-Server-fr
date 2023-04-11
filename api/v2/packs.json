@@ -35,7 +35,8 @@
     [
     	{
 	    "id":"french_patchs",
-	    "name":"Traduisez vos jeux en français",
+	    "name":"Patchs de traductions FR",
+	    "smallDescription":"Traduisez vos jeux en français !",
 	    "patchs":["jpp9_fr"]
 	}
     ],
