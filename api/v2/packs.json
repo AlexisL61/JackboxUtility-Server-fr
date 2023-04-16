@@ -33,12 +33,6 @@
     ],
     "patchsCategories":
     [
-    	{
-	    "id":"french_patchs",
-	    "name":"Patchs de traductions FR",
-	    "smallDescription":"Traduisez vos jeux en français !",
-	    "patchs":["jpp9_fr"]
-	}
     ],
     "packs":[
     {
@@ -1802,92 +1796,7 @@
 		"version_property":"buildVersion"
 	},
         "patchs":[
-            {
-                "id":"jpp9_fr",
-                "name":"Jackbox Party Pack 9 FR",
-                "small_description":"Traduisez votre jeu en Français !",
-                "description":"Traduisez votre jeu en français avec ce patch !",
-                "version":"Build:  20.12-DE",
-		"patch_path":"https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-1-German/releases/latest/download/The-Jackbox-Party-Pack-1-German.zip",
-                "components":[
-                    {
-                        "id":"fibbage4_test_patch",
-                        "linked_game":"fibbage4",
-                        "name":"Fibbage4 FR",
-                        "description":"Fibbage4 in FR",
-                        "authors":"Test",
-                        "small_description":"Fibbage4 in french",
-                        "patch_type":{
-                            "game_text":true,
-                            "game_assets":false,
-                            "game_subtitles":false,
-                            "website":false,
-                            "audios":false
-                        }
-                    },
-		    {
-                        "id":"roomerang_test_patch",
-                        "linked_game":"roomerang",
-                        "name":"Roomerang FR",
-                        "description":"Rommerang in FR",
-                        "authors":"Test",
-                        "small_description":"Roomerang in french",
-                        "patch_type":{
-                            "game_text":true,
-                            "game_assets":false,
-                            "game_subtitles":false,
-                            "website":false,
-                            "audios":false
-                        }
-                    },
-		    {
-                        "id":"junktopia_test_patch",
-                        "linked_game":"junktopia",
-                        "name":"Junktopia FR",
-                        "description":"Junktopia in FR",
-                        "authors":"Test",
-                        "small_description":"Junktopia in french",
-                        "patch_type":{
-                            "game_text":true,
-                            "game_assets":false,
-                            "game_subtitles":false,
-                            "website":false,
-                            "audios":false
-                        }
-                    },
-		    {
-                        "id":"nonsensory_test_patch",
-                        "linked_game":"nonsensory",
-                        "name":"Nonsensory FR",
-                        "description":"Nonsensory in FR",
-                        "authors":"Test",
-                        "small_description":"Nonsensory in french",
-                        "patch_type":{
-                            "game_text":true,
-                            "game_assets":false,
-                            "game_subtitles":false,
-                            "website":false,
-                            "audios":false
-                        }
-                    },
-		    {
-                        "id":"quixort_test_patch",
-                        "linked_game":"quixort",
-                        "name":"Quixort FR",
-                        "description":"Quixort in FR",
-                        "authors":"Test",
-                        "small_description":"Quixort in french",
-                        "patch_type":{
-                            "game_text":true,
-                            "game_assets":false,
-                            "game_subtitles":false,
-                            "website":false,
-                            "audios":false
-                        }
-                    }
-                ]
-                
-            }
+            
         ],
         "games":[
             {
