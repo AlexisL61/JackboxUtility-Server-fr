@@ -33,6 +33,12 @@
     ],
     "patchsCategories":
     [
+	{
+	    "id":"french_patchs",
+	    "name":"Traduction en français",
+	    "smallDescription":"Toutes les traductions Jackbox disponible en un seul et même endroit",
+	    "patchs":["bombcorp_fr","bidiots_fr","monsterseekingmonster_fr"]
+	}
     ],
     "packs":[
     {
