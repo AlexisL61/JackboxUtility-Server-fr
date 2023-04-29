@@ -46,7 +46,7 @@ Future<Map<String, dynamic>> doBlurHashProcess(url, assetsUri) async {
     print("Getting blurhash for " + url.toString());
     String path = await saveToFile(url, assetsUri);
     Map<String, dynamic> blurHash = getBlurHash(File(path));
-    print("Getting blurhash success for " + url.toString()+" : "+blurHash);
+    print("Getting blurhash success for " + url.toString()+" : "+blurHash["hash"]);
     return {"url": url, "blurHash": blurHash["hash"], "width": blurHash["width"], "height": blurHash["height"]};
   } catch (e) {
     return {"url": url, "blurHash": "", "width": 0, "height": 0};
