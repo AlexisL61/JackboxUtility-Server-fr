@@ -66,7 +66,7 @@ Future<String> saveToFile(url, assetsUri) async {
 Map<String, dynamic> getBlurHash(File file) {
   final data = file.readAsBytesSync();
   final image = img.decodeImage(data);
-  final blurHash = BlurHash.encode(image!, numCompX: 8, numCompY: 6);
+  final blurHash = BlurHash.encode(image!, numCompX: 6, numCompY: 4);
   return {
     "hash": blurHash.hash,
     "width": image.width,
