@@ -43,8 +43,10 @@ void getAllBlurHash(String link, String assetsUri) async {
 
 Future<Map<String, String>> doBlurHashProcess(url, assetsUri) async {
   try {
+    print("Getting blurhash for " + url.toString());
     String path = await saveToFile(url, assetsUri);
     String blurHash = getBlurHash(File(path));
+    print("Getting blurhash success for " + url.toString()+" : "+blurHash);
     return {"url": url, "blurHash": blurHash};
   } catch (e) {
     return {"url": url, "blurHash": ""};
