@@ -12,9 +12,9 @@ jobs:
      - uses: actions/checkout@v3
      - uses: subosito/flutter-action@v2
      - name: Build blurhash
-       working-directory: ./github/workflows/blurhash/jackboxutility_blurhash
+       working-directory: .github/workflows/blurhash/jackboxutility_blurhash
        run: dart run .\jackboxutility_blurhash.dart https://raw.githubusercontent.com/AlexisL61/JackboxUtility-Server-fr/main/api/v2 https://raw.githubusercontent.com/AlexisL61/JackboxUtility-Server-fr/main/api/v2
      - uses: actions/upload-artifact@v3
        with:
           name: blurHashes.json
-          path: ./github/workflows/blurhash/jackboxutility_blurhash/out/blurHashes.json
+          path: .github/workflows/blurhash/jackboxutility_blurhash/out/blurHashes.json
