@@ -12,7 +12,7 @@ void main(List<String> arguments) {
 }
 
 void getAllBlurHash(String link, String assetsUri) async {
-  List<Map<String, String>> blurHashes = [];
+  List<Map<String, dynamic>> blurHashes = [];
   var response = await Dio().get(link);
   if (response.statusCode == 200) {
     var jsonResponse = jsonDecode(response.data);
@@ -41,15 +41,15 @@ void getAllBlurHash(String link, String assetsUri) async {
   File("./out/blurHashes.json").writeAsStringSync(jsonEncode(blurHashes));
 }
 
-Future<Map<String, String>> doBlurHashProcess(url, assetsUri) async {
+Future<Map<String, dynamic>> doBlurHashProcess(url, assetsUri) async {
   try {
     print("Getting blurhash for " + url.toString());
     String path = await saveToFile(url, assetsUri);
-    String blurHash = getBlurHash(File(path));
+    Map<String, dynamic> blurHash = getBlurHash(File(path));
     print("Getting blurhash success for " + url.toString()+" : "+blurHash);
-    return {"url": url, "blurHash": blurHash};
+    return {"url": url, "blurHash": blurHash["hash"], "width": blurHash["width"], "height": blurHash["height"]};
   } catch (e) {
-    return {"url": url, "blurHash": ""};
+    return {"url": url, "blurHash": "", "width": 0, "height": 0};
   }
 }
 
@@ -63,9 +63,14 @@ Future<String> saveToFile(url, assetsUri) async {
   return "./out/tmp." + url.split(".").last;
 }
 
-String getBlurHash(File file) {
+Map<String, dynamic> getBlurHash(File file) {
   final data = file.readAsBytesSync();
   final image = img.decodeImage(data);
   final blurHash = BlurHash.encode(image!, numCompX: 4, numCompY: 3);
-  return blurHash.hash;
+  return {
+    "hash": blurHash.hash,
+    "width": image.width,
+    "height": image.height
+  };
 }
+
