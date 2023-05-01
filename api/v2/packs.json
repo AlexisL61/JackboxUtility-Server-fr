@@ -54,6 +54,10 @@
             "mac":"The Jackbox Party Pack 1.app/Contents/MacOS/The Jackbox Party Pack 1",
             "linux":"Launcher.sh"
         },
+        "loader":{
+            "path":"loaders/tjpp1/default.zip",
+            "version":"1.0.0"
+        },
         "games":[
             {
                 "id":"ydkj2015",
@@ -81,6 +85,10 @@
                     	"knowledge"
                     ]
 
+                },
+                "loader":{
+                    "path":"loaders/tjpp1/ydkj2015.zip",
+                    "version":"1.0.0"
                 },
                 "patchs":[
                     
@@ -113,6 +121,10 @@
                     ]
 
                 },
+                "loader":{
+                    "path":"loaders/tjpp1/fibbagexl.zip",
+                    "version":"1.0.0"
+                },
                 "patchs":[
                     
                 ]
@@ -141,6 +153,10 @@
                     	"drawing"
                     ]
 
+                },
+                "loader":{
+                    "path":"loaders/tjpp1/drawful.zip",
+                    "version":"1.0.0"
                 },
                 "patchs":[
                     
@@ -171,6 +187,10 @@
                     ]
 
                 },
+                "loader":{
+                    "path":"loaders/tjpp1/wordspud.zip",
+                    "version":"1.0.0"
+                },
                 "patchs":[
                     
                 ]
@@ -200,6 +220,10 @@
                     ]
 
                 },
+                "loader":{
+                    "path":"loaders/tjpp1/lieswatter.zip",
+                    "version":"1.0.0"
+                },
                 "patchs":[
                     
                 ]
@@ -220,6 +244,10 @@
             "windows":"The Jackbox Party Pack 2.exe",
             "mac":"The Jackbox Party Pack 2.app/Contents/MacOS/The Jackbox Party Pack 2",
             "linux":"Launcher.sh"
+        },
+        "loader":{
+            "path":"loaders/tjpp2/default.zip",
+            "version":"1.0.0"
         },
         "games":[
             {
@@ -249,6 +277,10 @@
                 },
                 "background":"game_backgrounds/BombCorp.webp",
                 "path":"games/BombInterns",
+                "loader":{
+                    "path":"loaders/tjpp2/bombcorp.zip",
+                    "version":"1.0.0"
+                },
                 "patchs":[
                     {
                         "id":"bombcorp_fr",
@@ -296,6 +328,10 @@
                     ]
 
                 },
+                "loader":{
+                    "path":"loaders/tjpp2/quiplashxl.zip",
+                    "version":"1.0.0"
+                },
                 "patchs":[
                     
                 ]
@@ -328,6 +364,10 @@
                     ]
 
                 },
+                "loader":{
+                    "path":"loaders/tjpp2/fibbage2.zip",
+                    "version":"1.0.0"
+                },
                 "patchs":[
                     
                 ]
@@ -358,6 +398,10 @@
                     
                     ]
 
+                },
+                "loader":{
+                    "path":"loaders/tjpp2/earwax.zip",
+                    "version":"1.0.0"
                 },
                 "patchs":[
                     
@@ -390,6 +434,10 @@
                     	"deduction"
                     ]
 
+                },
+                "loader":{
+                    "path":"loaders/tjpp2/bidiots.zip",
+                    "version":"1.0.0"
                 },
                 "patchs":[
                     {
@@ -427,6 +475,10 @@
             "mac":"The Jackbox Party Pack 3.app/Contents/MacOS/The Jackbox Party Pack 3",
             "linux":"Launcher.sh"
         },
+        "loader":{
+            "path":"loaders/tjpp3/default.zip",
+            "version":"1.0.0"
+        },
         "games":[
             {
                 "id":"fakinit",
@@ -455,6 +507,10 @@
                     	"talking"
                     ]
 
+                },
+                "loader":{
+                    "path":"loaders/tjpp3/fakinit.zip",
+                    "version":"1.0.0"
                 },
                 "patchs":[
                     
@@ -487,6 +543,10 @@
                     ]
 
                 },
+                "loader":{
+                    "path":"loaders/tjpp3/quiplash2.zip",
+                    "version":"1.0.0"
+                },
                 "patchs":[
                     
                 ]
@@ -517,6 +577,10 @@
                     	"knowledge"
                     ]
 
+                },
+                "loader":{
+                    "path":"loaders/tjpp3/triviamurderparty.zip",
+                    "version":"1.0.0"
                 },
                 "patchs":[
                     
@@ -550,6 +614,10 @@
                     ]
 
                 },
+                "loader":{
+                    "path":"loaders/tjpp3/teeko.zip",
+                    "version":"1.0.0"
+                },
                 "patchs":[
                     
                 ]
@@ -581,6 +649,10 @@
                     ]
 
                 },
+                "loader":{
+                    "path":"loaders/tjpp3/guesspionage.zip",
+                    "version":"1.0.0"
+                },
                 "patchs":[
                     
                 ]
@@ -601,6 +673,10 @@
             "windows":"The Jackbox Party Pack 4.exe",
             "mac":"The Jackbox Party Pack 4.app/Contents/MacOS/The Jackbox Party Pack 4",
             "linux":"Launcher.sh"
+        },
+        "loader":{
+            "path":"loaders/tjpp4/default.zip",
+            "version":"1.0.0"
         },
         "games":[
             {
@@ -631,6 +707,10 @@
                         "writing"
                     ]
 
+                },
+                "loader":{
+                    "path":"loaders/tjpp4/survivetheinternet.zip",
+                    "version":"1.0.0"
                 },
                 "patchs":[
                     {
@@ -681,6 +761,10 @@
                     ]
 
                 },
+                "loader":{
+                    "path":"loaders/tjpp4/monsterseekingmonster.zip",
+                    "version":"1.0.0"
+                },
                 "patchs":[
                     {
                         "id":"monsterseekingmonster_fr",
@@ -730,6 +814,10 @@
                     ]
 
                 },
+                "loader":{
+                    "path":"loaders/tjpp4/bracketeering.zip",
+                    "version":"1.0.0"
+                },
                 "patchs":[
                     {
                         "id":"bracketeering_fr",
@@ -777,6 +865,10 @@
                     ]
 
                 },
+                "loader":{
+                    "path":"loaders/tjpp4/fibbage3.zip",
+                    "version":"1.0.0"
+                },
                 "patchs":[
                     
                 ]
@@ -807,6 +899,10 @@
                     	"drawing"
                     ]
 
+                },
+                "loader":{
+                    "path":"loaders/tjpp4/civicdoodle.zip",
+                    "version":"1.0.0"
                 },
                 "patchs":[
                     
