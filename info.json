@@ -8,7 +8,7 @@
         {
             "versions":["1.0.0"],
             "api":"https://raw.githubusercontent.com/AlexisL61/JackboxUtility-Server-fr/main/api/v2",
-            "assets":"https://games.jbfr.fr/assets"
+            "assets":"https://raw.githubusercontent.com/AlexisL61/JackboxUtility-Server-fr/main/assets"
         }
     ],
     "controller":"laboxdejack.fr",
