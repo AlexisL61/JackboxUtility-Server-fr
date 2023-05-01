@@ -13,7 +13,8 @@
     ],
     "controller":"laboxdejack.fr",
     "languages":["fr"],
-    "links":[{
+    "links":[
+    	{
             "icon":"globe",
             "url":"http://blog.laboxdejack.fr/",
             "text":"Blog"
