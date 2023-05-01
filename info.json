@@ -12,5 +12,16 @@
         }
     ],
     "controller":"laboxdejack.fr",
-    "languages":["fr"]
+    "languages":["fr"],
+    "links":[{
+            "icon":"globe",
+            "url":"http://blog.laboxdejack.fr/",
+            "text":"Blog"
+        },
+        {
+            "icon":"discord",
+            "url":"https://discord.gg/XhwPfUrCEx",
+            "text":"Discord"
+        },
+    ]
 }
