@@ -1,3 +1,9 @@
 {
-
+    "LAUNCHER":{
+        "HIDE_DUBBED_BY_COMMUNITY":true   
+    },
+    "SERVER_INFORMATION":{
+        "SHOW_PATREONS_SUBSCRIBERS":true,
+        "PATREONS_SUBSCRIBERS":["TEST1","TEST2","TEST3"]
+    }
 }
