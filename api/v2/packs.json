@@ -1894,7 +1894,8 @@
             "version":"1.0.0"
         },
 	"configuration":{
-		"file":"config.jet",
+		"version_origin":"game_file",
+		"version_file":"config.jet",
 		"version_property":"buildVersion"
 	},
         "patchs":[
