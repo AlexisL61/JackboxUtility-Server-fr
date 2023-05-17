@@ -67,7 +67,7 @@
                 "game_info":{
                     "players":{
                         "min":1,
-                        "max":8
+                        "max":4
                     },
                     "length":"15 - 20 minutes",
                     "type":"VERSUS",
