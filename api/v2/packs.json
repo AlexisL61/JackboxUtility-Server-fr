@@ -2,33 +2,33 @@
     "tags":[
        {
             "id":"talking",
-            "name":"Discussion",
+            "name":"Спілкування",
             "icon":"action_center",
-            "description":"Jeux nécessitant de discuter entre joueurs pour avancer dans la partie."
+            "description":"У цих іграх вам доведеться щось обговорювати з іншими гравцями для просування далі."
        },
        {
        	    "id":"drawing",
-            "name":"Dessin",
+            "name":"Малювання",
             "icon":"edit",
-            "description":"Vous allez devoir dessiner dans ces jeux."
+            "description":"У цих іграх вам доведеться малювати."
        },
        {
        	    "id":"writing",
-            "name":"Ecrit",
+            "name":"Письмо",
             "icon":"text_align_top",
-            "description":"Vous allez devoir écrire dans ces jeux."
+            "description":"У цих іграх вам доведеться писати."
        },
        {
        	    "id":"deduction",
-            "name":"Déduction",
+            "name":"Дедукція",
             "icon":"comment_urgent",
-            "description":"Ces jeux sont des jeux de déduction."
+            "description":"У цих іграх вам доведеться дедукційно мислити."
        },
        {
        	    "id":"knowledge",
-            "name":"Culture générale",
+            "name":"Загальні знання",
             "icon":"knowledge_management_app",
-            "description":"Ces jeux sont des jeux de culture générale."
+            "description":"У цих іграх вам доведеться відповідати на загальні питання."
        }
     ],
     "patchsCategories":
@@ -44,7 +44,7 @@
     {
         "id":"jpp1",
         "name":"Jackbox Party Pack 1",
-        "description":"Le premier party pack de Jackbox",
+        "description":"Перший комплект із серії Jackbox Party Pack",
 	"launchers_id":{
 	    "steam":"331670",
 	    "epic":"Feverfew"
@@ -67,14 +67,14 @@
                 "game_info":{
                     "players":{
                         "min":1,
-                        "max":8
+                        "max":4
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 хвилин",
                     "type":"VERSUS",
                     "translation":"ENGLISH",
-                    "tagline":"Participez au plus grand quiz",
-                    "small_description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
-                    "description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
+                    "tagline":"Візьміть участь у найбільшій вікторині!",
+                    "small_description":"Дотепна вікторина, з якої все це почалося!",
+                    "description":"**You Don't Know Jack 2015** — гра призначена для 1–4 гравців і базується на стандартному форматі ігор **You Don't Know Jack**. У раунді до чотирьох гравців, яким поставлено завдання відповісти на питання вікторини з кількома варіантами відповідей, представлені незрозуміло у форматі гри «висока культура зустрічається з поп-культурою». Гравці заробляють у грі гроші за правильні відповіді за короткий проміжок часу та втрачають гроші за неправильні відповіді. Відсутність відповіді не дає гравцеві грошей. У багатокористувацьких іграх також є «закрути» *(англ. screws)*, коли один гравець може змусити іншого відповісти негайно та може отримати бонус, якщо «закручений» гравець відповість неправильно або не відповість. Перемагає гравець, який набрав найбільше грошей.",
                     "images":[
 						"game_images/YDKJ2015/ydkj2015_1.webp",
                         "game_images/YDKJ2015/ydkj2015_2.webp",
@@ -104,12 +104,12 @@
                         "min":2,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 хвилин",
                     "type":"VERSUS",
                     "translation":"ENGLISH",
-                    "tagline":"Que le meilleur menteur gagne !",
-                    "small_description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
-                    "description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
+                    "tagline":"Нехай переможе найкращий брехун!",
+                    "small_description":"Обдуріть друзів, уникаючи їх брехні та дізнавайтеся (зазвичай обурливу) правду.",
+                    "description":"**Fibbage XL** — гра призначена для 2–8 гравців і є доповненням до окремої гри, яку Jackbox Games випустили до набору з новими наборами запитань. У перших двох раундах гри кожен гравець вибирає одну з п'яти випадкових категорій, і незрозумілий факт представляється всім гравцям із пропущеним словом або фразою, щоб завершити його. Кожен гравець використовує свій локальний пристрій, щоб ввести ці пропущені слова; якщо вони введуть справжню правильну відповідь, їх попросять ввести щось інше, і якщо вони не зможуть ввести відповідь до закінчення таймера, вони можуть натиснути кнопку «збрехати за мене» та вибрати між двома згенерованими грою словосполученнями на вибір. Потім гра представляє всі відповіді, включаючи правильну, гравцям, які потім обирають правильну, на їхню думку, відповідь. Гравці нараховують бали за вибір правильної відповіді, але також можуть отримати бали, якщо інші гравці вибирають їхню відповідь, тому гравців заохочують давати, на перший погляд, правильні відповіді для своїх відповідей. Гравці втрачають бали за вибір неправильної відповіді, яку написала сама гра. У фінальному раунді, «The Final Fibbage», надається ще одне запитання, на яке всі гравці мають відповісти. Перемагає гравець, який набрав найбільшу кількість очок.",
                     "images":[
 						"game_images/FibbageXL/fibbagexl_1.webp",
                         "game_images/FibbageXL/fibbagexl_2.webp",
@@ -139,12 +139,12 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 хвилин",
                     "type":"VERSUS",
                     "translation":"ENGLISH",
-                    "tagline":"Vous avez dessiné quoi là ?",
-                    "small_description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
-                    "description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
+                    "tagline":"Що це таке намальовано?",
+                    "small_description":"Малювальна гра, яка просто бере і малює на всі інших малованих іграх вуса. Не вмієте малювати? Нічого страшного! Так смішніше!",
+                    "description":"**Drawful** *(гра слів: draw - малювати, awful - жахливо та owl - сова)* — гра розрахована на 3–8 гравців і є малювальною грою. Кожен раунд починається з того, що кожен гравець окремо отримує грайливу фразу та полотно для малювання на своєму локальному пристрої. У них є небагато часу, щоб намалювати цю фразу. Після цього кожне зображення представляється всім гравцям, і гравці, крім художника, повинні ввести фразу, яку, на їхню думку, представляє зображення. Потім усі ці відповіді разом із фактичною фразою для цього зображення, які написали гравці, виводяться на екран, і гравці голосують за фразу, яка, на їхню думку, було оригінальною. Художник зображення отримує бали за кожного іншого гравця, який вгадав його оригінальну фразу, а ті, хто написав інші фрази, отримують бали за голоси, які отримує їхня фраза. Якщо гравець вибирає відповідь-приманку, він не отримує жодних балів. Перемагає гравець, який набрав найбільшу кількість очок.",
                     "images":[
 						"game_images/Drawful/drawful_1.webp",
                         "game_images/Drawful/drawful_2.webp"
@@ -172,12 +172,12 @@
                         "min":2,
                         "max":8
                     },
-                    "length":"INFINIIIIIIIIIII",
+                    "length":"Необмежено",
                     "type":"VERSUS",
                     "translation":"ENGLISH",
-                    "tagline":"PASSEZ LA PATATE !",
-                    "small_description":"Passez cette patate",
-                    "description":"# Vous êtes arrivé là ?\n\nBien joué, vous êtes maintenant un joueur hardcore de jackbox, car vous avez réussi à trouver le **meilleur** jeu de Jackbox. Êtes-vous prêt ? Alors lancez le jeu, vous n'allez pas en croire vos yeux.",
+                    "tagline":"ПЕРЕДАЙ МЕНІ КАРТОПЛЮ!",
+                    "small_description":"Нехай слова крутяться всю ніч! Просто закінчіть слово, що потрапило вам в руки.",
+                    "description":"**Word Spud** — гра призначена для 2–8 гравців і є грою на асоціації слів. Представляється слово, і один гравець за раз придумує слово, яке з ним асоціюється. Гравці, що залишилися, голосують, чи асоціація хороша, чи ні, і гравець, який придумав асоціацію, отримує бали, якщо вона отримує найбільшу кількість вподобайок, і втрачає бали, якщо вона отримує найбільшу кількість невподобок. Після цього наступний гравець починає з нового слова, щоб придумати нову асоціацію, і гра продовжується. Перемагає гравець, який набрав найбільшу кількість очок.",
                     "images":[
 						"game_images/WordSpud/wordspud_1.webp",
                         "game_images/WordSpud/wordspud_2.webp"
@@ -205,12 +205,12 @@
                         "min":1,
                         "max":100
                     },
-                    "length":"INFINIIIIIIIIIIIIIII",
+                    "length":"Необмежено",
                     "type":"VERSUS",
                     "translation":"ENGLISH",
-                    "tagline":"C'est vrai ou c'est faux ?",
-                    "small_description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
-                    "description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
+                    "tagline":"Це правда чи брехня?",
+                    "small_description":"Чи пісяють омари з голови? Чи визнала Японія локшину швидкого приготування найкращим винаходом 20-го століття? Чи брехня ці твердження?",
+                    "description":"**Lie Swatter** — гра призначена для 1–100 гравців і є багатокористувацькою версією однокористувацького мобільного застосунку, який Jackbox Games випустили до **The Jackbox Party Pack**. Гра змушує до 100 гравців правильно здогадатися, чи є представлені твердження правдивими, «вибиваючи» ті, які є хибними. Гравці заробляють бали за правильні відповіді, а найшвидший гравець заробляє додаткові бали. Перемагає гравець, який набрав найбільшу кількість очок.",
                     "images":[
 						"game_images/LieSwatter/lieswatter_1.webp",
                         "game_images/LieSwatter/lieswatter_2.webp"
@@ -235,7 +235,7 @@
     {
         "id":"jpp2",
         "name":"Jackbox Party Pack 2",
-        "description":"Le deuxième party pack de Jackbox",
+        "description":"Другий комплект із серії Jackbox Party Pack",
 	"launchers_id":{
 	    "steam":"397460",
 	    "epic":"Lilac"
@@ -258,12 +258,12 @@
                         "min":1,
                         "max":4
                     },
-                    "length":"10 - 30 minutes",
+                    "length":"10 - 30 хвилин",
                     "type":"COOP",
-                    "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Désamorcez des bombes à 4",
-                    "small_description":"Bienvenue à Bomb Corp ! En tant que stagiaire, vous allez devoir désamorcer les bombes qui se trouvent dans l'entreprise. Arriverez-vous à atteindre le dernier jour ?",
-                    "description":"# Votre nouveau job : Stagiaire désamorceur\n\nDans Bomb Corp, vous allez devoir désamorcer des bombes à quatre joueurs. La difficulté ? Chacun a une indication qu'il devra expliquer à l'équipe pour couper les bons fils.\n\nVous trouvez que désamorcer des bombes est trop simple ? Alors essayez de trier des fichiers dans l'ordre, faire un café avec du matériel explosif ou encore déchiffrer un code pour ouvrir les bureaux.\n\nLe jeu a 2 modes de jeux : \n- Histoire : Un mode histoire où vous allez devoir survivre à 15 jours chez Bomb Corp\n- Mode infini : Pour les joueurs qui veulent juste jouer jusqu'au bout de la nuit\n\nPlus vous allez loin, et plus ça va être compliqué de désamorcer les bombes (et supporter vos collègues)",
+                    "translation":"ENGLISH",
+                    "tagline":"Знешкоджуйте бомби вчотирьох!",
+                    "small_description":"Ласкаво просимо до Bomb Corp.! Стажери, як ви повинні допомагати знешкоджувати бомби в нашому офісі. У нас дивний офіс, у ньому повно бомб.",
+                    "description":"**Bomb Corp.** — гра для 1–4 гравців. Один гравець є працівником заводу з виробництва бомб, який повинен дезактивувати випадково запущені бомби, коли вони сходять з конвеєра, тоді як інші гравці є працівниками, які отримують різні набори інструкцій, щоб допомогти в деактивації. Інструкції є особливо тупими та потенційно суперечливими, що вимагає ретельного спілкування між гравцями.",
                     "images":[
                         "game_images/BombCorp/bombcorp_1.webp",
                         "game_images/BombCorp/bombcorp_2.webp",
@@ -282,22 +282,7 @@
                     "version":"1.0.0"
                 },
                 "patchs":[
-                    {
-                        "id":"bombcorp_fr",
-                        "name":"[PREVIEW] Bomb Corp",
-                        "small_description":"[PREVIEW] Traduisez votre jeu en français",
-                        "description":"Le patch complet arrive bientôt. Vous pouvez toujours télécharger la preview mais gardez à l'esprit que la traduction n'est pas terminée. Avec cette preview, vous pouvez aller jusqu'au jour 8 sans soucis de traduction (sauf pour la bombe de tutoriel).",
-                        "authors":"Alexis",
-                        "version":"0.1.2",
-                        "patch_path":"patchs/bombcorp_0.1.2.zip",
-                        "patch_type":{
-                            "game_text":true,
-                            "game_assets":true,
-                            "game_subtitles":false,
-                            "website":true,
-                            "audios":false
-                        }
-                    }
+				
                 ]
                 
             },
@@ -311,12 +296,12 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 хвилин",
                     "type":"VERSUS",
                     "translation":"ENGLISH",
-                    "tagline":"Soyez le plus drôle",
-                    "small_description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
-                    "description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
+                    "tagline":"Будьте найкумеднішими!",
+                    "small_description":"Хвилинна битва розуму та дотепності у найвеличнішій формі! Придумайте «найкраще ім'я для потворної дитини» й виграйте!",
+                    "description":"**Quiplash XL** — гра розрахована на 3–8 гравців. Jackbox Games випустили її як окрему гру до набору, і вона була включена в випуск цього набору разом із попереднім DLC *(Quip Pack 1)* і «понад 100 абсолютно новими підказками». У перших двох раундах гри кожен гравець отримує дві підказки, на які потрібно дати відповідь; підказки даються так, що кожну підказку бачать два гравці. Гравці дають смішну, на їхню думку, відповідь на кожне запитання. Потім усім гравцям і глядачам показується підказка та дві запропоновані відповіді. Вони голосують за відповідь, яку вважають найбільш дотепною. Очки нараховуються за відсоток голосів між двома гравцями, а бонусні бали нараховуються за можливий «quiplash», якщо вони забирають усі голоси. Введення ідентичних відповідей не приносить балів. У фінальному раунді «Останній хрясь» *(англ. The Last Lash)* усі гравці відповідають на однакову підказку та тричі голосують за найкращі відповіді з представлених. Перемагає гравець, який набрав найбільшу кількість очок.",
                     "images":[
 						"game_images/QuiplashXL/quiplashxl_1.webp",
                         "game_images/QuiplashXL/quiplashxl_2.webp",
@@ -346,12 +331,12 @@
                         "min":2,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 хвилин",
                     "type":"VERSUS",
                     "translation":"ENGLISH",
-                    "tagline":"Soyez le meilleur menteur",
-                    "small_description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
-                    "description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
+                    "tagline":"Будьте найкращим брехуном!",
+                    "small_description":"Більше Fibbage! Брешіть вашим друзям, уникайте їхньої брехні та розпізнавайте правду.",
+                    "description":"**Fibbage 2** — гра розрахована на 2–8 гравців. У порівнянні зі своїм попередником, **Fibbage 2** представляє нові набори запитань і можливість для глядачів голосувати за відповіді, що може забезпечити додатковий приріст очок для гравців. Нова опція під назвою «Дефібрилятор» дозволяє гравцям видаляти всі відповіді, крім однієї, і правдивість вибору для одного запитання.",
                     "images":[
 						"game_images/Fibbage2/fibbage2_1.webp",
                         "game_images/Fibbage2/fibbage2_2.webp",
@@ -382,12 +367,12 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 хвилин",
                     "type":"VERSUS",
                     "translation":"ENGLISH",
-                    "tagline":"Répondez avec beaucoup de bruit",
-                    "small_description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
-                    "description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
+                    "tagline":"Відповідайте за допомогою звуків!",
+                    "small_description":"Коров'яче мукання? Гучний вибух? Чи невеличкий пук? Що обрати? Це гра зі звуковими ефектами, яка змусить вас реготати по самі вуха!",
+                    "description":"**Earwax** — гра розрахована на 3–8 гравців. У кожному раунді суддя обирає одного гравця, який отримує вибір із п'яти підказок. Підказка надається іншим гравцям, і кожен отримує шість випадкових звукових ефектів. Потім кожен гравець вибирає по черзі два звукові ефекти як відповідь на підказку. Гравець-суддя вибирає, які комбіновані звуки є найбільш жартівливою чи слушною відповіддю, і цей вибраний гравець отримує очко. Перемагає той гравець, який першим набере три бали.",
                     "images":[
 						"game_images/Earwax/earwax_1.webp",
                         "game_images/Earwax/earwax_2.webp",
@@ -417,12 +402,12 @@
                         "min":3,
                         "max":6
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 хвилин",
                     "type":"VERSUS",
-                    "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"C'est l'heure des enchères",
-                    "small_description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
-                    "description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
+                    "translation":"ENGLISH",
+                    "tagline":"Настав час для аукціону!",
+                    "small_description":"Перебивайте ставки своїх противників за намальовані гравцями абсурдні картини, і вигравайте в цьому дивному аукціоні! Не будьте бідіотом!",
+                    "description":"**Bidiots** — гра розрахована на 3–6 гравців. Це духовний наступник **Drawful**. Гравці починають із малювання зображень для випадково призначених категорій. Потім гравці використовують гроші в грі, щоб робити ставки на ці зображення, ніби на аукціоні мистецтва, намагаючись зробити найвищу ставку за зображення, яке відповідає певним категоріям. Гравець з найбільшою ставкою отримує зображення, а художник зображення заробляє гроші. Гравці можуть використовувати закрути (подібно до франшизи **You Don't Know Jack**), щоб змусити інших гравців робити ставки, і якщо у гравців закінчаться гроші, вони можуть взяти грабіжницьку позику, щоб спробувати конкурувати до кінця гри. Після виділеної кількості лотів (8 для 3 гравців, 10 для 4 гравців, 12 для 5–6 гравців) зображення, які купив гравець, принесуть йому більше грошей. Перемагає гравець з найбільшою кількістю грошей, якщо тільки один або більше гравців не візьмуть три грабіжницькі позики, що призведе до втрати грошей.",
                     "images":[
 						"game_images/Bidiots/bidiots_1.webp",
                         "game_images/Bidiots/bidiots_2.webp",
@@ -440,22 +425,7 @@
                     "version":"1.0.0"
                 },
                 "patchs":[
-                    {
-                        "id":"bidiots_fr",
-                        "name":"[PREVIEW] Bidiots",
-                        "small_description":"[PREVIEW] Traduisez votre jeu en français",
-                        "description":"Le patch complet arrive bientôt. Vous pouvez toujours télécharger la preview mais gardez à l'esprit que la traduction n'est pas terminée. Avec cette preview, vous pouvez traduire les éléments textuels du jeu.",
-                        "authors":"the_sign_painter#7458 et MisterShaokahn#0765",
-                        "version":"0.1.0",
-                        "patch_path":"patchs/bidiots_0.1.0.zip",
-                        "patch_type":{
-                            "game_text":true,
-                            "game_assets":false,
-                            "game_subtitles":false,
-                            "website":false,
-                            "audios":false
-                        }
-                    }
+
                 ]
             }
         ],
@@ -465,7 +435,7 @@
     {
         "id":"jpp3",
         "name":"Jackbox Party Pack 3",
-        "description":"Le troisième party pack de Jackbox",
+        "description":"Третій комплект із серії Jackbox Party Pack",
 	"launchers_id":{
 	    "steam":"434170",
 	    "epic":"Orchid"
@@ -490,12 +460,12 @@
                         "min":3,
                         "max":6
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 хвилин",
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
-                    "tagline":"Trouvez le faker",
-                    "small_description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
-                    "description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
+                    "translation":"COMMUNITY_TRANSLATED",
+                    "tagline":"Знайдіть дурисвіта",
+                    "small_description":"Усі дають відповідь, але не усі знають питання. Одному з ваших друзів є що приховувати. Знайди дурисвіта, поки не пізно!",
+                    "description":"**Fakin' It** — гра призначена для 3–6 гравців і є локальною багатокористувацькою грою, де кожен гравець має власний підключений пристрій. У кожному раунді випадковим чином обирається один гравець, який буде дурисвітом *(англ. Faker)*, і всі гравці, окрім дурисвіта, отримують інструкції, які передбачають певний тип фізичної дії, як-от підняття руки чи показ виразу обличчя. Дурисвіт не отримує цієї інформації, а замість цього він повинен з'ясувати в інших гравців, що робити. Потім кожен гравець намагається вгадати, ким був дурисвіт. Раунд закінчується, якщо дурисвіта правильно вгадають усі інші гравці. Або ж дурисвіта не викрито, після чого нараховуються бали, якщо хоча б один гравець правильно вгадає дурисвіта, усі вгадують правильно та/або якщо дурисвіт уникає захоплення в кожному завданні з відведеної кількості (3 для 4–6 гравців, 2 для 3 гравців). Після першого раунду гравці можуть вибрати будь-яку дію, яка їм подобається. Останнім раундом завжди є «Надіслати вам текстове повідомлення», де кожен гравець відповідає на кілька відкритих запитань, а дурисвіту даються різні запитання, відповіді на які можуть збігатися з запитаннями, заданими гравцям. (Наприклад, інших гравців можна запитати про позитивну рису в них самих, тоді як дурисвіта запитають, які риси вони б шукали в компаньйоні). Перемагає гравець, який набрав найбільшу кількість очок.",
                     "images":[
 						"game_images/FakinIt/fakinit_1.webp",
                         "game_images/FakinIt/fakinit_2.webp",
@@ -513,7 +483,7 @@
                     "version":"1.0.0"
                 },
                 "patchs":[
-                    
+				
                 ]
             },
             {
@@ -526,12 +496,12 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"15 minutes",
+                    "length":"Близько 15 хвилин",
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
-                    "tagline":"Soyez le plus drôle",
-                    "small_description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
-                    "description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
+                    "translation":"COMMUNITY_TRANSLATED",
+                    "tagline":"Будьте найкумеднішими!",
+                    "small_description":"Гра «Скажи що завгодно» повертається. Придумайте «погану заміну зубній нитці» та виграйте!",
+                    "description":"**Quiplash 2** — гра розрахована на 3–8 гравців. Порівняно зі своїм попередником, у **Quiplash 2** представлені нові підказки, можливість для гравця-хоста створювати нові підказки, можливість для хоста цензурувати гравців, функція «застереження щодо безпеки», яка включає можливість для гравця написати дотеп для них і нові раунди «Last Lash», які вимагають від гравців придумати значення заданої абревіатури, завершити підпис у коміксі або придумати щось розумне, використовуючи задане слово в підказці. На відміну від фінального раунду попередньої гри, тут кількість очок визначають медалі, які розподіляються між гравцями.",
                     "images":[
 						"game_images/Quiplash2/quiplash2_1.webp",
                         "game_images/Quiplash2/quiplash2_2.webp",
@@ -561,12 +531,12 @@
                         "min":1,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 хвилин",
                     "type":"VERSUS",
                     "translation":"ENGLISH",
-                    "tagline":"Survivrez-vous à ce quiz ?",
-                    "small_description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
-                    "description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
+                    "tagline":"Чи витримаєш ти цю вікторину?",
+                    "small_description":"Будьте останнім, хто виживе в абсурдній вікторині серійного вбивці. Але ж це весело!",
+                    "description":"**Trivia Murder Party** — гра розрахована на 1–8 гравців і має жартівливу тему трилера жахів (подібно до франшизи Пила). У кожному раунді міститься запитання вікторини з кількома варіантами відповіді, при цьому гравці заробляють гроші за правильну відповідь, а потім відбувається мінігра «поверх смерти» *(англ. Killing Floor)*, якщо будь-який «живий» гравець неправильно відповів на запитання. Мінігра може коштувати життя одному чи кільком гравцям, які потім продовжать гру як привиди. Фінал починається, коли в живих залишається лише один гравець, і тепер усі гравці намагаються втекти вздовж темного коридору: кожне запитання містить три можливі відповіді на категорію, і кожен гравець визначає, які відповіді належать до нього. Гравець, який вцілів, бачить лише дві відповіді, що дає гравцям, що відстають, можливість взяти лідерство та втекти першими. Після дев'яти запитань проводиться жеребкування мінігри програшного колеса, якщо до фіналу залишилося більше одного живого гравця. Якщо лише один гравець залишається живим після того, як усі інші гравці померли за 5 або менше запитань, гравець повинен пережити ще два раунди, щоб дійти до фіналу. Але якщо останній гравець помре після того, як не вижив у мінігрі, гра закінчується для всіх.",
                     "images":[
 						"game_images/TriviaMurderParty/triviamurderparty_1.webp",
                         "game_images/TriviaMurderParty/triviamurderparty_2.webp",
@@ -596,12 +566,12 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 хвилин",
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
-                    "tagline":"Créez vos meilleurs tee-shirts !",
-                    "small_description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
-                    "description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
+                    "translation":"COMMUNITY_DUBBED",
+                    "tagline":"Створіть свої найкращі футболки!",
+                    "small_description":"Малюйте малюнки, пишіть слогани, а потім міняйте їх місцями, щоб створити власну футболку для воїнів.",
+                    "description":"**Tee K.O.** — гра призначена для 3–8 гравців і є грою, яка базується на малюванні. Кожен гравець починає з малювання трьох зображень того, що забажає, хоча в грі є пропозиції, які можуть допомогти. Тоді кожен гравець має можливість ввести кілька коротких висловів або гасел. Згодом кожен гравець отримує два або більше випадкових малюнків і два або більше випадкових висловів, і він вибирає пару, яка найкраще підходить разом для футболки. Ці дизайни потім ставляться в битву за голосування сам на сам з усіма гравцями та глядачами, щоб визначити дизайн найкращої футболки та дизайн, який мав найдовшу смугу голосування. Якщо футболка отримує всі голоси, гравець, який намалював футболку, отримує «shirtality» *(укр. футболкаліті)*. Проводиться другий тур жеребкування, написання гасел, створення пар і голосування. Дизайни-переможці з кожного раунду потім змагаються один з одним, щоб визначити остаточний дизайн-переможець. Після гри гравці можуть замовити ці футболки з принтом.",
                     "images":[
 						"game_images/TeeKO/teeko_1.webp",
                         "game_images/TeeKO/teeko_2.webp",
@@ -632,12 +602,12 @@
                         "min":2,
                         "max":8
                     },
-                    "length":"10 - 15 minutes",
+                    "length":"10 - 15 хвилин",
                     "type":"VERSUS",
                     "translation":"ENGLISH",
-                    "tagline":"Trouvez le pourcentage parfait !",
-                    "small_description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
-                    "description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
+                    "tagline":"Віднайдіть ідеальний відсоток!",
+                    "small_description":"Який відсоток людей закопував щось у лісі? Закоханий в того, з ким працюють? Вгадайте правильно і виграйте!",
+                    "description":"**Guesspionage** — гра розрахована на 2–8 гравців і являє собою гру на вгадування відсотків. У перших двох раундах кожен гравець по черзі вгадує, який відсоток людей має певну якість або займається певною діяльністю, наприклад, пише текстові повідомлення за кермом. Якщо глядачів понад 5, вони опитуються перед раундом, щоб отримати ці відсотки, в іншому випадку використовуються попередні результати опитування Jackbox Games. Після того, як поточний гравець висловить припущення, інші активні гравці можуть розглянути, чи є вони вищими або нижчими за вгадане значення, у тому числі висловити думку, чи відхиляються вони більш ніж на певну суму. Очки нараховуються гравцям залежно від того, наскільки вони близькі, а іншим гравцям — залежно від вгадування «вище чи нижче». Очки також дають поточному гравцеві, який вгадав точний відсоток. У фінальному раунді дається одне запитання з 9 варіантами відповіді, і всі гравці мають вибрати три найпопулярніші відповіді, причому бали нараховуються залежно від популярності відповіді. Перемагає гравець, який набрав найбільшу кількість очок.",
                     "images":[
 						"game_images/Guesspionage/guesspionage_1.webp",
                         "game_images/Guesspionage/guesspionage_2.webp",
@@ -664,7 +634,7 @@
     {
         "id":"jpp4",
         "name":"Jackbox Party Pack 4",
-        "description":"Le quatrième party pack de Jackbox",
+        "description":"Четвертий комплект із серії Jackbox Party Pack",
 	"launchers_id":{
 	    "steam":"610180",
 	    "epic":"Snowdrop"
@@ -682,8 +652,6 @@
             {
                 "id":"survivetheinternet",
                 "name":"Survive The Internet",
-                "small_description":"Allez-vous survivre à Internet",
-                "description":"Allez-vous survivre à Internet",
                 "background":"game_backgrounds/SurviveTheInternet.webp",
                 "path":"games/SurviveTheInternet",
                 "game_info":{
@@ -691,12 +659,12 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"Environ 20 minutes",
+                    "length":"Близько 20 хвилин",
                     "type":"VERSUS",
                     "translation":"ENGLISH",
-                    "tagline":"Survivrez-vous à Internet",
-                    "small_description":"Internet. Le monde des chats, des trolls et des memes. Mais le plus important dans ce monde c'est les personnes sortant vos mots en dehors de son contexte. Saurez-vous masteriser cet art et gagner des points ?",
-                    "description":"# Le doux monde d'internet\n\nDans ce jeu vous allez devoir répondre à une question simple qui sera ensuite envoyé à un autre joueur. Son but ? Sortir votre phrase hors de son contexte pour que ce soit le plus improbable / drôle possible. Peut-être votre phrase sera présentée en tant que commentaire d'une vidéo, d'une recommandation d'une personne connue ou encore un commentaire d'un produit ménager ? ",
+                    "tagline":"Чи виживете ви в інтернеті?",
+                    "small_description":"Увійдіть і пристебніть ремені! Грайливо виривайте своїх друзів з контексту у всесвітній павутині.",
+                    "description":"**Survive the Internet** — гра розрахована на 3–8 гравців і являє собою гру зі створеним користувачами вмістом, дія якої відбувається у вигаданій версії інтернету. У перших трьох раундах гравці отримують запитання, у якому висловлюється їх думка щодо теми. Їхня відповідь виривається з контексту та надсилається іншому гравцеві, якому потім кажуть визначити, на що була відповідь, ніби вони були на певному сайті, такому як соціальні мережі, форуми, вакансії та новини, намагаючись якнайгірше перекрутити відповідь. Потім усім гравцям і глядачам пропонуються пари оригінальних відповідей і вгаданої теми, і вони голосують за найсмішнішу пару. Кожен голос приносить велику кількість очок другому гравцеві, який перекрутив відповідь, і меншу кількість очок першому гравцеві, який дав відповідь. Якщо пара відповідей і вгадана тема набирають найбільшу кількість голосів, другий гравець, який перекрутив відповідь, отримує «найкращу просмажку» *(англ. best burn)* і більшу кількість бонусних балів, а перший гравець, який дав відповідь, отримує «найбільшу жертву» (англ. ultimate sacrifice) і меншу кількість бонусних балів. Останнім раундом завжди є «сайт для обміну фотографіями», де гравцям дають запитання з двома варіантами, а фотографія на основі вибраного ними вибору надсилається іншому гравцеві, який має прокоментувати це. Перемагає гравець, який набрав найбільшу кількість балів, «переживши інтернет».",
                     "images":[
 			"game_images/SurviveTheInternet/survivetheinternet_1.webp",
                         "game_images/SurviveTheInternet/survivetheinternet_2.webp",
@@ -713,30 +681,12 @@
                     "version":"1.0.0"
                 },
                 "patchs":[
-                    {
-                        "id":"survivetheinternet_fr",
-                        "name":"Survive The Internet FR",
-                        "small_description":"Traduisez votre jeu en Français !",
-                        "description":"Ce patch transforme votre jeu en français !",
-                        "authors":"CubicOtter",
-                        "version":"",
-                        "path":"games/SurviveTheInternet",
-                        "patch_path":"patchs/survivetheinternet_1.0.0.zip",
-                        "patch_type":{
-                            "game_text":true,
-                            "game_assets":false,
-                            "game_subtitles":false,
-                            "website":false,
-                            "audios":false
-                        }
-                    }
+				
                 ]
             },
             {
                 "id":"monsterseekingmonster",
                 "name":"Monster Seeking Monster",
-                "small_description":"Mêmes les monstres ont le droit à l'amour",
-                "description":"Mêmes les monstres ont le droit à l'amour",
                 "background":"game_backgrounds/MonsterSeekingMonster.webp",
                 "path":"games/MonsterMingle",
                 "game_info":{
@@ -744,12 +694,12 @@
                         "min":3,
                         "max":7
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 хвилин",
                     "type":"VERSUS",
-                    "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Même les monstres ont le droit à l'amour",
-                    "small_description":"Vous êtes désespérément à la recherche de l'amour. Je sais c'est compliqué en tant que monstre. Monster seeking monster peut vous aider à remédier à ça en vous laissant participer à une séance de rendez-vous amoureux avec tous les monstres aux alentours !",
-                    "description":"# But du jeu\n\nPour remporter Monster Seeking Monster, il faut **discuter par écrit avec les autres joueurs afin d'organiser un rendez-vous** avec l'un d'entre eux.\n\n# Déroulement d'une partie\n\nLe jeu se joue en 6 nuits, chacune étant composée de deux phases :\n- La phase de discussion écrite\n- La phase de rencontre\n\n*Bon à savoir : La moitié des nuits (soit 3) sont des **nuits de pleine lune**. Pour certains monstres, elle s'avèrent **capitales***.\n\n# Déroulement d'une manche\n\nChaque nuit commence par la phase de drague. Tous les joueurs disposeront d'un temps limité pour pour s'envoyer **jusqu'à 4 messages** afin d'organiser leurs rendez-vous. Une fois le temps imparti écoulé, ils devront choisir le joueur avec lequel sortir.\n\nLa phase des résultats débute alors. Un à un, les joueurs ainsi que l'élu de leur coeur seront affichés. Deux résultats sont alors possibles :\n- Deux joueurs se choisissent mutuellement : c'est un match. **Un coeur est remporté par chacun**.\n- L'un des joueurs n'a pas choisi celui qui l'a choisi : c'est un gros râteau. **Le joueur ayant été rejeté ne gagne aucun coeur**.\n\n *A partir de la nuit 3, le rôle du joueur classé en première position est révélé. Il en sera ainsi pour toutes les nuits restantes.*\n\nLa nuit se termine et la suivante débute. Le procédé se répète jusqu'à la nuit 6 où sont annoncés les résultats et les rôles des derniers joueurs.",
+                    "translation":"ENGLISH",
+                    "tagline":"Навіть монстри мають право на любов!",
+                    "small_description":"Гра на тему побачень, де ти надсилаєш кумедні повідомлення і намагаєшся приховати свої таємні монструозні здібності. Як на справжніх побаченнях!",
+                    "description":"**Monster Seeking Monster** — гра розрахована на 3–7 гравців і має тему жахів, де кожен гравець є замаскованим монстром, який намагається піти на побачення з іншими гравцями. У кожному з шести раундів гравці починають з надсилання до чотирьох повідомлень іншим гравцям. Неігровий монстр, робот, якщо глядачів вимкнено для ігор для 3–4 гравців, генерує повідомлення одразу після того, як гравець надішле йому текстове повідомлення. Глядачі, якщо вони беруть участь, використовують підказки у стилі mad lib для вибору фраз. Після цього кожен гравець вибирає ще одного гравця, з яким би зустрічався на основі цих відповідей. Якщо два гравці вибирають один одного, вони обидва отримують серце. Також враховуються додаткові бонуси та ефекти завдяки прихованій силі монстра. Відмова трапляється, коли два гравці вибирають інших гравців замість один одного, або якщо один або кілька гравців не вибирають нікого (вони також втрачають серце, якщо не вибирають жодного гравця на зустріч). Від кінця другого раунду форма монстра провідного гравця, чия форма монстра ще невідома, відкривається всім. Перемагає гравець із найбільшою кількістю сердець у кінці, якщо не виконано інших спеціальних умов щодо монстра гравця.",
                     "images":[
 			"game_images/MonsterSeekingMonster/monsterseekingmonster_1.webp",
                         "game_images/MonsterSeekingMonster/monsterseekingmonster_2.webp",
@@ -766,30 +716,12 @@
                     "version":"1.0.0"
                 },
                 "patchs":[
-                    {
-                        "id":"monsterseekingmonster_fr",
-                        "name":"Monster Seeking Monster FR",
-                        "small_description":"Traduisez votre jeu en Français !",
-                        "description":"Ce patch traduit votre jeu en français !",
-                        "authors":"Fizzrocks et Alexis",
-                        "version":"1.0.0_credits",
-                        "path":"games/MonsterMingle",
-                        "patch_path":"patchs/monsterseekingmonster_1.0.0.zip",
-                        "patch_type":{
-                            "game_text":true,
-                            "game_assets":true,
-                            "game_subtitles":false,
-                            "website":true,
-                            "audios":false
-                        }
-                    }
+				
                 ]
             },
             {
                 "id":"bracketeering",
                 "name":"Bracketeering",
-                "small_description":"Participez au tournoi interstellaire",
-                "description":"Participez au tournoi interstellaire",
                 "background":"game_backgrounds/Bracketeering.webp",
                 "path":"games/Bracketeering",
                 "game_info":{
@@ -797,12 +729,12 @@
                         "min":3,
                         "max":16
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 хвилин",
                     "type":"VERSUS",
-                    "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Participez au tournoi interstellaire",
-                    "small_description":"Vous êtes invité à un tournoi ravagé ou vous allez devoir répondre aux questions les plus importantes de la vie ! Arriverez-vous à terminer premier de ce tournoi intergalactique ?",
-                    "description":"# C'est l'heure du tournoi !\n\nVous allez recevoir une question, et allez devoir y répondre. Votre réponse sera ensuite face aux autres et c'est seulement ensuite que nous saurons qui sera le grand vainqueur.\n\nVous êtes pas très bon ? Alors faites des prédictions et recevez de l'argent en fonction de votre performance !",
+                    "translation":"ENGLISH",
+                    "tagline":"Візьміть участь у міжзоряному турнірі!",
+                    "small_description":"Турнір божевільних дебатів! Робіть розумні ставки на те, що переможе в безглуздих суперечках.",
+                    "description":"**Bracketeering** — гра розрахована на 3–16 гравців і є грою в стилі турніру для шістнадцяти гравців, у яку грають у три раунди. У першому раунді гравцям пропонується подати найкращі або найсмішніші відповіді, які вони можуть. (Кількість відповідей: 2 для 3–4 гравців і 1 для 5–16 гравців). Ці відповіді випадковим чином розміщуються в турнірній сітці (8 для 3–8 гравців і 16 для 9–16 гравців). Потім гравцям дають один із матчів у турнірі та передбачають, яка відповідь виграє цей матч. Згодом кожен матч представляється всім гравцям і глядачам. Перемагає відповідь, яка набере найбільший відсоток голосів, причому відсоток, на який вона виграє, визначає те, скільки грошей у грі отримають ті гравці, які правильно вгадали результати матчу. Якщо дві, три чи чотири відповіді мають однакову кількість голосів, усі гравці мають натиснути на свій пристрій якнайшвидше, щоб підтримати свою відповідь. Наступні матчі використовують ці найкращі відповіді. Після фінального матчу гравець, який дав виграшну відповідь, отримує додатковий грошовий бонус. Другий раунд — це «сліпа група» *(англ. blind bracket)*, де гравцям надається підказка, але групи базуються на іншій, пов'язаній підказці, яка використовує ці відповіді. Останній раунд — це «потрійна сліпа група», де змінюється підказка на кожному рівні групи. Перемагає гравець, який зібрав найбільше грошей.",
                     "images":[
 			"game_images/Bracketeering/bracketeering_1.webp",
                         "game_images/Bracketeering/bracketeering_2.webp",
@@ -819,22 +751,7 @@
                     "version":"1.0.0"
                 },
                 "patchs":[
-                    {
-                        "id":"bracketeering_fr",
-                        "name":"Bracketeering",
-                        "small_description":"Traduisez votre jeu en Français !",
-                        "description":"Ce patch traduit votre jeu en français !",
-                        "authors":"the_sign_painter",
-                        "version":"1.0.1_credits",
-                        "patch_path":"patchs/bracketeering_1.0.1.zip",
-                        "patch_type":{
-                            "game_text":true,
-                            "game_assets":true,
-                            "game_subtitles":false,
-                            "website":true,
-                            "audios":false
-                        }
-                    }
+				
                 ]
             },
             {
@@ -847,12 +764,12 @@
                         "min":2,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 хвилин",
                     "type":"VERSUS",
                     "translation":"ENGLISH",
-                    "tagline":"Soyez le meilleur menteur",
-                    "small_description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
-                    "description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
+                    "tagline":"Будьте найкращим брехуном!",
+                    "small_description":"Пройдіть свій шлях через нові типи запитань та новий ігровий режим Fibbage: Enough About You. Вгадуйте дивні факти про інших гравців!",
+                    "description":"**Fibbage 3** — гра розрахована на 2–8 гравців і є третьою грою в серії **Fibbage**. Гра включає нову взаємодію з аудиторією, дозволяючи їм додавати власну брехню до вибору та нові факти «Final Fibbage» із двома відсутніми словами чи фразами замість одного. Вона має новий окремий ігровий режим під назвою **Fibbage: Enough About You**, призначений для 3-8 гравців і замінює традиційні запитання гри запитаннями, що стосуються гравців. У першому раунді цього режиму гравці починають писати правду про себе, а потім інші гравці повинні написати неправду, а потім знайти правду про одного з гравців. Гравець, який написав правду про себе, отримує бали за кожного іншого гравця, який вгадав її правильно. У фінальному раунді цього режиму всі гравці мають написати правду та неправду про себе, а потім інші гравці мають знайти правдиве твердження про гравця.",
                     "images":[
 			"game_images/Fibbage3/fibbage3_1.webp",
                         "game_images/Fibbage3/fibbage3_2.webp",
@@ -883,12 +800,12 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"Environ 20 minutes",
+                    "length":"Близько 20 хвилин",
                     "type":"VERSUS",
                     "translation":"ENGLISH",
-                    "tagline":"Combinez vos dessins",
-                    "small_description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
-                    "description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
+                    "tagline":"Поєднуйте свої дизайни!",
+                    "small_description":"Змагайтеся, щоб побачити, хто зробить найкращі доповнення у вашій спробі «прикрасити» місто.",
+                    "description":"**Civic Doodle** — гра призначена для 3–8 гравців і є художньою грою, схожою на Drawful і Bidiots, у якій двоє гравців одночасно малюють один і той самий твір мистецтва. У перших двох раундах двом випадково вибраним гравцям надається початок дудла, і вони мають короткий час, щоб намалювати його; це робиться в режимі реального часу, дозволяючи іншим гравцям і глядачам надавати відгук про будь-який малюнок у формі попередньо вибраних емоджі. Після завершення таймера гравці та глядачі голосують за те, який малюнок кращий, при цьому очки нараховуються обом гравцям залежно від кількості голосів, які вони отримали, а також додатковий бонус у балах на основі голосів за емоджі. Згодом ще два гравці домальовують картинку, за яку проголосували найбільше. Після кількох матчів, залежно від кількості гравців у грі, не враховуючи глядачів, гравці мають запропонувати назву для зображення, за яке проголосували найбільше. Після цього гравці та глядачі голосують за свою улюблену назву. У фінальному раунді всім гравцям дають назву та початок дудла, і вони повинні намалювати елементи, які вимагає гра. Перемагає гравець, який набрав найбільшу кількість очок. Після гри гравці можуть розіграти безплатну гру або замовити сувеніри.",
                     "images":[
 			"game_images/CivicDoodle/civicdoodle_1.webp",
                         "game_images/CivicDoodle/civicdoodle_2.webp",
@@ -915,7 +832,7 @@
     {
         "id":"jpp5",
         "name":"Jackbox Party Pack 5",
-        "description":"Le cinquième party pack de Jackbox",
+        "description":"П'ятий комплект із серії Jackbox Party Pack",
         "executables":{
             "windows":"The Jackbox Party Pack 5.exe",
             "mac":"The Jackbox Party Pack 5.app/Contents/MacOS/The Jackbox Party Pack 5",
@@ -932,7 +849,7 @@
         "games":[
         	{
                 "id":"ydkj_fullstream",
-                "name":"YDKJ : full stream",
+                "name":"YDKJ: Full Stream",
                 "background":"game_backgrounds/YDKJFullStream.webp",
                 "path":"games/YDKJ2018",
                 "game_info":{
@@ -940,12 +857,12 @@
                         "min":1,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 хвилин",
                     "type":"VERSUS",
                     "translation":"ENGLISH",
-                    "tagline":"Le quiz revient une nouvelle fois",
-                    "small_description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
-                    "description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
+                    "tagline":"Вікторина повертається знову!",
+                    "small_description":"YDKJ: Full Stream приносить класичу нешанобливу вікторину у дико популярний і повністю вигаданий стрімінговий сервіс Binjpipe!",
+                    "description":"**You Don't Know Jack: Full Stream** — гра призначена для 1–8 гравців і є найновішою ітерацією франшизи **You Don't Know Jack**. Гру оновили та додали такі ж функції, як і у більшості інших ігор Party Pack, включно з підтримкою до восьми гравців і глядацької зали. Оскільки тепер у грі як контролери можна використовувати що мобільні пристрої, то і комп'ютери, повернулися текстові запитання, як-от «брехливе питання» *(англ. Gibberish Question)*, з'являються нові та класичні типи запитань.",
                     "images":[
 						"game_images/YDKJFullStream/ydkjfullstream_1.webp",
                         "game_images/YDKJFullStream/ydkjfullstream_2.webp",
@@ -975,12 +892,12 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 хвилин",
                     "type":"VERSUS",
                     "translation":"ENGLISH",
-                    "tagline":"C'est l'heure du rap",
-                    "small_description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
-                    "description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
+                    "tagline":"Час читати реп!",
+                    "small_description":"Реп-батл з роботами! Випускайте божевільні рими проти своїх друзів, щоб дізнатися, хто найкрутіший МС, а хто найбожевільніший кіт.",
+                    "description":"**Mad Verse City** — гра розрахована на 3–8 гравців, і тут гравці використовують гігантських роботів, щоб перемогти суперників у реп-батлі. У кожному раунді гравцям кажуть, кого вони намагаються перевершити, і вони використовують свій пристрій, щоб заповнити різні підказки, які їм надаються. Коли один гравець закінчить «читати реп», він може вибрати будь-яку дію на своєму пристрої. Потім гра читає кожен реп за допомогою синтезу мовлення, і коли два гравці змагаються в репі, інші гравці мають вибрати реп, який вони вважають найкращим. Гроші в грі нараховуються за відсоток голосів між двома гравцями, і можливий грошовий бонус «чайові» *(англ. cheer)* надається, якщо вони наберуть усі голоси. Перемагає гравець, який набрав найбільше грошей.",
                     "images":[
 						"game_images/MadVerseCity/madversecity_1.webp",
                         "game_images/MadVerseCity/madversecity_2.webp",
@@ -1010,12 +927,12 @@
                         "min":1,
                         "max":6
                     },
-                    "length":"10 minutes ou plus",
+                    "length":"10 хвилин та більше",
                     "type":"COOP",
                     "translation":"ENGLISH",
-                    "tagline":"Envolez vous pour vous battre",
-                    "small_description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
-                    "description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
+                    "tagline":"Залетіть на битву!",
+                    "small_description":"Найсмертоносніше ігрове шоу галактики! Кидайся та вигравай казкові призи!!!",
+                    "description":"**Zeeple Dome** — гра розрахована на 1–6 гравців. Гравці змагаються на бойовій арені прибульців, Zeeple Dome, щоб знищити прибульців. Гра заснована на фізиці, і гравці кидають своїх персонажів через рівні гри, працюючи разом, щоб перемогти ворогів і отримати бонуси для своєї команди. Коли кожного ворога переможено, за рівні нараховуються гроші.",
                     "images":[
 						"game_images/ZeepleDome/zeepledome_1.webp",
                         "game_images/ZeepleDome/zeepledome_2.webp",
@@ -1045,14 +962,14 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"15 minutes",
+                    "length":"15 хвилин",
                     "type":"VERSUS",
-                    "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Créez vos meilleurs dilemmes",
-                    "small_description":"Vous allez devoir créer les meilleurs dillemmes possible. Le but du jeu ? Splitez vos amis le plus possible sur une question simple (et délirante)",
-                    "description":"# Bienvenue dans un monde où les dimensions s'entremêlent\n\nMayonnaise vous attend. Vous allez devoir créer des dilemmes pour séparer le plus de personnes. Plus le split est grand, plus vous gagnez des points ! Soyez stratégiques, connaissez vos adversaires et créez les plus grands dilemmes que le monde n'aient jamais connus.",
+                    "translation":"ENGLISH",
+                    "tagline":"Створюйте свої найкращі дилеми!",
+                    "small_description":"Гра «що, якби?», де все можливо! Створюйте дивні та суперечливі гіпотетичні ситуації.",
+                    "description":"**Split the Room** — сценарна гра для 3–8 гравців. У перших двох раундах гравцям пропонується гіпотетичне рішення з пропозицією заповнення пропусків. Потім гравці намагаються заповнити пропуск таким чином, щоб, коли запитання буде представлено іншим гравцям, відповіді «так» чи «ні» «ділили кімнату», причому за рівний розподіл відповідей гравцям дається більша кількість балів. Останній раунд, який завжди є «вирішальним виміром» *(англ. Decisive Dimension)*, дає підказки з двома варіантами, де перший уже внесено. Гравці дають другу відповідь, а всі інші обирають варіант. Перемагає гравець, який набрав найбільшу кількість очок.",
                     "images":[
-			"game_images/SplitTheRoom/splittheroom_1.webp",
+						"game_images/SplitTheRoom/splittheroom_1.webp",
                         "game_images/SplitTheRoom/splittheroom_2.webp",
                         "game_images/SplitTheRoom/splittheroom_3.webp",
                         "game_images/SplitTheRoom/splittheroom_4.webp"
@@ -1067,29 +984,12 @@
                     "version":"1.0.0"
                 },
                 "patchs":[
-                    {
-                        "id":"splittheroom_fr",
-                        "name":"[PREVIEW] Split The Room",
-                        "small_description":"[PREVIEW] Traduction du jeu en Français",
-                        "description":"Le patch complet arrive bientôt. Vous pouvez toujours télécharger la preview mais gardez à l'esprit que la traduction n'est pas terminée. Avec cette preview, le jeu est traduit en français, mais il peut y avoir des fautes. N'hésitez pas à prévenir MisterShaokahn#0765 si il y a des problèmes de traduction",
-                        "version":"0.1.1_credits",
-                        "authors":"MisterShaokahn#0765",
-                        "patch_path":"patchs/splittheroom_0.1.1.zip",
-                        "patch_type":{
-                            "game_text":true,
-                            "game_assets":false,
-                            "game_subtitles":false,
-                            "website":false,
-                            "audios":false
-                        }
-                    }
+				
                 ]
             },
             {
                 "id":"patentlystupid",
                 "name":"Patently Stupid",
-                "small_description":"Vendez vos inventions",
-                "description":"Vendez vos inventions",
                 "background":"game_backgrounds/PatentlyStupid.webp",
                 "path":"games/PatentlyStupid",
                 "game_info":{
@@ -1097,14 +997,14 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"20 minutes",
+                    "length":"20 хвилин",
                     "type":"VERSUS",
-                    "translation":"COMMUNITY_TRANSLATTED",
-                    "tagline":"Crééz vos propres inventions !",
-                    "small_description":"Le monde va mal et les problèmes pleuvent. Arriverez-vous à créer l'invention qui résoudra tout. Et surtout, arriverez-vous à la vendre au plus de personnes dans la salle ?",
-                    "description":"# C'est l'heure du meeting\n\nVous êtes invité au plus grand meeting d'ingénieur que le monde ait connu. Le monde a des problèmes et vous allez devoir les résoudre avec une invention que vous allez dessiner, nommer et présenter. Si vous êtes bon, vous gagnerez de l'argent.\n\nVous n'avez pas géré lors du premier tour ? Alors rattrapez vous avec le second en créant un objet répondant aux mêmes problèmes que vos compères !",
+                    "translation":"ENGLISH",
+                    "tagline":"Створюйте власні винаходи!",
+                    "small_description":"Винахідлива малювальна гра, де ви вирішуєте химерні завдання! Пропонуйте свої ідеї, щоб заробити гроші!",
+                    "description":"**Patently Stupid** — гра розрахована на 3–8 гравців і являє собою гру розв'язання проблем, винахідництва та фінансування. У першому турі гравці індивідуально записують задачі, які необхідно вирішити. Вони випадковим чином розподіляються між гравцями, які потім мають можливість намалювати та назвати винахід для розв'язання цієї проблеми. Потім гравці можуть представити свій винахід іншим гравцям (використовуючи власний голос або дозволивши презентацію грі). Потім інші гравці використовують ігрові гроші для фінансування винаходу. Винаходи, які перевищують мінімальне фінансування, дають винахіднику бонус. У фінальному раунді один гравець повинен вибрати задачу, яку мають вирішити всі гравці. Перемагає гравець, який набрав найбільше грошей.",
                     "images":[
-			"game_images/PatentlyStupid/patentlystupid_1.webp",
+						"game_images/PatentlyStupid/patentlystupid_1.webp",
                         "game_images/PatentlyStupid/patentlystupid_2.webp",
                         "game_images/PatentlyStupid/patentlystupid_3.webp",
                         "game_images/PatentlyStupid/patentlystupid_4.webp"
@@ -1120,22 +1020,7 @@
                     "version":"1.0.0"
                 },
                 "patchs":[
-                    {
-                        "id":"patentlystupid_fr",
-                        "name":"Patently Stupid FR",
-                        "small_description":"Traduction du jeu en Français",
-                        "description":"Ce patch traduit votre jeu en français !",
-                        "version":"1.0.0_credits",
-                        "authors":"Alexis",
-                        "patch_path":"patchs/patentlystupid_1.0.0.zip",
-                        "patch_type":{
-                            "game_text":true,
-                            "game_assets":false,
-                            "game_subtitles":false,
-                            "website":false,
-                            "audios":false
-                        }
-                    }
+				
                 ]
             }
         ],
@@ -1145,7 +1030,7 @@
     {
         "id":"jpp6",
         "name":"Jackbox Party Pack 6",
-        "description":"Le sixième party pack de Jackbox",
+        "description":"Шостий комплект із серії Jackbox Party Pack",
         "executables":{
             "windows":"The Jackbox Party Pack 6.exe",
             "mac":"The Jackbox Party Pack 6.app/Contents/MacOS/The Jackbox Party Pack 6",
@@ -1170,12 +1055,12 @@
                         "min":1,
                         "max":8
                     },
-                    "length":"15 - 25 minutes",
+                    "length":"15 - 25 хвилин",
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
-                    "tagline":"Survivrez-vous à ce quiz ?",
-                    "small_description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
-                    "description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
+                    "translation":"COMMUNITY_TRANSLATED",
+                    "tagline":"Чи виживете ви в цій вікторині?",
+                    "small_description":"Серійний вбивця влаштовує абсурдну гру у сімейному Вбивчому готелі, де він виріс. Чи зможете ви вижити?",
+                    "description":"**Trivia Murder Party 2** — гра для 1–8 гравців. Це продовження **Trivia Murder Party** і має подібний формат, події відбуваються в готелі. Окрім нових запитань, він містить нові мініігри «поверху смерти» (зокрема Quiplash), спеціальні предмети, які можуть допомогти або завадити здатності гравців вижити, а також бар'єр на виході з фіналу, де гравці мають правильно відповісти на запитання, перш ніж вони можуть втекти (провідний гравець тепер бачить третю відповідь на бар'єрі). Крім того, глядачі також є гравцем, тоді як у першій Trivia Murder Party вони були окремою сутністю.",
                     "images":[
 						"game_images/TriviaMurderParty2/triviamurderparty2_1.webp",
                         "game_images/TriviaMurderParty2/triviamurderparty2_2.webp",
@@ -1205,12 +1090,12 @@
                         "min":3,
                         "max":6
                     },
-                    "length":"15 minutes",
+                    "length":"15 хвилин",
                     "type":"VERSUS",
                     "translation":"ENGLISH",
-                    "tagline":"Qui est qui ?",
-                    "small_description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
-                    "description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
+                    "tagline":"Хто є хто?",
+                    "small_description":"Кожен є кимось, а хто ти? Планувальник? Пластівці? Нахаба? Зайди у лабораторію і дізнайся.",
+                    "description":"**Role Models** — гра для 3–6 гравців. Гравці спочатку голосують за одну з п'яти категорій, а потім намагаються підібрати інших гравців (включаючи себе) до одного з предметів цієї категорії. Бали нараховуються між гравцями, якщо будь-який з їхніх матчів є фаворитом більшості в групі, і додаткові очки можна виграти, якщо гравець позначив свою відповідь як «впевнений на 99%» і була правильною. Якщо два або більше суб'єктів є рівними або одному гравцеві інші не призначили роль, гравці проведуть експеримент у грі. Перемагає гравець, який набрав найбільшу кількість очок.",
                     "images":[
 						"game_images/RoleModels/rolemodels_1.webp",
                         "game_images/RoleModels/rolemodels_2.webp",
@@ -1240,14 +1125,14 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"15 - 25 minutes",
+                    "length":"15 - 25 хвилин",
                     "type":"VERSUS",
-                    "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Venez faire rire vos amis",
-                    "small_description":"Vous êtes les comédiens ? Génial, vous allez pouvoi faire rire tous nos convives dans Joke Boat",
-                    "description":"# Bienvenue à bord !\n\nVous êtes accepté en tant que comédien dans le Joke Boat, un bateau connu pour... ses blagues ? En tout cas, votrre but est de recevoir le plus d'argent des passagers en vous démarquant de votre adversaire. Comment faire ? En créant vos meilleures blagues bien sûr !",
+                    "translation":"ENGLISH",
+                    "tagline":"Прийдіть та розсмішіть своїх друзів!",
+                    "small_description":"Ахой! Ви - комік-аматор на четвертосортному круїзному лайнері. Чи є у вас жарт для перемоги в шоу талантів?",
+                    "description":"**Joke Boat** — гра розрахована на 3–8 гравців, у ньому гравці жартують на основі вибраного списку слів, видуманих гравцями на початку гри. Під час перших двох раундів жартів гравцям надається початок підказки жарту з пропущеним словом, яке вони вибирають із випадкового вибору слів для мозкового штурму. Потім вони закінчують жарт. Після цього гравці можуть розказати свій жарт (або використовуючи власний голос, або дозволивши це грі), по двоє одночасно. Потім інші гравці та глядачі голосують за кращого з двох. Очки нараховуються за кількість голосів між двома гравцями, і можливий бонус «розбив його» *(англ. crushed it)* нараховується, якщо один гравець забирає усі голоси. У фінальному раунді гравці беруть за основу наявний жарт і намагаються переписати його краще. Перемагає гравець, який набрав найбільшу кількість очок.",
                     "images":[
-			"game_images/JokeBoat/jokeboat_1.webp",
+						"game_images/JokeBoat/jokeboat_1.webp",
                         "game_images/JokeBoat/jokeboat_2.webp",
                         "game_images/JokeBoat/jokeboat_3.webp",
                         "game_images/JokeBoat/jokeboat_4.webp"
@@ -1262,22 +1147,7 @@
                     "version":"1.0.0"
                 },
                 "patchs":[
-                    {
-                        "id":"jokeboat_fr",
-                        "name":"Joke Boat FR",
-                        "small_description":"Traduisez votre jeu en Français !",
-                        "description":"Ce patch traduit votre jeu en français !",
-                        "authors":"CubicOtter",
-                        "version":"1.0.0_credits",
-                        "patch_path":"patchs/jokeboat_1.0.0.zip",
-                        "patch_type":{
-                            "game_text":true,
-                            "game_assets":false,
-                            "game_subtitles":false,
-                            "website":false,
-                            "audios":false
-                        }
-                    }
+				
                 ]
             },
             {
@@ -1290,14 +1160,14 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"10 minutes",
+                    "length":"10 хвилин",
                     "type":"VERSUS",
-                    "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Inventez des mots",
-                    "small_description":"Le dictionnaire est vaste mais pourquoi pas en rajouter ? A vous de créer de nouveaux mots, donner leur définition et choisir votre préféré !",
-                    "description":"# Imaginez des mots\n\nBienvenue au dictionarium, un endroit magique où vous allez devoir créer de nouveaux mots en plus de leur définition. Un concept assez simple mais qui est très ontéressant si vous avez une âme littéraire",
+                    "translation":"ENGLISH",
+                    "tagline":"Складайте слова!",
+                    "small_description":"Люди вигадували слова та фрази протягом століть. Тепер настала ваша черга зробити свій внесок у словник.",
+                    "description":"**Dictionarium** — гра розрахована на 3–8 гравців і передбачає створення фальшивого словника. Гра також може давати гравцям фальшиве слово або фальшивий сленг як підказку. Гра проводиться в три раунди. У першому раунді гравці створюють визначення та голосують за свого фаворита. Кожен голос приносить бали гравцеві, який написав визначення. У другому турі гравці створюють нове слово чи фразу як синонім, а потім голосують за те, що їм подобається. Кожен голос приносить бали гравцеві, який написав синонім. У фінальному раунді гравці створюють речення, використовуючи слово чи фразу, а потім голосують за улюблене. Кожен голос приносить бали гравцеві, що написав це речення. Перемагає гравець, який набрав найбільшу кількість очок.",
                     "images":[
-			"game_images/Dictionarium/dictionarium_1.webp",
+						"game_images/Dictionarium/dictionarium_1.webp",
                         "game_images/Dictionarium/dictionarium_2.webp",
                         "game_images/Dictionarium/dictionarium_3.webp",
                         "game_images/Dictionarium/dictionarium_4.webp"
@@ -1312,22 +1182,7 @@
                     "version":"1.0.0"
                 },
                 "patchs":[
-                    {
-                        "id":"dictionarium_fr",
-                        "name":"Dictionarium FR",
-                        "small_description":"Traduisez votre jeu en Français !",
-                        "description":"Ce patch traduit votre jeu en français !",
-                        "authors":"CubicOtter",
-                        "version":"1.0.0_credits",
-                        "patch_path":"patchs/dictionarium_1.0.0.zip",
-                        "patch_type":{
-                            "game_text":true,
-                            "game_assets":false,
-                            "game_subtitles":false,
-                            "website":false,
-                            "audios":false
-                        }
-                    }
+				
                 ]
             },
             {
@@ -1340,14 +1195,14 @@
                         "min":4,
                         "max":10
                     },
-                    "length":"Dépendant du nombre de joueurs",
+                    "length":"Залежить від к-ті гравців",
                     "type":"TEAM",
-                    "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Trouvez les aliens",
-                    "small_description":"Des aliens sont arrivés dans votre vaisseau et se cachent dans votre équipage. Trouvez les à temps avant que l'IA du vaisseau soit effacée pour survivre.",
-                    "description":"# Une intrusion a été détectée\n\nDODE, l'IA de votre vaisseau spatial, vous avertis que des perturbations anormales ont eu lieu à l'intérieur de celui-ci. Après analyse, vous découvrez que certains de vos coéquipiers sont des aliens. Mais vous ne savez pas qui !\n\nPour les découvir vous allez devoir faire des tests d'humanité à chaque joueurs dans la partie. Que ce soit avec des opinions, des dessins ou encore des mots, il y a des tonnes de manière de trouver les aliens. Mais faites vite ! Le temps tourne et si vous ne trouvez pas tous les aliens avant la fin, c'est perdu !",
+                    "translation":"ENGLISH",
+                    "tagline":"Знайдіть прибульців!",
+                    "small_description":"Небезпека! Прибульці-перевертні проникли на ваш зореліт. Чи зможете ви та ваш екіпаж знайти їх до того, як закінчиться час?",
+                    "description":"**Push The Button** — гра призначена для 4–10 гравців і відбувається на космічному кораблі, де один або кілька гравців були призначені інопланетянами, а інші гравці-люди повинні викинути прибульців до закінчення часу. У кожному раунді один гравець визначає дію на кораблі (наприклад, малювання чи написання відповіді на запитання) і обирає номер іншого екіпажу для участі. Призначені гравці-люди отримують одні підказки, а гравці-інопланетяни отримують інші, що, ймовірно, спричинить деяку плутанину. Показуються результати, і гравці мають час визначити, чи здається якась відповідь підозрілою. У пізніших раундах гравці-інопланетяни мають «гаки», які вони можуть використати, щоб отримати правильну підказку людини або натомість надіслати підказку прибульця людині. У будь-який момент до закінчення таймера один гравець може «натиснути кнопку» та вибрати іншого гравця чи навіть кількох гравців, яких він вважає інопланетянами. Потім усі інші гравці голосують, підтримують вони це чи ні. Для того, щоб гравці були викинуті, має бути прийнято одноголосне голосування. Якщо голосування провалилося, гра продовжується. Якщо голосування вдалось, гра показує, правильні чи неправильні були припущення. Гравці-інопланетяни виграють, якщо хтось із гравців проголосує проти людини або жоден із гравців не натисне кнопку до закінчення часу.",
                     "images":[
-			"game_images/PushTheButton/pushthebutton_1.webp",
+						"game_images/PushTheButton/pushthebutton_1.webp",
                         "game_images/PushTheButton/pushthebutton_2.webp",
                         "game_images/PushTheButton/pushthebutton_3.webp",
                         "game_images/PushTheButton/pushthebutton_4.webp"
@@ -1365,23 +1220,7 @@
                     "version":"1.0.0"
                 },
                 "patchs":[
-                    {
-                        "id":"pushthebutton_fr",
-                        "name":"Push The Button FR",
-                        "small_description":"Traduisez votre jeu en Français !",
-                        "description":"Ce patch traduit votre jeu en français !",
-                        "authors":"Alexis et Fizzrocks",
-                        "version":"1.0.0_credits",
-                        "path":"games/PushTheButton",
-                        "patch_path":"patchs/pushthebutton_1.0.0.zip",
-                        "patch_type":{
-                            "game_text":true,
-                            "game_assets":true,
-                            "game_subtitles":false,
-                            "website":true,
-                            "audios":false
-                        }
-                    }
+				
                 ]
             }
         ],
@@ -1391,7 +1230,7 @@
     {
         "id":"jpp7",
         "name":"Jackbox Party Pack 7",
-        "description":"Le septième party pack de Jackbox",
+        "description":"Сьомий комплект із серії Jackbox Party Pack",
         "executables":{
             "windows":"The Jackbox Party Pack 7.exe",
             "mac":"The Jackbox Party Pack 7.app/Contents/MacOS/The Jackbox Party Pack 7",
@@ -1416,14 +1255,14 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"Environ 20 minutes",
-                    "translation":"COMMUNITY_TRANSLATED",
+                    "length":"Близько 20 хвилин",
+                    "translation":"ENGLISH",
                     "type":"VERSUS",
-                    "tagline":"Faites combattre vos dessins",
-                    "small_description":"Le combat approche. Il est l'heure de créer vos meilleurs combattants pour qu'ils puissent se battre sur le ring. Arriverez-vous à sortir vainqueur ?",
-                    "description":"# A vos crayons, prêt... combattez !\n\nIl est l'heure de dessiner ! Vous allez recevoir un thème sur votre appareil. Il vous faudra créer un personnage qui répond au mieux au critère en le dessinant et en le nommant !\n\nLors du second tour, vous allez recevoir le dessin d'un autre joueur et allez devoir dessiner son rival, celui qui pourrait le battre à son propre thème.\n\nSerez-vous le vainqueur de ce tournoi, ou resterez-vous sur la touche ? Bienvenue sur **Champ'd Up** !",
+                    "tagline":"Змусьте ваші творіння боротися",
+                    "small_description":"Завітайте до Скрайлізеуму, де персонажі змагаються за дивні титули. Чи зможете ви перемогти фаворита?",
+                    "description":"**Champ'd Up** — гра розрахована на 3–8 гравців. Гравці починають зі створення власних чемпіонів і претендентів за допомогою інтерфейсу малювання з незвичайними іменами та навичками, подібними до футболок **Tee K.O**. Потім творіння гравців протиставляються, і глядачі голосують за найкраще у кожному раунді залежно від того, наскільки персонаж підходить для певної категорії. Гроші в грі нараховуються за відсоток голосів між гравцями, які стали чемпіонами/претендентами, і грошовий бонус «Champ'd Up» надається, якщо вони отримають усі голоси. Перемагає гравець, який набрав найбільше грошей. Існує також карткова гра під назвою **Champ'd Up: Slam Down**, яку можна придбати після гри.",
                     "images":[
-			"game_images/ChampdUp/champdup_1.webp",
+						"game_images/ChampdUp/champdup_1.webp",
                         "game_images/ChampdUp/champdup_2.webp",
                         "game_images/ChampdUp/champdup_3.webp",
                         "game_images/ChampdUp/champdup_4.webp"
@@ -1439,22 +1278,7 @@
                     "version":"1.0.0"
                 },
                 "patchs":[
-                    {
-                        "id":"champdup_fr",
-                        "name":"Champ'd Up FR",
-                        "small_description":"Traduisez votre jeu en Français !",
-                        "description":"Dessinez et envoyez vos combattants au combat",
-                        "authors":"CubicOtter",
-                        "version":"1.0.0_credits",
-                        "patch_path":"patchs/champdup_1.0.0.zip",
-                        "patch_type":{
-                            "game_text":true,
-                            "game_assets":true,
-                            "game_subtitles":true,
-                            "website":false,
-                            "audios":false
-                        }
-                    }
+				
                 ]
             },
             {
@@ -1467,14 +1291,14 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"20 - 40 minutes",
+                    "length":"20 - 40 хвилин",
                     "type":"VERSUS",
-                    "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Présentez votre pire sujet",
-                    "small_description":"L'impro ça vous connait ? Vous allez devoir passer à l'oral sur un thème que vous ne connaissez pas et avec des diapositives choisies par d'autres joueurs. Parlez bien pour gagner !",
-                    "description":"# Retour à l'école !\n\nVous allez devoir passer à l'oral sur un thème choisit par un autre joueur. Dites n'importe quoi et essayez d'être le plus raccord avec les diapositives choisies par votre suppléant : un autre joueur.\n\nEn plus de noter les autres pendant la présentation, vous pouvez aussi donner un award à votre présentation préférée pour lui faire gagner pleins de points !",
+                    "translation":"ENGLISH",
+                    "tagline":"Уявіть найгірший варіант!",
+                    "small_description":"Розкажіть про зображення, які ви ніколи раніше не бачили. Неважливо, чи є в цьому сенс, якщо ні - це набагато веселіше!",
+                    "description":"**Talking Points** — гра для 3–8 гравців. Кожна особа починає зі створення трьох тем для презентацій, а потім вибору однієї з трьох на своїх пристроях. Потім одній людині, як ведучому, показують низку слайдів із текстом і зображеннями, які вони бачать уперше, і вона має використовувати власний голос, щоб провести повноцінну презентацію і справити враження на аудиторію, яка голосує своєю реакцією. Інші учасники гри діють як помічники доповідача, щоб вибрати наступний слайд, який доповідач побачить із випадкового вибору, що може або допомогти, або збити доповідача. Бали нараховуються доповідачу залежно від кількості реакцій аудиторії, графіка та асистента. Гравці також можуть написати коментар до презентації. Потім усі гравці називають нагороду, яку вони вручатимуть. Перемагає гравець, який набрав найбільшу кількість очок. У грі також є режим безплатної гри.",
                     "images":[
-			"game_images/TalkingPoints/talkingpoints_1.webp",
+						"game_images/TalkingPoints/talkingpoints_1.webp",
                         "game_images/TalkingPoints/talkingpoints_2.webp",
                         "game_images/TalkingPoints/talkingpoints_3.webp",
                         "game_images/TalkingPoints/talkingpoints_4.webp"
@@ -1490,22 +1314,7 @@
                     "version":"1.0.1"
                 },
                 "patchs":[
-                    {
-                        "id":"talkingpoints_fr",
-                        "name":"Talking Points FR",
-                        "small_description":"Traduisez votre jeu en Français !",
-                        "description":"Parlez et présentez votre pire sujet",
-                        "authors":"Alexis",
-                        "version":"1.0.0_credits",
-                        "patch_path":"patchs/talkingpoints_1.0.0.zip",
-                        "patch_type":{
-                            "game_text":true,
-                            "game_assets":false,
-                            "game_subtitles":false,
-                            "website":false,
-                            "audios":false
-                        }
-                    }
+				
                 ]
             },
             {
@@ -1518,14 +1327,14 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"Environ 15 minutes",
+                    "length":"Близько 15 хвилин",
                     "type":"COOP",
-                    "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Faites vos tâches !",
-                    "small_description":"Hey, les démons ! C'est à vous de travailler ensemble pour faire ce que les humains font le moins bien : des tâches ménagères. Travaillez en équipe et soyez vif pour réussir le challenge de la semaine !",
-                    "description":"# Au travail démons !\n\nVous avez été accepté pour le programme de relation entre démons et humains. Vos tâches seront simples : faire des tâches ménagères. Vous allez devoir travailler en équipe pour en faire le plus possible et ainsi gagner le challenge de la semaine.\n\nMais faites attention, certains démons vont essayer de jouer dans leur coin pour empocher un max de points et ne plus rien vous laisser. Soyez rapide et efficace pour les arreter !",
+                    "translation":"ENGLISH",
+                    "tagline":"Виконуйте свої завдання!",
+                    "small_description":"Ви - сім'я дияволів, які переїхали до середньостатистичного передмістя. Чи зможете ви пережити щоденні тортури людського життя?",
+                    "description":"**The Devils and the Details** — гра для 3–8 гравців. Гравці стають родиною дияволів, які намагаються працювати разом, щоб завершити список повсякденних справ у певних сценаріях (наприклад, під час відвідування родича), причому кожне успішне завдання нараховує бали до чистого результату протягом одного з трьох днів епізоду. Багато справ вимагають вербального спілкування від одного гравця до іншого, що може призвести до плутанини. Оскільки гравці є дияволами, вони змагаються один з одним. Вони можуть виконувати «егоїстичні» домашні справи, які дають додаткові бали гравцеві, який їх виконав, але також створюють лічильник егоїзму, тому інші гравці повинні зупинити цього гравця у виконанні егоїстичних домашніх справ. Коли лічильник егоїзму заповнений, це створює сімейну надзвичайну ситуацію (наприклад, затоплений підвал, пожежа на кухні або відключення електроенергії), знижуючи загальну планку балів і ускладнюючи успішне завершення одного дня. Якщо день закінчується так, що смуга сімейних результатів досягає цільового результату, гра продовжується на наступний день. Якщо гра завершується, коли сімейна шкала результатів не досягає цільового результату ні в перший, ні в другий дні, тоді VIP-гравець повинен або повторити день, або вийти з гри після невдалого дня. Третій день, однак, є викликом. Якщо день закінчується так, що смужка сімейних результатів не досягає цільового балу, епізод буде закінчено лише остаточними оцінками та виконаними деякими завданнями (цього дня повторних спроб немає). Якщо день закінчується, коли всі завдання виконані, а смужка результатів сім'ї досягає цільового балу, то переможець отримає приз після гри.",
                     "images":[
-			"game_images/TheDevilsAndTheDetails/thedevilsandthedetails_1.webp",
+						"game_images/TheDevilsAndTheDetails/thedevilsandthedetails_1.webp",
                         "game_images/TheDevilsAndTheDetails/thedevilsandthedetails_2.webp",
                         "game_images/TheDevilsAndTheDetails/thedevilsandthedetails_3.webp",
                         "game_images/TheDevilsAndTheDetails/thedevilsandthedetails_4.webp"
@@ -1541,22 +1350,7 @@
                     "version":"1.0.0"
                 },
                 "patchs":[
-                    {
-                        "id":"thedevilsandthedetails_fr",
-                        "name":"The Devils and the Details FR",
-                        "small_description":"[Preview] Traduisez votre jeu en Français !",
-                        "description":"Traduisez votre jeu en français avec du texte et des voix !\n\nCe patch est une preview, il peut y avoir certains textes qui sont encore en Anglais mais nous travaillons dessus !",
-                        "authors":"Alexis, MisterShao et PachatFR",
-                        "version":"0.1.0_credits",
-                        "patch_path":"patchs/thedevilsandthedetails_0.1.0.zip",
-                        "patch_type":{
-                            "game_text":true,
-                            "game_assets":true,
-                            "game_subtitles":false,
-                            "website":true,
-                            "audios":true
-                        }
-                    }
+				
                 ]
             },
             {
@@ -1569,15 +1363,15 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"Environ 15 minutes",
+                    "length":"Близько 15 хвилин",
                     "type":"VERSUS",
                     "translation":"ENGLISH",
-                    "tagline":"Soyez le plus drôle",
-                    "small_description":"C'est l'heure d'être drôle ! Epatez tous vos amis en répondant de la manière la plus marrante aux phrases farfelus de Quiplash 3.",
-                    "description":"# C'est l'heure de faire rire\n\n Vous allez recevoir une phrase. Essayez d'y répondre de la manière la plus drôle possible. Votre phrase sera face à celle d'un joueur et les autres votent pour leur préférée. Un jeu simple et efficace qui pourra vous faire rire pendant beaucoup de temps.",
+                    "tagline":"Будьте найсмішнішими!",
+                    "small_description":"Триквел до гри «Скажи що завгодно»! Відповідайте на питання та розсмішіть своїх друзів... сподіваємось.",
+                    "description":"**Quiplash 3** — гра розрахована на 3–8 гравців. Це третя гра в серії Quiplash. Тут фірмовий фінальний раунд гри, «The Last Lash», замінений на «Thriplash» *(укр. Трихрясь)*, де замість того, щоб усі гравці відповідали на однакові підказки, кожна пара гравців отримує лише одну підказку замість зазвичай двох, але потрібно відповісти трьома окремими відповідями. Ведучий гратиме з гравцем, який займає останнє місце, якщо в грі непарна кількість гравців. Двовимірний дизайн гри також було замінено глиняною анімацією.",
                     "images":[
-			"game_images/Quiplash3/quiplash3_1.webp",
-                        "game_images/Quiplash3/quiplash3_2.webp",
+						"game_images/Quiplash3/quiplash3_1.webp",
+						"game_images/Quiplash3/quiplash3_2.webp",
                         "game_images/Quiplash3/quiplash3_3.webp",
                         "game_images/Quiplash3/quiplash3_4.webp"
                     ],
@@ -1603,14 +1397,14 @@
                         "min":2,
                         "max":6
                     },
-                    "length":"15 - 30 minutes",
+                    "length":"15 - 30 хвилин",
                     "type":"VERSUS",
                     "translation":"ENGLISH",
-                    "tagline":"Faites deviner votre mot",
-                    "small_description":"Vous avez un mot. Il est simple à faire deviner mais vous êtes limité. Vous allez devoir vous aider des mots des autres joueurs pour leur faire deviner le votre",
-                    "description":"# C'est l'heure des devinettes\n\nVous allez devoir choisir un mot. Votre but : Le faire deviner aux autres joueurs. Mais vous avez accès à un vocabulaire limité pour pouvoir le faire deviner. Vous allez donc devoir vous aiderr de ce que disent les autres joueurs pour faire deviner votre propre mot",
+                    "tagline":"Зробіть так, щоб ваше слово вгадали!",
+                    "small_description":"Гра на вгадування в стилі поп-культури, де все звучить не зовсім правильно! Це хороший спосіб весело провести час.",
+                    "description":"**Blather 'Round** — гра розрахована на 2–6 гравців. Стиль гри дуже схожий на шаради, де гравці повинні вибрати місце, історію, річ або людину для опису за допомогою речень. Поки один гравець підказує, що він вибрав, за допомогою фіксованих речень, інші гравці повинні спробувати вгадати, що описує ведучий. Бали нараховуються ведучому та тим, хто правильно вгадав обране слово, а також тим, хто зробив корисну підказку. Перемагає гравець, який набрав найбільшу кількість очок.",
                     "images":[
-			"game_images/BlatherRound/blatherround_1.webp",
+						"game_images/BlatherRound/blatherround_1.webp",
                         "game_images/BlatherRound/blatherround_2.webp",
                         "game_images/BlatherRound/blatherround_3.webp",
                         "game_images/BlatherRound/blatherround_4.webp"
@@ -1634,7 +1428,7 @@
     {
         "id":"jpp8",
         "name":"Jackbox Party Pack 8",
-        "description":"Le huitième party pack de Jackbox",
+        "description":"Восьмий комплект із серії Jackbox Party Pack",
         "executables":{
             "windows":"The Jackbox Party Pack 8.exe",
             "mac":"The Jackbox Party Pack 8.app/Contents/MacOS/The Jackbox Party Pack 8",
@@ -1651,7 +1445,7 @@
         "games":[
             {
                 "id":"drawful_animate",
-                "name":"DrawfulAnimate",
+                "name":"Drawful: Animate",
                 "background":"game_backgrounds/DrawfulAnimate.webp",
                 "path":"games/DrawfulAnimate",
                 "game_info":{
@@ -1659,12 +1453,12 @@
                         "min":3,
                         "max":10
                     },
-                    "length":"15 - 30 minutes",
+                    "length":"15 - 30 хвилин",
                     "type":"VERSUS",
                     "translation":"ENGLISH",
-                    "tagline":"Animez tout ça !",
-                    "small_description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
-                    "description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
+                    "tagline":"Втілюйте все це в життя!",
+                    "small_description":"Гра на вгадування з жахливими малюнками та кумедними неправильними відповідями повертається з новою силою.",
+                    "description":"**Drawful: Animate** — гра призначена для 3–10 гравців і є третьою грою в серії **Drawful**. Основною особливістю є те, що гравці створюють анімацію з двох кадрів, а не один статичний малюнок. Інші додаткові функції включають три кольори для малювання та можливість подвоїти припущення один раз за раунд, що присуджує подвійні бали, якщо припущення правильне, але якщо неправильне, то подвійні бали присуджуються гравцеві, який написав фальшиву відповідь. Також додано «режим друга» (англ. friend mode), який містить підказки щодо гравців.",
                     "images":[
 						"game_images/DrawfulAnimate/drawfulanimate_1.webp",
                         "game_images/DrawfulAnimate/drawfulanimate_2.webp",
@@ -1694,12 +1488,12 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"15 - 25 minutes",
+                    "length":"15 - 25 хвилин",
                     "type":"VERSUS",
                     "translation":"ENGLISH",
-                    "tagline":"Tourner tout ça !",
-                    "small_description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
-                    "description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
+                    "tagline":"Переверніть все це!",
+                    "small_description":"Вікторини ще ніколи не були такими великими! Фантастичне, містичне колесо кидає вам виклик, підказуючи різноманітні відповіді.",
+                    "description":"**Wheel of Enormous Proportions** — гра розрахована на 2–8 гравців і є грою-вікториною, яку проводить колесо-всезнавець. На початку гри гравці пишуть душевне запитання, на яке колесо має відповісти. Потім гравці повинні заробити частки, змагаючись у раунді дрібниць із трьох запитань, кожне з яких починається з двох часток. Гравці, які набрали високі результати, виграють частку, а найкращий виграє додаткову частку. Типи запитань: вибір відповідей із набору з дванадцяти, зіставлення відповідей з аналогами, вгадування, що думає колесо на основі наданих підказок, написання відповідей або надання числової оцінки. У третьому питанні найефективніший гравець виграє частку сили, яка може поширюватися на колесо, і коли вона потрапляє на нього, колесо дає змогу зіграти в мінігру, яка може вплинути на результати, наприклад, обмін балами між двома гравцями. Під час раунду обертання гравці кладуть свої частки на колесо та по черзі обертають його, заробляючи очки, коли колесо потрапляє на вибране ними місце. Кількість здобутих очок збільшується, коли колесо обертається більше, і очки розподіляються між гравцями, які вибрали той самий слот. Обертовий раунд закінчується, коли Spin Meter заповнюється, і починається новий раунд вікторин. Коли гравець досягає 20 000 очок, будь-які бали, які гравець отримує за допомогою колеса, дозволяють йому обертати Колесо переможця, яке визначає його переможцем у грі. Потім колесо відповідає на запитання, яке переможець написав на початку гри.",
                     "images":[
 						"game_images/TheWheelOfEnormousProportions/thewheelofenormousproportions_1.webp",
                         "game_images/TheWheelOfEnormousProportions/thewheelofenormousproportions_2.webp",
@@ -1729,12 +1523,12 @@
                         "min":3,
                         "max":10
                     },
-                    "length":"15 - 25 minutes",
+                    "length":"15 - 25 хвилин",
                     "type":"VERSUS",
-                    "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Devenez le meilleur employé",
-                    "small_description":"C'est l'heure de l'interview. Parviendrez-vous à impressionner Mr Bubble, le patron, et décrocher le job ?",
-                    "description":"# L'interview approche...\n\n ... et vous êtes confrontés aux autres joueurs pour décrocher le job. Pour vous échauffer, vous allez devoir répondre à une question simple avec le plus de mots possible. Les mots dans votre réponse seront envoyés aux autres joueurs qui devront les utiliser pour répondre à leur seconde question ! C'est ensuite que les joueurs votent pour leur réponse préférée !",
+                    "translation":"ENGLISH",
+                    "tagline":"Станьте найкращим співробітником!",
+                    "small_description":"Використовуйте чужі слова, щоб створити унікальні та смішні відповіді на класичні запитання співбесіди.",
+                    "description":"**Job Job** — гра призначена для 3–10 гравців і являє собою гру із запитаннями про роботу. На початку кожного раунду гравці відповідають на кілька запитань-криголамів будь-яким способом. Після цього всі відповіді перемішуються між гравцями, де мета полягає в тому, щоб відповісти на запитання співбесіди, використовуючи лише слова з відповідей криголама та самого запитання. Питання для інтерв'ю та дві надані відповіді потім порівнюються, і гравці та глядачі голосують за свою улюблену відповідь. Очки нараховуються через відсоток голосів між двома гравцями, а бонусні бали нараховуються гравцям, чиї слова були використані у виграшній відповіді або якщо їх виграшна відповідь містить слова трьох різних гравців. У фінальному раунді замість питань інтерв'ю гравці створюють короткі відповіді про себе, відповідаючи на ті самі два твердження. Перемагає гравець, який набрав найбільшу кількість очок.",
                     "images":[
 			"game_images/JobJob/jobjob_1.webp",
                         "game_images/JobJob/jobjob_2.webp",
@@ -1751,29 +1545,12 @@
                     "version":"1.0.0"
                 },
                 "patchs":[
-                    {
-                        "id":"jobjob_fr",
-                        "name":"Job Job FR",
-                        "small_description":"Traduisez votre jeu en Français !",
-                        "description":"Utilisez les mots des autres pour gagner des points",
-                        "authors":"Alexis",
-                        "version":"1.0.0_credits",
-                        "patch_path":"patchs/jobjob_1.0.0.zip",
-                        "patch_type":{
-                            "game_text":true,
-                            "game_assets":false,
-                            "game_subtitles":false,
-                            "website":false,
-                            "audios":false
-                        }
-                    }
+				
                 ]
             },
             {
                 "id":"thepollmine",
                 "name":"The Poll Mine",
-                "small_description":"Sortez de la caverne",
-                "description":"Répondez aux questions pour sortir de la caverne",
                 "background":"game_backgrounds/ThePollMine.webp",
                 "path":"games/SurveyBomb",
                 "game_info":{
@@ -1781,14 +1558,14 @@
                         "min":2,
                         "max":10
                     },
-                    "length":"Environ 15 minutes",
+                    "length":"Близько 15 хвилин",
                     "type":"TEAM",
-                    "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Echappez-vous de la grotte",
-                    "small_description":"Les sondages sont puissants vous savez ? C'est le seul moyen pour vous de sortir de cette grotte. Alors jouez en équipe et trouvez les réponses de ces sondages dans l'ordre !",
-                    "description":"Bienvenue jeunes voyageurs, vous avez tenté de piller cette grotte mais vous vous êtes fait enfermés. La seule manière de sortir vivant avec votre équipe est de répondre à des sondages. Vous allez ensuite devoir retrouver le classement de ces sondages dans un ordre précis. L'équipe avec le plus de torches (ou celle qui ne se fait pas éliminée) gagne !",
+                    "translation":"ENGLISH",
+                    "tagline":"Утечіть з печери!",
+                    "small_description":"Гра-опитування, яка стосується лише ТЕБЕ! Розділіться на команди і подивіться, хто зможе втекти з відьомського лігва!",
+                    "description":"**The Poll Mine** — гра розрахована на 2–10 гравців. Гравці діляться на дві команди шукачів пригод, яких запроторила в печеру зла відьма. Щоб втекти, усі гравці відповідають на опитування з восьми варіантів у порядку переваги. Після цього кожна команда по черзі відкриває одні з дверей, кожні з яких позначені відповіддю з опитування. У першому раунді команди знаходять три найпопулярніші відповіді, а в другому — 2, 3 і 4 найпопулярніші відповіді. Кожна правильна відповідь приносить команді факел, але неправильна відповідь призводить до втрати факела. Під час останнього раунду гравці повинні відкрити двері від найменш популярних до найбільш популярних. Під час цього раунду смолоскипи не здобуваються, але наявні факели все одно втрачаються через неправильний вибір дверей. Коли команда втрачає свій останній факел, інша команда повинна вибрати правильні двері, щоб усунути їх і виграти гру. Коли всі правильно відкривають усі двері, виграє команда, у якої залишилося більше факелів. Однак, якщо обидві команди втратять усі свої факели, гра закінчується для всіх. У грі також є режим стримера, де одна команда складається з гравців, а інша — з глядачів, які вибирають двері більшістю голосів.",
                     "images":[
-			"game_images/PollMine/pollmine_1.webp",
+						"game_images/PollMine/pollmine_1.webp",
                         "game_images/PollMine/pollmine_2.webp",
                         "game_images/PollMine/pollmine_3.webp",
                         "game_images/PollMine/pollmine_4.webp"
@@ -1804,22 +1581,7 @@
                     "version":"1.0.0"
                 },
                 "patchs":[
-                    {
-                        "id":"thepollmine_fr",
-                        "name":"[PREVIEW] The Poll Mine",
-                        "small_description":"[PREVIEW] Traduisez votre jeu en Français !",
-                        "description":"Le patch complet arrive bientôt. Vous pouvez toujours télécharger la preview mais gardez à l'esprit que la traduction n'est pas terminée. Avec cette preview, vous avez accès à 70 questions en français.",
-                        "authors":"Pachat, Alexis et fizzrocks",
-                        "version":"0.1.0_credits",
-                        "patch_path":"patchs/thepollmine_0.1.0.zip",
-                        "patch_type":{
-                            "game_text":true,
-                            "game_assets":true,
-                            "game_subtitles":false,
-                            "website":true,
-                            "audios":false
-                        }
-                    }
+				
                 ]
             },
             {
@@ -1832,14 +1594,14 @@
                         "min":4,
                         "max":8
                     },
-                    "length":"20 - 40 minutes",
+                    "length":"20 - 40 хвилин",
                     "type":"VERSUS",
-                    "translation":"COMMUNITY_TRANSLATED",
-                    "tagline":"Trouvez les tueurs",
-                    "small_description":"Effectuez des meurtres avec vos dessins et essayez d'en résoudre grâce à vos talents de détective dans ce jeu où se melle dessin et déduction",
-                    "description":"# Des meurtres à foison\n\nDans ce jeu, vous allez devoir dessiner vos propres armes pour pouvoir effectuer des meurtres sur vos cibles. Mais attention ! Ces armes contiennent une lettre que vous allez devoir cacher sous peine d'être repéré. Agissez vite pour tuer rapidement et observer bien pour trouver les meurtiers parmis vos camarades.",
+                    "translation":"ENGLISH",
+                    "tagline":"Знайдіть вбивць!",
+                    "small_description":"Соціальна гра на дедукцію, де кожен є одночасно і вбивцею, і детективом. Чи зможете ви розкрити вбивства, намагаючись вийти сухим з води?",
+                    "description":"**Weapons Drawn** — гра призначена для 4–8 гравців і є соціальною дедуктивною грою. Кожен грає роль групи детективів і вбивць, які відвідують вечірку. Гравці витягають два знаряддя вбивства, що містять літеру з їхнього імені, які вони повинні сховати, і назвати спільника, якого вони приведуть у гості. Потім гравці намагаються вбити спільників, з'ясувавши, хто, на їхню думку, запросив їх у гості. У разі успіху одне зі знарядь вбивства винуватця залишають на місці події. Для довідки, у грі показано одну зброю, витягнуту кожним гравцем. Гравці голосують між двома справами, щоб розкрити їх, і намагаються разом проаналізувати знаряддя вбивства та голосувати за того, хто, на їхню думку, скоїв злочин. Під час останнього раунду гравці у швидкій послідовності вгадують кожне нерозкрите вбивство, що залишилося, а вбивця отримує бали за кожного детектива, якого вони обдурять. Очки нараховуються за запрошення співучасників, які отримують велику кількість спроб вбивства, успішно ухиляються від визнання винуватцями та правильно знаходять винних в інших вбивствах. Перемагає гравець, який набрав найбільшу кількість очок.",
                     "images":[
-			"game_images/WeaponsDrawn/weaponsdrawn_1.webp",
+						"game_images/WeaponsDrawn/weaponsdrawn_1.webp",
                         "game_images/WeaponsDrawn/weaponsdrawn_2.webp",
                         "game_images/WeaponsDrawn/weaponsdrawn_3.webp",
                         "game_images/WeaponsDrawn/weaponsdrawn_4.webp"
@@ -1854,22 +1616,7 @@
                     "version":"1.0.0"
                 },
                 "patchs":[
-                    {
-                        "id":"weaponsdrawn_fr",
-                        "name":"Weapon's Drawn FR",
-                        "small_description":"Traduisez votre jeu en Français !",
-                        "description":"Traduisez votre jeu en français avec ce patch !",
-                        "authors":"MisterShaokahn#0765",
-                        "version":"1.0.1_credits",
-                        "patch_path":"patchs/weaponsdrawn_1.0.1.zip",
-                        "patch_type":{
-                            "game_text":true,
-                            "game_assets":false,
-                            "game_subtitles":false,
-                            "website":false,
-                            "audios":false
-                        }
-                    }
+				
                 ]
             }
         ],
@@ -1879,7 +1626,7 @@
     {
         "id":"jpp9",
         "name":"Jackbox Party Pack 9",
-        "description":"Le neuvième party pack de Jackbox",
+        "description":"Восьмий комплект із серії Jackbox Party Pack",
         "executables":{
             "windows":"The Jackbox Party Pack 9.exe",
             "mac":"The Jackbox Party Pack 9.app/Contents/MacOS/The Jackbox Party Pack 9",
@@ -1912,14 +1659,14 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"20 minutes",
+                    "length":"20 хвилин",
                     "type":"VERSUS",
-                    "translation":"NATIVELY_TRANSLATED",
-                    "tagline":"Bluffez vos amis",
-                    "small_description":"Bienvenue dans Fibbage 4, le jeu où vous allez devoir mentir et faire tomber des personnes dans le panneau pour gagner des points.",
-                    "description":"# Fibbage quatre...\n\n Dans fibbage 4, vous allez devoir compléter des anecdotes. Chaque joueur va devoir imaginer une réponse à l'anecdote. En seconde partie, les réponses de chaque joueur sont montrées ainsi que la **vraie** réponse ! Le but est de trouver la vérité sans tomber sur les réponses adverses.\n\nEn plus des anecdotes classiques, vous trouverez aussi des anecdotes sous format vidéo et le Fibbage final ou vous devrez remplir 2 anecdotes en même temps.\n\nQui sera le meilleur menteur ?",
+                    "translation":"ENGLISH",
+                    "tagline":"Обманюйте своїх друзів!",
+                    "small_description":"Весела гра для вечірок брехунів повертається з новим фінальним фіналом, відео-питаннями, питаннями від фанатів і режимом «Enough About You»!",
+                    "description":"**Fibbage 4** — гра розрахована на 2–8 гравців і є четвертою грою в серії **Fibbage**. У грі є нові тематичні епізоди, нові фінальні раунди з двома фактами та запитаннями, наданими шанувальниками Jackbox Games перед релізом гри.",
                     "images":[
-			"game_images/Fibbage4/fibbage4_1.jpg",
+						"game_images/Fibbage4/fibbage4_1.jpg",
                         "game_images/Fibbage4/fibbage4_2.jpg",
                         "game_images/Fibbage4/fibbage4_3.jpg",
                         "game_images/Fibbage4/fibbage4_4.jpg"
@@ -1946,14 +1693,14 @@
                         "min":3,
                         "max":9
                     },
-                    "length":"25 - 35 minutes",
+                    "length":"25 - 35 хвилин",
                     "type":"VERSUS",
-                    "translation":"NATIVELY_TRANSLATED",
-                    "tagline":"Saurez-vous gagner Roomerang",
-                    "small_description":"C'est le moment de vous faire connaitre ! Rejoignez la télé-réalité Roomerang et éliminé vos adversaires un à un jusqu'à ce qu'une seule personne soit vainqueur.",
-                    "description":"Bienvenue dans Roomerang\n\nIci, vous devez vous batailler pour la victoire. Vous avez chacun un petit détail sur vous. Que ce soit livreur de pizza, jardinier en herbe ou pro de l'escalade, vous avez les talents pour gagner la partie et éliminer tout le monde sur votre passage.",
+                    "translation":"ENGLISH",
+                    "tagline":"Чи можете ви виграти у Roomerang?",
+                    "small_description":"Увімкніть свою внутрішню зірку реаліті-шоу та спробуйте вирватись на перше місце!",
+                    "description":"**Roomerang** — гра розрахована на 4–9 гравців і присвячена реаліті-шоу. Гравці беруть на себе ролі персонажів із визначальною рисою та мають давати відповіді, які відповідають цій рисі, а також працювати з рисами інших персонажів. Гравець з найбільшою кількістю відповідей виграє раунд і отримує перевагу в наступному вибуванні. Вибулі гравці втрачають деякі очки, але повертаються в гру з новою рисою. Перемагає гравець, який набрав найбільшу кількість очок після п'яти раундів.",
                     "images":[
-			"game_images/Roomerang/roomerang_1.jpg",
+						"game_images/Roomerang/roomerang_1.jpg",
                         "game_images/Roomerang/roomerang_2.jpg",
                         "game_images/Roomerang/roomerang_3.jpg",
                         "game_images/Roomerang/roomerang_4.jpg"
@@ -1981,14 +1728,14 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"15 - 25 minutes",
+                    "length":"15 - 25 хвилин",
                     "type":"VERSUS",
-                    "translation":"NATIVELY_TRANSLATED",
-                    "tagline":"Vendez vos objets",
-                    "small_description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
-                    "description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
+                    "translation":"ENGLISH",
+                    "tagline":"Продайте свої товари!",
+                    "small_description":"Дивний чарівник перетворив вас на жаб! Вигадайте кумедні передісторії для різноманітних товарів, а потім оцініть їх. Гравець з найціннішими предметами знову стає людиною!",
+                    "description":"**Junktopia** — гра розрахована на 3–8 гравців. Гравці вибирають один цікавий предмет із трьох випадкових предметів, купують цей предмет за гроші, які їм надають на початку. Гравці можуть спробувати поторгуватися, але це може призвести до негативних наслідків і змусити їх заплатити більше, ніж початкова ціна. Потім вони повинні дати фальшиву назву та історію цим об'єктам, а потім спробувати продати їх іншим гравцям за найбільшу суму грошей порівняно з предметами інших гравців.",
                     "images":[
-			"game_images/Junktopia/junktopia_1.jpg",
+						"game_images/Junktopia/junktopia_1.jpg",
                         "game_images/Junktopia/junktopia_2.jpg",
                         "game_images/Junktopia/junktopia_3.jpg",
                         "game_images/Junktopia/junktopia_4.jpg"
@@ -2016,14 +1763,14 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"15 - 25 minutes",
+                    "length":"15 - 25 хвилин",
                     "type":"VERSUS",
-                    "translation":"NATIVELY_TRANSLATED",
-                    "tagline":"Partagez vos pensées",
-                    "small_description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
-                    "description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
+                    "translation":"ENGLISH",
+                    "tagline":"Поділіться своїми думками!",
+                    "small_description":"Професор Наннерс тут, щоб перевірити ваше несенсорне сприйняття. Чи здогадаєтеся ви, де знаходиться підказка іншого гравця на найбезглуздішій шкалі?",
+                    "description":"**Nonsensory** — гра розрахована на 3–8 гравців і є невимушеною грою в написання, малювання та вгадування. Гравці повинні вгадати, який відсоток або за шкалою від 1 до 10, як текстова відповідь або малюнок, зроблений іншим гравцем, базується на наданій підказці. Гравці отримують бали залежно від того, наскільки близько вони до відповіді.",
                     "images":[
-			"game_images/Nonsensory/nonsensory_1.jpg",
+						"game_images/Nonsensory/nonsensory_1.jpg",
                         "game_images/Nonsensory/nonsensory_2.jpg",
                         "game_images/Nonsensory/nonsensory_3.jpg",
                         "game_images/Nonsensory/nonsensory_4.jpg"
@@ -2051,14 +1798,14 @@
                         "min":1,
                         "max":10
                     },
-                    "length":"15 - 20 minutes",
+                    "length":"15 - 20 хвилин",
                     "type":"TEAM",
-                    "translation":"NATIVELY_TRANSLATED",
-                    "tagline":"Triez les blocs",
-                    "small_description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
-                    "description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
+                    "translation":"ENGLISH",
+                    "tagline":"Сортуйте блоки!",
+                    "small_description":"Працюйте разом зі своєю командою, щоб відсортувати відповіді, що падають, у правильному порядку, перш ніж вони потраплять на підлогу!",
+                    "description":"**Quixort** — гра розрахована на 1–10 гравців і пропонує гравцям підказку, за якою гравці будуть сортувати відповіді, наприклад «тварини за кількістю ніг». Потім відповіді представлені у вигляді падучих блоків, які гравці повинні спробувати розмістити в належному порядку. У гру грають команди, але окрема гра у цьому комплекті, **Quixort Forever**, дозволяє одному гравцеві або одній команді спробувати просунутися якомога далі.",
                     "images":[
-			"game_images/Quixort/quixort_1.jpg",
+						"game_images/Quixort/quixort_1.jpg",
                         "game_images/Quixort/quixort_2.jpg",
                         "game_images/Quixort/quixort_3.jpg",
                         "game_images/Quixort/quixort_4.jpg"
@@ -2083,7 +1830,7 @@
     {
         "id":"jpstarter",
         "name":"Jackbox Party Starter",
-        "description":"La compilation de 3 jeux en français",
+        "description":"Збірка з трьох ігор, щоб почати ваше знайомство з іграми Jackbox Games",
         "executables":{
             "windows":"The Jackbox Party Starter.exe",
             "mac":"The Jackbox Party Starter.app/Contents/MacOS/The Jackbox Party Pack Starter",
@@ -2107,14 +1854,14 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"Environ 15 minutes",
+                    "length":"Близько 15 хвилин",
                     "type":"VERSUS",
-                    "translation":"NATIVELY_TRANSLATED",
-                    "tagline":"Soyez le plus drôle",
-                    "small_description":"C'est l'heure d'être drôle ! Epatez tous vos amis en répondant de la manière la plus marrante aux phrases farfelus de Quiplash 3.",
-                    "description":"# C'est l'heure de faire rire\n\n Vous allez recevoir une phrase. Essayez d'y répondre de la manière la plus drôle possible. Votre phrase sera face à celle d'un joueur et les autres votent pour leur préférée. Un jeu simple et efficace qui pourra vous faire rire pendant beaucoup de temps.",
+                    "translation":"ENGLISH",
+                    "tagline":"Будьте найсмішнішими!",
+                    "small_description":"Триквел до гри «Скажи що завгодно»! Відповідайте на питання та розсмішіть своїх друзів... сподіваємось.",
+                    "description":"**Quiplash 3** — гра розрахована на 3–8 гравців. Це третя гра в серії Quiplash. Тут фірмовий фінальний раунд гри, «The Last Lash», замінений на «Thriplash» *(укр. Трихрясь)*, де замість того, щоб усі гравці відповідали на однакові підказки, кожна пара гравців отримує лише одну підказку замість зазвичай двох, але потрібно відповісти трьома окремими відповідями. Ведучий гратиме з гравцем, який займає останнє місце, якщо в грі непарна кількість гравців. Двовимірний дизайн гри також було замінено глиняною анімацією.",
                     "images":[
-			"game_images/Quiplash3/quiplash3_1.webp",
+						"game_images/Quiplash3/quiplash3_1.webp",
                         "game_images/Quiplash3/quiplash3_2.webp",
                         "game_images/Quiplash3/quiplash3_3.webp",
                         "game_images/Quiplash3/quiplash3_4.webp"
@@ -2141,14 +1888,14 @@
                         "min":3,
                         "max":8
                     },
-                    "length":"Environ 30 minutes",
+                    "length":"15 - 20 хвилин",
                     "type":"VERSUS",
-                    "translation":"NATIVELY_TRANSLATED",
-                    "tagline":"Combattez vos tee-shirts",
-                    "small_description":"C'est l'heure d'être drôle ! Epatez tous vos amis en répondant de la manière la plus marrante aux phrases farfelus de Quiplash 3.",
-                    "description":"# C'est l'heure de faire rire\n\n Vous allez recevoir une phrase. Essayez d'y répondre de la manière la plus drôle possible. Votre phrase sera face à celle d'un joueur et les autres votent pour leur préférée. Un jeu simple et efficace qui pourra vous faire rire pendant beaucoup de temps.",
+                    "translation":"COMMUNITY_DUBBED",
+                    "tagline":"Створіть свої найкращі футболки!",
+                    "small_description":"Малюйте малюнки, пишіть слогани, а потім міняйте їх місцями, щоб створити власну футболку для воїнів.",
+                    "description":"**Tee K.O.** — гра призначена для 3–8 гравців і є грою, яка базується на малюванні. Кожен гравець починає з малювання трьох зображень того, що забажає, хоча в грі є пропозиції, які можуть допомогти. Тоді кожен гравець має можливість ввести кілька коротких висловів або гасел. Згодом кожен гравець отримує два або більше випадкових малюнків і два або більше випадкових висловів, і він вибирає пару, яка найкраще підходить разом для футболки. Ці дизайни потім ставляться в битву за голосування сам на сам з усіма гравцями та глядачами, щоб визначити дизайн найкращої футболки та дизайн, який мав найдовшу смугу голосування. Якщо футболка отримує всі голоси, гравець, який намалював футболку, отримує «shirtality» *(укр. футболкаліті)*. Проводиться другий тур жеребкування, написання гасел, створення пар і голосування. Дизайни-переможці з кожного раунду потім змагаються один з одним, щоб визначити остаточний дизайн-переможець. Після гри гравці можуть замовити ці футболки з принтом.",
                     "images":[
-			"game_images/TeeKO/teeko_1.webp",
+						"game_images/TeeKO/teeko_1.webp",
                         "game_images/TeeKO/teeko_2.webp",
                         "game_images/TeeKO/teeko_3.webp",
                         "game_images/TeeKO/teeko_4.webp"
@@ -2176,12 +1923,12 @@
                         "min":1,
                         "max":8
                     },
-                    "length":"15 - 25 minutes",
+                    "length":"15 - 25 хвилин",
                     "type":"VERSUS",
-                    "translation":"NATIVELY_TRANSLATED",
-                    "tagline":"Survivrez-vous à ce quiz ?",
-                    "small_description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
-                    "description":"Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
+                    "translation":"COMMUNITY_TRANSLATED",
+                    "tagline":"Чи виживете ви в цій вікторині?",
+                    "small_description":"Серійний вбивця влаштовує абсурдну гру у сімейному Вбивчому готелі, де він виріс. Чи зможете ви вижити?",
+                    "description":"**Trivia Murder Party 2** — гра для 1–8 гравців. Це продовження **Trivia Murder Party** і має подібний формат, події відбуваються в готелі. Окрім нових запитань, він містить нові мініігри «поверху смерти» (зокрема Quiplash), спеціальні предмети, які можуть допомогти або завадити здатності гравців вижити, а також бар'єр на виході з фіналу, де гравці мають правильно відповісти на запитання, перш ніж вони можуть втекти (провідний гравець тепер бачить третю відповідь на бар'єрі). Крім того, глядачі також є гравцем, тоді як у першій Trivia Murder Party вони були окремою сутністю.",
                     "images":[
 						"game_images/TriviaMurderParty2/triviamurderparty2_1.webp",
                         "game_images/TriviaMurderParty2/triviamurderparty2_2.webp",

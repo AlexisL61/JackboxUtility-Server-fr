@@ -7,12 +7,12 @@
     "urls":[
         {
             "versions":["1.0.0"],
-            "api":"https://raw.githubusercontent.com/AlexisL61/JackboxUtility-Server-fr/main/api/v2",
-            "assets":"https://raw.githubusercontent.com/AlexisL61/JackboxUtility-Server-fr/main/assets"
+            "api":"https://raw.githubusercontent.com/VladGraund/JackboxUtility-Server-ua/main/api/v2",
+            "assets":"https://raw.githubusercontent.com/VladGraund/JackboxUtility-Server-ua/main/assets"
         }
     ],
-    "controller":"laboxdejack.fr",
-    "languages":["fr"],
+    "controller":"jackbox.in.ua",
+    "languages":["ua"],
     "links":[
     	{
             "icon":"globe",
