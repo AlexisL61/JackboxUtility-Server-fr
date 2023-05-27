@@ -12,7 +12,9 @@
             "title":"Rejoignez-nous !",
             "smallDescription":"Jouons ensemble et recevez de l'aide sur les outils de Jackbox France !",
             "content":"# Besoin d'aide ? Envie de jouer ?\n\nAlors rejoignez le serveur discord pour poser vos questions et jouer avec nous !\n\n<https://discord.gg/XhwPfUrCEx>",
-            "image":"news_images/discord.png"
+            "image":"news_images/discord.png",
+            "link":"https://discord.gg/XhwPfUrCEx",
+            "shadow":false
         }
     ]
 
