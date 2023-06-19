@@ -70,6 +70,18 @@
                         "max":4
                     },
                     "length":"15 - 20 minutes",
+		    "playtime":{
+			"min":15,
+			"max":20
+		    },
+		    "family_friendly":false,
+		    "audience":false,
+		    "audience_description":"Audience not available",
+		    "stream_friendly":"PLAYABLE",
+		    "stream_friendly_description":"You don't need to talk or anything",
+		    "moderation":"NO_MODERATION",
+		    "moderation_description":"This games doesn't have moderation",
+		    "subtitles":false,
                     "type":"VERSUS",
                     "translation":"ENGLISH",
                     "tagline":"Participez au plus grand quiz",
