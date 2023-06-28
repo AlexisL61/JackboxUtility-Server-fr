@@ -1643,22 +1643,7 @@
                         "version": "1.0.0"
                     },
                     "patchs": [
-                        {
-                            "id": "jokeboat_fr",
-                            "name": "Joke Boat FR",
-                            "small_description": "Traduisez votre jeu en Français !",
-                            "description": "Ce patch traduit votre jeu en français !",
-                            "authors": "CubicOtter",
-                            "version": "1.0.0_credits",
-                            "patch_path": "patchs/jokeboat_1.0.0.zip",
-                            "patch_type": {
-                                "game_text": true,
-                                "game_assets": false,
-                                "game_subtitles": false,
-                                "website": false,
-                                "audios": false
-                            }
-                        }
+                        
                     ]
                 },
                 {
@@ -1702,22 +1687,7 @@
                         "version": "1.0.0"
                     },
                     "patchs": [
-                        {
-                            "id": "dictionarium_fr",
-                            "name": "Dictionarium FR",
-                            "small_description": "Traduisez votre jeu en Français !",
-                            "description": "Ce patch traduit votre jeu en français !",
-                            "authors": "CubicOtter",
-                            "version": "1.0.0_credits",
-                            "patch_path": "patchs/dictionarium_1.0.0.zip",
-                            "patch_type": {
-                                "game_text": true,
-                                "game_assets": false,
-                                "game_subtitles": false,
-                                "website": false,
-                                "audios": false
-                            }
-                        }
+                        
                     ]
                 },
                 {
@@ -1765,23 +1735,7 @@
                         "version": "1.0.0"
                     },
                     "patchs": [
-                        {
-                            "id": "pushthebutton_fr",
-                            "name": "Push The Button FR",
-                            "small_description": "Traduisez votre jeu en Français !",
-                            "description": "Ce patch traduit votre jeu en français !",
-                            "authors": "Alexis et Fizzrocks",
-                            "version": "1.0.0_credits",
-                            "path": "games/PushTheButton",
-                            "patch_path": "patchs/pushthebutton_1.0.0.zip",
-                            "patch_type": {
-                                "game_text": true,
-                                "game_assets": true,
-                                "game_subtitles": false,
-                                "website": true,
-                                "audios": false
-                            }
-                        }
+                        
                     ]
                 }
             ],
