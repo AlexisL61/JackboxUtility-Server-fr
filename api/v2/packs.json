@@ -1700,10 +1700,10 @@
                     "name":"Traduction en français",
                     "small_description":"Traductions principalement textuelles",
                     "description":"",
-                    "patch_path":"https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/releases/latest/download/JPP8.zip",
+                    "patch_path":"https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/releases/latest/download/JPP7.zip",
                     "configuration": {
 						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/main/main/config.jet",
+						"version_file":"https://raw.githubusercontent.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/main/main/config.jet",
 						"version_property":"buildVersion"
 					},
                     "components":[
