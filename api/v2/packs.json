@@ -305,6 +305,59 @@
                 "path": "loaders/tjpp2/default.zip",
                 "version": "1.0.0"
             },
+            "configuration":{
+                "version_origin":"game_file",
+                "version_file":"config.jet",
+                "version_property":"buildVersion"
+            },
+            "patchs":[
+                {
+                    "id":"jpp2_fr",
+                    "name":"Traduction en français",
+                    "small_description":"Traductions principalement textuelles",
+                    "description":"",
+                    "patch_path":"https://github.com/Jackbox-France/The-Jackbox-Party-Pack-2-French/releases/latest/download/JPP2.zip",
+                    "configuration": {
+						"version_origin":"repo_file",
+						"version_file":"https://raw.githubusercontent.com/Jackbox-France/The-Jackbox-Party-Pack-2-French/main/main/config.jet",
+						"version_property":"buildVersion"
+					},
+                    "components":[
+                        {
+                            "id":"bidiots_fr",
+                            "linked_game":"bidiots",
+                            "name":"Bidiots FR",
+                            "description":"",
+                            "authors":"the_sign_painter et MisterShaokahn",
+                            "small_description":"Jeu traduit en français !",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": false,
+                                "game_subtitles": false,
+                                "website": false,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id":"bombcorp_fr",
+                            "linked_game":"bombcorp",
+                            "name":"Bomb Corp",
+                            "small_description": "Traduisez votre jeu en Français !",
+                            "description": "Le patch complet arrive bientôt. Vous pouvez toujours télécharger la preview mais gardez à l'esprit que la traduction n'est pas terminée. Avec cette preview, vous pouvez aller jusqu'au jour 8 sans soucis de traduction (sauf pour la bombe de tutoriel).",
+                            "authors": "Alexis",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": false
+                            }
+                        }
+                        
+                    ]
+                    
+                }
+            ],
             "games": [
                 {
                     "id": "bombcorp",
@@ -348,22 +401,7 @@
                         "version": "1.0.0"
                     },
                     "patchs": [
-                        {
-                            "id": "bombcorp_fr",
-                            "name": "[PREVIEW] Bomb Corp",
-                            "small_description": "[PREVIEW] Traduisez votre jeu en français",
-                            "description": "Le patch complet arrive bientôt. Vous pouvez toujours télécharger la preview mais gardez à l'esprit que la traduction n'est pas terminée. Avec cette preview, vous pouvez aller jusqu'au jour 8 sans soucis de traduction (sauf pour la bombe de tutoriel).",
-                            "authors": "Alexis",
-                            "version": "0.1.2",
-                            "patch_path": "patchs/bombcorp_0.1.2.zip",
-                            "patch_type": {
-                                "game_text": true,
-                                "game_assets": true,
-                                "game_subtitles": false,
-                                "website": true,
-                                "audios": false
-                            }
-                        }
+                        
                     ]
                 },
                 {
@@ -533,22 +571,7 @@
                         "version": "1.0.0"
                     },
                     "patchs": [
-                        {
-                            "id": "bidiots_fr",
-                            "name": "[PREVIEW] Bidiots",
-                            "small_description": "[PREVIEW] Traduisez votre jeu en français",
-                            "description": "Le patch complet arrive bientôt. Vous pouvez toujours télécharger la preview mais gardez à l'esprit que la traduction n'est pas terminée. Avec cette preview, vous pouvez traduire les éléments textuels du jeu.",
-                            "authors": "the_sign_painter#7458 et MisterShaokahn#0765",
-                            "version": "0.1.0",
-                            "patch_path": "patchs/bidiots_0.1.0.zip",
-                            "patch_type": {
-                                "game_text": true,
-                                "game_assets": false,
-                                "game_subtitles": false,
-                                "website": false,
-                                "audios": false
-                            }
-                        }
+                        
                     ]
                 }
             ],
