@@ -1336,22 +1336,7 @@
                         "version": "1.0.0"
                     },
                     "patchs": [
-                        {
-                            "id": "splittheroom_fr",
-                            "name": "[PREVIEW] Split The Room",
-                            "small_description": "[PREVIEW] Traduction du jeu en Français",
-                            "description": "Le patch complet arrive bientôt. Vous pouvez toujours télécharger la preview mais gardez à l'esprit que la traduction n'est pas terminée. Avec cette preview, le jeu est traduit en français, mais il peut y avoir des fautes. N'hésitez pas à prévenir MisterShaokahn#0765 si il y a des problèmes de traduction",
-                            "version": "0.1.1_credits",
-                            "authors": "MisterShaokahn#0765",
-                            "patch_path": "patchs/splittheroom_0.1.1.zip",
-                            "patch_type": {
-                                "game_text": true,
-                                "game_assets": false,
-                                "game_subtitles": false,
-                                "website": false,
-                                "audios": false
-                            }
-                        }
+                        
                     ]
                 },
                 {
@@ -1399,22 +1384,7 @@
                         "version": "1.0.0"
                     },
                     "patchs": [
-                        {
-                            "id": "patentlystupid_fr",
-                            "name": "Patently Stupid FR",
-                            "small_description": "Traduction du jeu en Français",
-                            "description": "Ce patch traduit votre jeu en français !",
-                            "version": "1.0.0_credits",
-                            "authors": "Alexis",
-                            "patch_path": "patchs/patentlystupid_1.0.0.zip",
-                            "patch_type": {
-                                "game_text": true,
-                                "game_assets": false,
-                                "game_subtitles": false,
-                                "website": false,
-                                "audios": false
-                            }
-                        }
+                        
                     ]
                 }
             ],
