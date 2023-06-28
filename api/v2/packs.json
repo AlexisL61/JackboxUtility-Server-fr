@@ -1114,6 +1114,59 @@
                 "path": "loaders/tjpp5/default.zip",
                 "version": "1.0.0"
             },
+            "configuration":{
+                "version_origin":"game_file",
+                "version_file":"config.jet",
+                "version_property":"buildVersion"
+            },
+            "patchs":[
+                {
+                    "id":"jpp5_fr",
+                    "name":"Traduction en français",
+                    "small_description":"Traductions principalement textuelles",
+                    "description":"",
+                    "patch_path":"https://github.com/Jackbox-France/The-Jackbox-Party-Pack-5-French/releases/latest/download/JPP5.zip",
+                    "configuration": {
+						"version_origin":"repo_file",
+						"version_file":"https://raw.githubusercontent.com/Jackbox-France/The-Jackbox-Party-Pack-5-French/main/main/config.jet",
+						"version_property":"buildVersion"
+					},
+                    "components":[
+                        {
+                            "id":"splittheroom_fr",
+                            "linked_game":"splittherroom",
+                            "name":"Split The Room FR",
+                            "description":"",
+                            "authors":"MisterShaokahn",
+                            "small_description":"Jeu traduit en français !",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": false,
+                                "game_subtitles": false,
+                                "website": false,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id":"patentlystupid_fr",
+                            "linked_game":"patentlystupid",
+                            "name":"Patently Stupid FR",
+                            "small_description": "Traduisez votre jeu en Français !",
+                            "description": "",
+                            "authors": "Alexis",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": false,
+                                "game_subtitles": false,
+                                "website": false,
+                                "audios": false
+                            }
+                        }
+                        
+                    ]
+                    
+                }
+            ],
             "games": [
                 {
                     "id": "ydkj_fullstream",
@@ -1390,6 +1443,75 @@
                 "path": "loaders/tjpp6/default.zip",
                 "version": "1.0.0"
             },
+            "configuration":{
+                "version_origin":"game_file",
+                "version_file":"config.jet",
+                "version_property":"buildVersion"
+            },
+            
+            "patchs":[
+                {
+                    "id":"jpp6_fr",
+                    "name":"Traduction en français",
+                    "small_description":"Traductions principalement textuelles",
+                    "description":"",
+                    "patch_path":"https://github.com/Jackbox-France/The-Jackbox-Party-Pack-6-French/releases/latest/download/JPP6.zip",
+                    "configuration": {
+						"version_origin":"repo_file",
+						"version_file":"https://raw.githubusercontent.com/Jackbox-France/The-Jackbox-Party-Pack-6-French/main/main/config.jet",
+						"version_property":"buildVersion"
+					},
+                    "components":[
+                        {
+                            "id":"jokeboat_fr",
+                            "linked_game":"jokeboat",
+                            "name":"Joke Boat FR",
+                            "description":"",
+                            "authors":"CubicOtter",
+                            "small_description":"Jeu traduit en français !",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": false,
+                                "game_subtitles": false,
+                                "website": false,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id":"dictionarium_fr",
+                            "linked_game":"dictionarium",
+                            "name":"Dictionarium FR",
+                            "description":"",
+                            "authors":"CubicOtter",
+                            "small_description":"Jeu traduit en français !",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": false,
+                                "game_subtitles": false,
+                                "website": false,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id":"pushthebutton_fr",
+                            "linked_game":"pushthebutton",
+                            "name":"Push The Button FR",
+                            "small_description": "Traduisez votre jeu en Français !",
+                            "description": "",
+                            "authors": "Alexis et Fizzrocks",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": false
+                            }
+                        }
+                        
+                    ]
+                    
+                }
+            ],
             "games": [
                 {
                     "id": "trivia_murder_party_2",
