@@ -1982,6 +1982,75 @@
                 "steam": "1552350",
                 "epic": "67003fc4eaa444608acf083a08dc907e"
             },
+            "configuration":{
+                "version_origin":"game_file",
+                "version_file":"config.jet",
+                "version_property":"buildVersion"
+            },
+            
+            "patchs":[
+                {
+                    "id":"jpp8_fr",
+                    "name":"Traduction en français",
+                    "small_description":"Traductions principalement textuelles",
+                    "description":"",
+                    "patch_path":"https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/releases/latest/download/JPP8.zip",
+                    "configuration": {
+						"version_origin":"repo_file",
+						"version_file":"https://raw.githubusercontent.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/main/main/config.jet",
+						"version_property":"buildVersion"
+					},
+                    "components":[
+                        {
+                            "id":"jobjob_fr",
+                            "linked_game":"jobjob",
+                            "name":"Job Job FR",
+                            "description":"",
+                            "authors":"Alexis",
+                            "small_description":"Jeu traduit en français !",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": false,
+                                "game_subtitles": false,
+                                "website": false,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id":"thepollmine_fr",
+                            "linked_game":"thepollmine",
+                            "name":"The Poll Mine FR",
+                            "description":"Le patch complet arrive bientôt. Vous pouvez toujours télécharger la preview mais gardez à l'esprit que la traduction n'est pas terminée. Avec cette preview, vous avez accès à 70 questions en français.",
+                            "authors":"Pachat, Alexis et fizzrocks",
+                            "small_description":"Jeu traduit en français !",
+                            "patch_type":{
+                                "game_text":true,
+                                "game_assets":true,
+                                "game_subtitles":true,
+                                "website":true,
+                                "audios":false
+                            }
+                        },
+                        {
+                            "id":"weaponsdrawn_fr",
+                            "linked_game":"weaponsdrawn",
+                            "name":"Weapon's Drawn FR",
+                            "small_description": "Traduisez votre jeu en Français !",
+                            "description": "Traduisez votre jeu en français avec ce patch !",
+                            "authors": "MisterShaokahn#0765",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": false,
+                                "game_subtitles": false,
+                                "website": false,
+                                "audios": false
+                            }
+                        }
+                        
+                    ]
+                    
+                }
+            ],
             "games": [
                 {
                     "id": "drawful_animate",
@@ -2107,24 +2176,7 @@
                         "path": "loaders/tjpp8/jobjob.zip",
                         "version": "1.0.0"
                     },
-                    "patchs": [
-                        {
-                            "id": "jobjob_fr",
-                            "name": "Job Job FR",
-                            "small_description": "Traduisez votre jeu en Français !",
-                            "description": "Utilisez les mots des autres pour gagner des points",
-                            "authors": "Alexis",
-                            "version": "1.0.0_credits",
-                            "patch_path": "patchs/jobjob_1.0.0.zip",
-                            "patch_type": {
-                                "game_text": true,
-                                "game_assets": false,
-                                "game_subtitles": false,
-                                "website": false,
-                                "audios": false
-                            }
-                        }
-                    ]
+                    "patchs": []
                 },
                 {
                     "id": "thepollmine",
@@ -2171,22 +2223,7 @@
                         "version": "1.0.0"
                     },
                     "patchs": [
-                        {
-                            "id": "thepollmine_fr",
-                            "name": "[PREVIEW] The Poll Mine",
-                            "small_description": "[PREVIEW] Traduisez votre jeu en Français !",
-                            "description": "Le patch complet arrive bientôt. Vous pouvez toujours télécharger la preview mais gardez à l'esprit que la traduction n'est pas terminée. Avec cette preview, vous avez accès à 70 questions en français.",
-                            "authors": "Pachat, Alexis et fizzrocks",
-                            "version": "0.1.0_credits",
-                            "patch_path": "patchs/thepollmine_0.1.0.zip",
-                            "patch_type": {
-                                "game_text": true,
-                                "game_assets": true,
-                                "game_subtitles": false,
-                                "website": true,
-                                "audios": false
-                            }
-                        }
+                        
                     ]
                 },
                 {
@@ -2233,22 +2270,7 @@
                         "version": "1.0.0"
                     },
                     "patchs": [
-                        {
-                            "id": "weaponsdrawn_fr",
-                            "name": "Weapon's Drawn FR",
-                            "small_description": "Traduisez votre jeu en Français !",
-                            "description": "Traduisez votre jeu en français avec ce patch !",
-                            "authors": "MisterShaokahn#0765",
-                            "version": "1.0.1_credits",
-                            "patch_path": "patchs/weaponsdrawn_1.0.1.zip",
-                            "patch_type": {
-                                "game_text": true,
-                                "game_assets": false,
-                                "game_subtitles": false,
-                                "website": false,
-                                "audios": false
-                            }
-                        }
+                        
                     ]
                 }
             ],
