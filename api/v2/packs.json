@@ -1134,7 +1134,7 @@
                     "components":[
                         {
                             "id":"splittheroom_fr",
-                            "linked_game":"splittherroom",
+                            "linked_game":"splittheroom",
                             "name":"Split The Room FR",
                             "description":"",
                             "authors":"MisterShaokahn",
