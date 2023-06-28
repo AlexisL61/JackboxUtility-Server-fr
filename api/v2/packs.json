@@ -817,6 +817,59 @@
                 "path": "loaders/tjpp4/default.zip",
                 "version": "1.0.0"
             },
+            "configuration":{
+                "version_origin":"game_file",
+                "version_file":"config.jet",
+                "version_property":"buildVersion"
+            },
+            "patchs":[
+                {
+                    "id":"jpp4_fr",
+                    "name":"Traduction en français",
+                    "small_description":"Traductions principalement textuelles",
+                    "description":"",
+                    "patch_path":"https://github.com/Jackbox-France/The-Jackbox-Party-Pack-4-French/releases/latest/download/JPP4.zip",
+                    "configuration": {
+						"version_origin":"repo_file",
+						"version_file":"https://raw.githubusercontent.com/Jackbox-France/The-Jackbox-Party-Pack-4-French/main/main/config.jet",
+						"version_property":"buildVersion"
+					},
+                    "components":[
+                        {
+                            "id":"monsterseekingmonster_fr",
+                            "linked_game":"monsterseekingmonster",
+                            "name":"Monster Seeking Monster FR",
+                            "description":"",
+                            "authors":"Fizzrocks et Alexis",
+                            "small_description":"Jeu traduit en français !",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id":"bracketeering_fr",
+                            "linked_game":"bracketeering",
+                            "name":"Bracketeering FR",
+                            "small_description": "Traduisez votre jeu en Français !",
+                            "description": "",
+                            "authors": "the_sign_painter",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": false
+                            }
+                        }
+                        
+                    ]
+                    
+                }
+            ],
             "games": [
                 {
                     "id": "survivetheinternet",
@@ -861,23 +914,7 @@
                         "version": "1.0.0"
                     },
                     "patchs": [
-                        {
-                            "id": "survivetheinternet_fr",
-                            "name": "Survive The Internet FR",
-                            "small_description": "Traduisez votre jeu en Français !",
-                            "description": "Ce patch transforme votre jeu en français !",
-                            "authors": "CubicOtter",
-                            "version": "",
-                            "path": "games/SurviveTheInternet",
-                            "patch_path": "patchs/survivetheinternet_1.0.0.zip",
-                            "patch_type": {
-                                "game_text": true,
-                                "game_assets": false,
-                                "game_subtitles": false,
-                                "website": false,
-                                "audios": false
-                            }
-                        }
+                        
                     ]
                 },
                 {
@@ -923,23 +960,7 @@
                         "version": "1.0.0"
                     },
                     "patchs": [
-                        {
-                            "id": "monsterseekingmonster_fr",
-                            "name": "Monster Seeking Monster FR",
-                            "small_description": "Traduisez votre jeu en Français !",
-                            "description": "Ce patch traduit votre jeu en français !",
-                            "authors": "Fizzrocks et Alexis",
-                            "version": "1.0.0_credits",
-                            "path": "games/MonsterMingle",
-                            "patch_path": "patchs/monsterseekingmonster_1.0.0.zip",
-                            "patch_type": {
-                                "game_text": true,
-                                "game_assets": true,
-                                "game_subtitles": false,
-                                "website": true,
-                                "audios": false
-                            }
-                        }
+                        
                     ]
                 },
                 {
@@ -985,22 +1006,7 @@
                         "version": "1.0.0"
                     },
                     "patchs": [
-                        {
-                            "id": "bracketeering_fr",
-                            "name": "Bracketeering",
-                            "small_description": "Traduisez votre jeu en Français !",
-                            "description": "Ce patch traduit votre jeu en français !",
-                            "authors": "the_sign_painter",
-                            "version": "1.0.1_credits",
-                            "patch_path": "patchs/bracketeering_1.0.1.zip",
-                            "patch_type": {
-                                "game_text": true,
-                                "game_assets": true,
-                                "game_subtitles": false,
-                                "website": true,
-                                "audios": false
-                            }
-                        }
+                        
                     ]
                 },
                 {
