@@ -63,7 +63,7 @@
             "store_links": {
                 "steam": "https://store.steampowered.com/app/331670/The_Jackbox_Party_Pack/",
                 "epic": "https://store.epicgames.com/p/jackbox-party-pack-1",
-                "jackbox_games_store": "https://shop.jackboxgames.com/collections/staging-party-packs/products/the-jackbox-party-pack-pc-mac-linux-code"
+                "jackbox_games_store": "http://shrsl.com/44k1h"
             },
             "loader": {
                 "path": "loaders/tjpp1/default.zip",
@@ -306,6 +306,7 @@
                 "version_file":"config.jet",
                 "version_property":"buildVersion"
             },
+            
             "patchs":[
                 {
                     "id":"jpp2_fr",
@@ -581,7 +582,7 @@
             "store_links": {
                 "steam": "https://store.steampowered.com/app/397460/The_Jackbox_Party_Pack_2/",
                 "epic": "https://store.epicgames.com/p/jackbox-party-pack-2",
-                "jackbox_games_store": "https://shop.jackboxgames.com/collections/staging-party-packs/products/the-jackbox-party-pack-2-pc-mac-linux-code"
+                "jackbox_games_store": "http://shrsl.com/44k1m"
             }
         },
         {
@@ -826,7 +827,7 @@
             "store_links": {
                 "steam": "https://store.steampowered.com/app/434170/The_Jackbox_Party_Pack_3/",
                 "epic": "https://store.epicgames.com/p/jackbox-party-pack-3",
-                "jackbox_games_store": "https://shop.jackboxgames.com/collections/staging-party-packs/products/the-jackbox-party-pack-3-pc-mac-linux-code"
+                "jackbox_games_store": "http://shrsl.com/44k1n"
             }
         },
         {
@@ -1134,7 +1135,7 @@
             "store_links": {
                 "steam": "https://store.steampowered.com/app/610180/The_Jackbox_Party_Pack_4/",
                 "epic": "https://store.epicgames.com/p/jackbox-party-pack-4",
-                "jackbox_games_store": "https://shop.jackboxgames.com/collections/staging-party-packs/products/the-jackbox-party-pack-4-pc-mac-linux-code"
+                "jackbox_games_store": "http://shrsl.com/44k1o"
             }
         },
         {
@@ -1438,7 +1439,7 @@
             "store_links": {
                 "steam": "https://store.steampowered.com/app/774461/The_Jackbox_Party_Pack_5/",
                 "epic": "https://store.epicgames.com/p/jackbox-party-pack-5",
-                "jackbox_games_store": "https://shop.jackboxgames.com/collections/staging-party-packs/products/the-jackbox-party-pack-5"
+                "jackbox_games_store": "http://shrsl.com/44k1p"
             }
         },
         {
@@ -1764,7 +1765,7 @@
             "store_links": {
                 "steam": "https://store.steampowered.com/app/1005300/The_Jackbox_Party_Pack_6/",
                 "epic": "https://store.epicgames.com/p/jackbox-party-pack-6",
-                "jackbox_games_store": "https://shop.jackboxgames.com/collections/staging-party-packs/products/preorder-the-jackbox-party-pack-six-pc-mac-linux-steam-code"
+                "jackbox_games_store": "http://shrsl.com/44k1q"
             }
         },
         {
@@ -2084,7 +2085,7 @@
             "store_links": {
                 "steam": "https://store.steampowered.com/app/1211630/The_Jackbox_Party_Pack_7/",
                 "epic": "https://store.epicgames.com/p/jackbox-party-pack-7",
-                "jackbox_games_store": "https://shop.jackboxgames.com/collections/staging-party-packs/products/the-jackbox-party-pack-7-windows-mac-linux-steam-code"
+                "jackbox_games_store": "http://shrsl.com/44k1s"
             }
         },
         {
@@ -2406,7 +2407,7 @@
             "store_links": {
                 "steam": "https://store.steampowered.com/app/1552350/The_Jackbox_Party_Pack_8/",
                 "epic": "https://store.epicgames.com/p/jackbox-party-pack-8",
-                "jackbox_games_store": "https://shop.jackboxgames.com/collections/staging-party-packs/products/the-jackbox-party-pack-eight-u-s-only-windows-mac-linux-steam-code"
+                "jackbox_games_store": "http://shrsl.com/44k1u"
             }
         },
         {
@@ -2653,7 +2654,7 @@
             "store_links": {
                 "steam": "https://store.steampowered.com/app/1850960/The_Jackbox_Party_Pack_9/",
                 "epic": "https://store.epicgames.com/p/jackbox-party-pack-9",
-                "jackbox_games_store": "https://shop.jackboxgames.com/collections/staging-party-packs/products/the-jackbox-party-pack-9-pre-order-u-s-only-windows-mac-linux-steam-code"
+                "jackbox_games_store": "http://shrsl.com/44k1v"
             }
         },
         {
@@ -2812,7 +2813,7 @@
             "store_links": {
                 "steam": "https://store.steampowered.com/app/1755580/The_Jackbox_Party_Starter/",
                 "epic": "https://store.epicgames.com/p/jackbox-party-starter",
-                "jackbox_games_store": "https://shop.jackboxgames.com/collections/staging-party-packs/products/the-jackbox-party-starter-windows-mac-linux-steam-code"
+                "jackbox_games_store": "http://shrsl.com/44k1w"
             }
         }
     ]
