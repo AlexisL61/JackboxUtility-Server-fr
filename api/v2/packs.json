@@ -87,6 +87,7 @@
                         "small_description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "images": [
+                            "game_images/YDKJ2015/ydkj2015.mp4",
                             "game_images/YDKJ2015/ydkj2015_1.webp",
                             "game_images/YDKJ2015/ydkj2015_2.webp",
                             "game_images/YDKJ2015/ydkj2015_3.webp",
@@ -130,6 +131,7 @@
                         "small_description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "images": [
+                            "game_images/FibbageXL/fibbagexl.mp4",
                             "game_images/FibbageXL/fibbagexl_1.webp",
                             "game_images/FibbageXL/fibbagexl_2.webp",
                             "game_images/FibbageXL/fibbagexl_3.webp"
@@ -172,6 +174,7 @@
                         "small_description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "images": [
+                            "game_images/Drawful/drawful.mp4",
                             "game_images/Drawful/drawful_1.webp",
                             "game_images/Drawful/drawful_2.webp"
                         ],
@@ -212,6 +215,7 @@
                         "small_description": "Passez cette patate",
                         "description": "# Vous êtes arrivé là ?\n\nBien joué, vous êtes maintenant un joueur hardcore de jackbox, car vous avez réussi à trouver le **meilleur** jeu de Jackbox. Êtes-vous prêt ? Alors lancez le jeu, vous n'allez pas en croire vos yeux.",
                         "images": [
+                            "game_images/WordSpud/wordspud.mp4",
                             "game_images/WordSpud/wordspud_1.webp",
                             "game_images/WordSpud/wordspud_2.webp"
                         ],
@@ -252,6 +256,7 @@
                         "small_description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "images": [
+                            "game_images/LieSwatter/lieswatter.mp4",
                             "game_images/LieSwatter/lieswatter_1.webp",
                             "game_images/LieSwatter/lieswatter_2.webp"
                         ],
@@ -365,6 +370,7 @@
                         "small_description": "Bienvenue à Bomb Corp ! En tant que stagiaire, vous allez devoir désamorcer les bombes qui se trouvent dans l'entreprise. Arriverez-vous à atteindre le dernier jour ?",
                         "description": "# Votre nouveau job : Stagiaire désamorceur\n\nDans Bomb Corp, vous allez devoir désamorcer des bombes à quatre joueurs. La difficulté ? Chacun a une indication qu'il devra expliquer à l'équipe pour couper les bons fils.\n\nVous trouvez que désamorcer des bombes est trop simple ? Alors essayez de trier des fichiers dans l'ordre, faire un café avec du matériel explosif ou encore déchiffrer un code pour ouvrir les bureaux.\n\nLe jeu a 2 modes de jeux : \n- Histoire : Un mode histoire où vous allez devoir survivre à 15 jours chez Bomb Corp\n- Mode infini : Pour les joueurs qui veulent juste jouer jusqu'au bout de la nuit\n\nPlus vous allez loin, et plus ça va être compliqué de désamorcer les bombes (et supporter vos collègues)",
                         "images": [
+                            "game_images/BombCorp/bombcorp.mp4",
                             "game_images/BombCorp/bombcorp_1.webp",
                             "game_images/BombCorp/bombcorp_2.webp",
                             "game_images/BombCorp/bombcorp_3.webp",
@@ -412,6 +418,7 @@
                         "small_description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "images": [
+                            "game_images/QuiplashXL/quiplashxl.mp4",
                             "game_images/QuiplashXL/quiplashxl_1.webp",
                             "game_images/QuiplashXL/quiplashxl_2.webp",
                             "game_images/QuiplashXL/quiplashxl_3.webp",
@@ -454,6 +461,7 @@
                         "small_description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "images": [
+                            "game_images/Fibbage2/fibbage2.mp4",
                             "game_images/Fibbage2/fibbage2_1.webp",
                             "game_images/Fibbage2/fibbage2_2.webp",
                             "game_images/Fibbage2/fibbage2_3.webp",
@@ -497,6 +505,7 @@
                         "small_description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "images": [
+                            "game_images/Earwax/earwax.mp4",
                             "game_images/Earwax/earwax_1.webp",
                             "game_images/Earwax/earwax_2.webp",
                             "game_images/Earwax/earwax_3.webp",
@@ -537,6 +546,7 @@
                         "small_description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "images": [
+                            "game_images/Bidiots/bidiots.mp4",
                             "game_images/Bidiots/bidiots_1.webp",
                             "game_images/Bidiots/bidiots_2.webp",
                             "game_images/Bidiots/bidiots_3.webp",
@@ -609,6 +619,7 @@
                         "small_description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "images": [
+                            "game_images/FakinIt/fakinit.mp4",
                             "game_images/FakinIt/fakinit_1.webp",
                             "game_images/FakinIt/fakinit_2.webp",
                             "game_images/FakinIt/fakinit_3.webp",
@@ -653,6 +664,7 @@
                         "small_description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "images": [
+                            "game_images/Quiplash2/quiplash2.mp4",
                             "game_images/Quiplash2/quiplash2_1.webp",
                             "game_images/Quiplash2/quiplash2_2.webp",
                             "game_images/Quiplash2/quiplash2_3.webp",
@@ -695,6 +707,7 @@
                         "small_description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "images": [
+                            "game_images/TriviaMurderParty/triviamurderparty.mp4",
                             "game_images/TriviaMurderParty/triviamurderparty_1.webp",
                             "game_images/TriviaMurderParty/triviamurderparty_2.webp",
                             "game_images/TriviaMurderParty/triviamurderparty_3.webp",
@@ -737,6 +750,7 @@
                         "small_description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "images": [
+                            "game_images/TeeKO/teeko.mp4",
                             "game_images/TeeKO/teeko_1.webp",
                             "game_images/TeeKO/teeko_2.webp",
                             "game_images/TeeKO/teeko_3.webp",
@@ -780,6 +794,7 @@
                         "small_description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "images": [
+                            "game_images/Guesspionage/guesspionage.mp4",
                             "game_images/Guesspionage/guesspionage_1.webp",
                             "game_images/Guesspionage/guesspionage_2.webp",
                             "game_images/Guesspionage/guesspionage_3.webp",
@@ -904,6 +919,7 @@
                         "small_description": "Internet. Le monde des chats, des trolls et des memes. Mais le plus important dans ce monde c'est les personnes sortant vos mots en dehors de son contexte. Saurez-vous masteriser cet art et gagner des points ?",
                         "description": "# Le doux monde d'internet\n\nDans ce jeu vous allez devoir répondre à une question simple qui sera ensuite envoyé à un autre joueur. Son but ? Sortir votre phrase hors de son contexte pour que ce soit le plus improbable / drôle possible. Peut-être votre phrase sera présentée en tant que commentaire d'une vidéo, d'une recommandation d'une personne connue ou encore un commentaire d'un produit ménager ? ",
                         "images": [
+                            "game_images/SurviveTheInternet/survivetheinternet.mp4",
                             "game_images/SurviveTheInternet/survivetheinternet_1.webp",
                             "game_images/SurviveTheInternet/survivetheinternet_2.webp",
                             "game_images/SurviveTheInternet/survivetheinternet_3.webp",
@@ -950,6 +966,7 @@
                         "small_description": "Vous êtes désespérément à la recherche de l'amour. Je sais c'est compliqué en tant que monstre. Monster seeking monster peut vous aider à remédier à ça en vous laissant participer à une séance de rendez-vous amoureux avec tous les monstres aux alentours !",
                         "description": "# But du jeu\n\nPour remporter Monster Seeking Monster, il faut **discuter par écrit avec les autres joueurs afin d'organiser un rendez-vous** avec l'un d'entre eux.\n\n# Déroulement d'une partie\n\nLe jeu se joue en 6 nuits, chacune étant composée de deux phases :\n- La phase de discussion écrite\n- La phase de rencontre\n\n*Bon à savoir : La moitié des nuits (soit 3) sont des **nuits de pleine lune**. Pour certains monstres, elle s'avèrent **capitales***.\n\n# Déroulement d'une manche\n\nChaque nuit commence par la phase de drague. Tous les joueurs disposeront d'un temps limité pour pour s'envoyer **jusqu'à 4 messages** afin d'organiser leurs rendez-vous. Une fois le temps imparti écoulé, ils devront choisir le joueur avec lequel sortir.\n\nLa phase des résultats débute alors. Un à un, les joueurs ainsi que l'élu de leur coeur seront affichés. Deux résultats sont alors possibles :\n- Deux joueurs se choisissent mutuellement : c'est un match. **Un coeur est remporté par chacun**.\n- L'un des joueurs n'a pas choisi celui qui l'a choisi : c'est un gros râteau. **Le joueur ayant été rejeté ne gagne aucun coeur**.\n\n *A partir de la nuit 3, le rôle du joueur classé en première position est révélé. Il en sera ainsi pour toutes les nuits restantes.*\n\nLa nuit se termine et la suivante débute. Le procédé se répète jusqu'à la nuit 6 où sont annoncés les résultats et les rôles des derniers joueurs.",
                         "images": [
+                            "game_images/MonsterSeekingMonster/monsterseekingmonster.mp4",
                             "game_images/MonsterSeekingMonster/monsterseekingmonster_1.webp",
                             "game_images/MonsterSeekingMonster/monsterseekingmonster_2.webp",
                             "game_images/MonsterSeekingMonster/monsterseekingmonster_3.webp",
@@ -996,6 +1013,7 @@
                         "small_description": "Vous êtes invité à un tournoi ravagé ou vous allez devoir répondre aux questions les plus importantes de la vie ! Arriverez-vous à terminer premier de ce tournoi intergalactique ?",
                         "description": "# C'est l'heure du tournoi !\n\nVous allez recevoir une question, et allez devoir y répondre. Votre réponse sera ensuite face aux autres et c'est seulement ensuite que nous saurons qui sera le grand vainqueur.\n\nVous êtes pas très bon ? Alors faites des prédictions et recevez de l'argent en fonction de votre performance !",
                         "images": [
+                            "game_images/Bracketeering/bracketeering.mp4",
                             "game_images/Bracketeering/bracketeering_1.webp",
                             "game_images/Bracketeering/bracketeering_2.webp",
                             "game_images/Bracketeering/bracketeering_3.webp",
@@ -1040,6 +1058,7 @@
                         "small_description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "images": [
+                            "game_images/Fibbage3/fibbage3.mp4",
                             "game_images/Fibbage3/fibbage3_1.webp",
                             "game_images/Fibbage3/fibbage3_2.webp",
                             "game_images/Fibbage3/fibbage3_3.webp",
@@ -1083,6 +1102,7 @@
                         "small_description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "images": [
+                            "game_images/CivicDoodle/civicdoodle.mp4",
                             "game_images/CivicDoodle/civicdoodle_1.webp",
                             "game_images/CivicDoodle/civicdoodle_2.webp",
                             "game_images/CivicDoodle/civicdoodle_3.webp",
@@ -1205,6 +1225,7 @@
                         "small_description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "images": [
+                            "game_images/YDKJFullStream/ydkjfullstream.mp4",
                             "game_images/YDKJFullStream/ydkjfullstream_1.webp",
                             "game_images/YDKJFullStream/ydkjfullstream_2.webp",
                             "game_images/YDKJFullStream/ydkjfullstream_3.webp",
@@ -1247,6 +1268,7 @@
                         "small_description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "images": [
+                            "game_images/MadVerseCity/madversecity.mp4",
                             "game_images/MadVerseCity/madversecity_1.webp",
                             "game_images/MadVerseCity/madversecity_2.webp",
                             "game_images/MadVerseCity/madversecity_3.webp",
@@ -1289,6 +1311,7 @@
                         "small_description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "images": [
+                            "game_images/ZeepleDome/zeepledome.mp4",
                             "game_images/ZeepleDome/zeepledome_1.webp",
                             "game_images/ZeepleDome/zeepledome_2.webp",
                             "game_images/ZeepleDome/zeepledome_3.webp",
@@ -1332,6 +1355,7 @@
                         "small_description": "Vous allez devoir créer les meilleurs dillemmes possible. Le but du jeu ? Splitez vos amis le plus possible sur une question simple (et délirante)",
                         "description": "# Bienvenue dans un monde où les dimensions s'entremêlent\n\nMayonnaise vous attend. Vous allez devoir créer des dilemmes pour séparer le plus de personnes. Plus le split est grand, plus vous gagnez des points ! Soyez stratégiques, connaissez vos adversaires et créez les plus grands dilemmes que le monde n'aient jamais connus.",
                         "images": [
+                            "game_images/SplitTheRoom/splittheroom.mp4",
                             "game_images/SplitTheRoom/splittheroom_1.webp",
                             "game_images/SplitTheRoom/splittheroom_2.webp",
                             "game_images/SplitTheRoom/splittheroom_3.webp",
@@ -1378,6 +1402,7 @@
                         "small_description": "Le monde va mal et les problèmes pleuvent. Arriverez-vous à créer l'invention qui résoudra tout. Et surtout, arriverez-vous à la vendre au plus de personnes dans la salle ?",
                         "description": "# C'est l'heure du meeting\n\nVous êtes invité au plus grand meeting d'ingénieur que le monde ait connu. Le monde a des problèmes et vous allez devoir les résoudre avec une invention que vous allez dessiner, nommer et présenter. Si vous êtes bon, vous gagnerez de l'argent.\n\nVous n'avez pas géré lors du premier tour ? Alors rattrapez vous avec le second en créant un objet répondant aux mêmes problèmes que vos compères !",
                         "images": [
+                            "game_images/PatentlyStupid/patentlystupid.mp4",
                             "game_images/PatentlyStupid/patentlystupid_1.webp",
                             "game_images/PatentlyStupid/patentlystupid_2.webp",
                             "game_images/PatentlyStupid/patentlystupid_3.webp",
@@ -1520,6 +1545,7 @@
                         "small_description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "images": [
+                            "game_images/TriviaMurderParty2/triviamurderparty2.mp4",
                             "game_images/TriviaMurderParty2/triviamurderparty2_1.webp",
                             "game_images/TriviaMurderParty2/triviamurderparty2_2.webp",
                             "game_images/TriviaMurderParty2/triviamurderparty2_3.webp",
@@ -1565,6 +1591,7 @@
                         "small_description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "images": [
+                            "game_images/RoleModels/rolemodels.mp4",
                             "game_images/RoleModels/rolemodels_1.webp",
                             "game_images/RoleModels/rolemodels_2.webp",
                             "game_images/RoleModels/rolemodels_3.webp",
@@ -1608,6 +1635,7 @@
                         "small_description": "Vous êtes les comédiens ? Génial, vous allez pouvoi faire rire tous nos convives dans Joke Boat",
                         "description": "# Bienvenue à bord !\n\nVous êtes accepté en tant que comédien dans le Joke Boat, un bateau connu pour... ses blagues ? En tout cas, votrre but est de recevoir le plus d'argent des passagers en vous démarquant de votre adversaire. Comment faire ? En créant vos meilleures blagues bien sûr !",
                         "images": [
+                            "game_images/JokeBoat/jokeboat.mp4",
                             "game_images/JokeBoat/jokeboat_1.webp",
                             "game_images/JokeBoat/jokeboat_2.webp",
                             "game_images/JokeBoat/jokeboat_3.webp",
@@ -1653,6 +1681,7 @@
                         "small_description": "Le dictionnaire est vaste mais pourquoi pas en rajouter ? A vous de créer de nouveaux mots, donner leur définition et choisir votre préféré !",
                         "description": "# Imaginez des mots\n\nBienvenue au dictionarium, un endroit magique où vous allez devoir créer de nouveaux mots en plus de leur définition. Un concept assez simple mais qui est très ontéressant si vous avez une âme littéraire",
                         "images": [
+                            "game_images/Dictionarium/dictionarium.mp4",
                             "game_images/Dictionarium/dictionarium_1.webp",
                             "game_images/Dictionarium/dictionarium_2.webp",
                             "game_images/Dictionarium/dictionarium_3.webp",
@@ -1697,6 +1726,7 @@
                         "small_description": "Des aliens sont arrivés dans votre vaisseau et se cachent dans votre équipage. Trouvez les à temps avant que l'IA du vaisseau soit effacée pour survivre.",
                         "description": "# Une intrusion a été détectée\n\nDODE, l'IA de votre vaisseau spatial, vous avertis que des perturbations anormales ont eu lieu à l'intérieur de celui-ci. Après analyse, vous découvrez que certains de vos coéquipiers sont des aliens. Mais vous ne savez pas qui !\n\nPour les découvir vous allez devoir faire des tests d'humanité à chaque joueurs dans la partie. Que ce soit avec des opinions, des dessins ou encore des mots, il y a des tonnes de manière de trouver les aliens. Mais faites vite ! Le temps tourne et si vous ne trouvez pas tous les aliens avant la fin, c'est perdu !",
                         "images": [
+                            "game_images/PushTheButton/pushthebutton.mp4",
                             "game_images/PushTheButton/pushthebutton_1.webp",
                             "game_images/PushTheButton/pushthebutton_2.webp",
                             "game_images/PushTheButton/pushthebutton_3.webp",
@@ -1841,6 +1871,7 @@
                         "small_description": "Le combat approche. Il est l'heure de créer vos meilleurs combattants pour qu'ils puissent se battre sur le ring. Arriverez-vous à sortir vainqueur ?",
                         "description": "# A vos crayons, prêt... combattez !\n\nIl est l'heure de dessiner ! Vous allez recevoir un thème sur votre appareil. Il vous faudra créer un personnage qui répond au mieux au critère en le dessinant et en le nommant !\n\nLors du second tour, vous allez recevoir le dessin d'un autre joueur et allez devoir dessiner son rival, celui qui pourrait le battre à son propre thème.\n\nSerez-vous le vainqueur de ce tournoi, ou resterez-vous sur la touche ? Bienvenue sur **Champ'd Up** !",
                         "images": [
+                            "game_images/ChampdUp/champdup.mp4",
                             "game_images/ChampdUp/champdup_1.webp",
                             "game_images/ChampdUp/champdup_2.webp",
                             "game_images/ChampdUp/champdup_3.webp",
@@ -1885,6 +1916,7 @@
                         "small_description": "L'impro ça vous connait ? Vous allez devoir passer à l'oral sur un thème que vous ne connaissez pas et avec des diapositives choisies par d'autres joueurs. Parlez bien pour gagner !",
                         "description": "# Retour à l'école !\n\nVous allez devoir passer à l'oral sur un thème choisit par un autre joueur. Dites n'importe quoi et essayez d'être le plus raccord avec les diapositives choisies par votre suppléant : un autre joueur.\n\nEn plus de noter les autres pendant la présentation, vous pouvez aussi donner un award à votre présentation préférée pour lui faire gagner pleins de points !",
                         "images": [
+                            "game_images/TalkingPoints/talkingpoints.mp4",
                             "game_images/TalkingPoints/talkingpoints_1.webp",
                             "game_images/TalkingPoints/talkingpoints_2.webp",
                             "game_images/TalkingPoints/talkingpoints_3.webp",
@@ -1930,6 +1962,7 @@
                         "small_description": "Hey, les démons ! C'est à vous de travailler ensemble pour faire ce que les humains font le moins bien : des tâches ménagères. Travaillez en équipe et soyez vif pour réussir le challenge de la semaine !",
                         "description": "# Au travail démons !\n\nVous avez été accepté pour le programme de relation entre démons et humains. Vos tâches seront simples : faire des tâches ménagères. Vous allez devoir travailler en équipe pour en faire le plus possible et ainsi gagner le challenge de la semaine.\n\nMais faites attention, certains démons vont essayer de jouer dans leur coin pour empocher un max de points et ne plus rien vous laisser. Soyez rapide et efficace pour les arreter !",
                         "images": [
+                            "game_images/TheDevilsAndTheDetails/thedevilsandthedetails.mp4",
                             "game_images/TheDevilsAndTheDetails/thedevilsandthedetails_1.webp",
                             "game_images/TheDevilsAndTheDetails/thedevilsandthedetails_2.webp",
                             "game_images/TheDevilsAndTheDetails/thedevilsandthedetails_3.webp",
@@ -1975,6 +2008,7 @@
                         "small_description": "C'est l'heure d'être drôle ! Epatez tous vos amis en répondant de la manière la plus marrante aux phrases farfelus de Quiplash 3.",
                         "description": "# C'est l'heure de faire rire\n\n Vous allez recevoir une phrase. Essayez d'y répondre de la manière la plus drôle possible. Votre phrase sera face à celle d'un joueur et les autres votent pour leur préférée. Un jeu simple et efficace qui pourra vous faire rire pendant beaucoup de temps.",
                         "images": [
+                            "game_images/Quiplash3/quiplash3.mp4",
                             "game_images/Quiplash3/quiplash3_1.webp",
                             "game_images/Quiplash3/quiplash3_2.webp",
                             "game_images/Quiplash3/quiplash3_3.webp",
@@ -2017,6 +2051,7 @@
                         "small_description": "Vous avez un mot. Il est simple à faire deviner mais vous êtes limité. Vous allez devoir vous aider des mots des autres joueurs pour leur faire deviner le votre",
                         "description": "# C'est l'heure des devinettes\n\nVous allez devoir choisir un mot. Votre but : Le faire deviner aux autres joueurs. Mais vous avez accès à un vocabulaire limité pour pouvoir le faire deviner. Vous allez donc devoir vous aiderr de ce que disent les autres joueurs pour faire deviner votre propre mot",
                         "images": [
+                            "game_images/BlatherRound/blatherround.mp4",
                             "game_images/BlatherRound/blatherround_1.webp",
                             "game_images/BlatherRound/blatherround_2.webp",
                             "game_images/BlatherRound/blatherround_3.webp",
@@ -2156,6 +2191,7 @@
                         "small_description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "images": [
+                            "game_images/DrawfulAnimate/drawfulanimate.mp4",
                             "game_images/DrawfulAnimate/drawfulanimate_1.webp",
                             "game_images/DrawfulAnimate/drawfulanimate_2.webp",
                             "game_images/DrawfulAnimate/drawfulanimate_3.webp",
@@ -2198,6 +2234,7 @@
                         "small_description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "images": [
+                            "game_images/TheWheelOfEnormousProportions/thewheelofenormousproportions.mp4",
                             "game_images/TheWheelOfEnormousProportions/thewheelofenormousproportions_1.webp",
                             "game_images/TheWheelOfEnormousProportions/thewheelofenormousproportions_2.webp",
                             "game_images/TheWheelOfEnormousProportions/thewheelofenormousproportions_3.webp",
@@ -2240,6 +2277,7 @@
                         "small_description": "C'est l'heure de l'interview. Parviendrez-vous à impressionner Mr Bubble, le patron, et décrocher le job ?",
                         "description": "# L'interview approche...\n\n ... et vous êtes confrontés aux autres joueurs pour décrocher le job. Pour vous échauffer, vous allez devoir répondre à une question simple avec le plus de mots possible. Les mots dans votre réponse seront envoyés aux autres joueurs qui devront les utiliser pour répondre à leur seconde question ! C'est ensuite que les joueurs votent pour leur réponse préférée !",
                         "images": [
+                            "game_images/JobJob/jobjob.mp4",
                             "game_images/JobJob/jobjob_1.webp",
                             "game_images/JobJob/jobjob_2.webp",
                             "game_images/JobJob/jobjob_3.webp",
@@ -2284,6 +2322,7 @@
                         "small_description": "Les sondages sont puissants vous savez ? C'est le seul moyen pour vous de sortir de cette grotte. Alors jouez en équipe et trouvez les réponses de ces sondages dans l'ordre !",
                         "description": "Bienvenue jeunes voyageurs, vous avez tenté de piller cette grotte mais vous vous êtes fait enfermés. La seule manière de sortir vivant avec votre équipe est de répondre à des sondages. Vous allez ensuite devoir retrouver le classement de ces sondages dans un ordre précis. L'équipe avec le plus de torches (ou celle qui ne se fait pas éliminée) gagne !",
                         "images": [
+                            "game_images/PollMine/pollmine.mp4",
                             "game_images/PollMine/pollmine_1.webp",
                             "game_images/PollMine/pollmine_2.webp",
                             "game_images/PollMine/pollmine_3.webp",
@@ -2330,6 +2369,7 @@
                         "small_description": "Effectuez des meurtres avec vos dessins et essayez d'en résoudre grâce à vos talents de détective dans ce jeu où se melle dessin et déduction",
                         "description": "# Des meurtres à foison\n\nDans ce jeu, vous allez devoir dessiner vos propres armes pour pouvoir effectuer des meurtres sur vos cibles. Mais attention ! Ces armes contiennent une lettre que vous allez devoir cacher sous peine d'être repéré. Agissez vite pour tuer rapidement et observer bien pour trouver les meurtiers parmis vos camarades.",
                         "images": [
+                            "game_images/WeaponsDrawn/weaponsdrawn.mp4",
                             "game_images/WeaponsDrawn/weaponsdrawn_1.webp",
                             "game_images/WeaponsDrawn/weaponsdrawn_2.webp",
                             "game_images/WeaponsDrawn/weaponsdrawn_3.webp",
@@ -2405,6 +2445,7 @@
                         "small_description": "Bienvenue dans Fibbage 4, le jeu où vous allez devoir mentir et faire tomber des personnes dans le panneau pour gagner des points.",
                         "description": "# Fibbage quatre...\n\n Dans fibbage 4, vous allez devoir compléter des anecdotes. Chaque joueur va devoir imaginer une réponse à l'anecdote. En seconde partie, les réponses de chaque joueur sont montrées ainsi que la **vraie** réponse ! Le but est de trouver la vérité sans tomber sur les réponses adverses.\n\nEn plus des anecdotes classiques, vous trouverez aussi des anecdotes sous format vidéo et le Fibbage final ou vous devrez remplir 2 anecdotes en même temps.\n\nQui sera le meilleur menteur ?",
                         "images": [
+                            "game_images/Fibbage4/fibbage4.mp4",
                             "game_images/Fibbage4/fibbage4_1.jpg",
                             "game_images/Fibbage4/fibbage4_2.jpg",
                             "game_images/Fibbage4/fibbage4_3.jpg",
@@ -2447,6 +2488,7 @@
                         "small_description": "C'est le moment de vous faire connaitre ! Rejoignez la télé-réalité Roomerang et éliminé vos adversaires un à un jusqu'à ce qu'une seule personne soit vainqueur.",
                         "description": "Bienvenue dans Roomerang\n\nIci, vous devez vous batailler pour la victoire. Vous avez chacun un petit détail sur vous. Que ce soit livreur de pizza, jardinier en herbe ou pro de l'escalade, vous avez les talents pour gagner la partie et éliminer tout le monde sur votre passage.",
                         "images": [
+                            "game_images/Roomerang/roomerang.mp4",
                             "game_images/Roomerang/roomerang_1.jpg",
                             "game_images/Roomerang/roomerang_2.jpg",
                             "game_images/Roomerang/roomerang_3.jpg",
@@ -2489,6 +2531,7 @@
                         "small_description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "images": [
+                            "game_images/Junktopia/junktopia.mp4",
                             "game_images/Junktopia/junktopia_1.jpg",
                             "game_images/Junktopia/junktopia_2.jpg",
                             "game_images/Junktopia/junktopia_3.jpg",
@@ -2532,6 +2575,7 @@
                         "small_description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "images": [
+                            "game_images/Nonsensory/nonsensory.mp4",
                             "game_images/Nonsensory/nonsensory_1.jpg",
                             "game_images/Nonsensory/nonsensory_2.jpg",
                             "game_images/Nonsensory/nonsensory_3.jpg",
@@ -2575,6 +2619,7 @@
                         "small_description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "images": [
+                            "game_images/Quixort/quixort.mp4",
                             "game_images/Quixort/quixort_1.jpg",
                             "game_images/Quixort/quixort_2.jpg",
                             "game_images/Quixort/quixort_3.jpg",
@@ -2645,6 +2690,7 @@
                         "small_description": "C'est l'heure d'être drôle ! Epatez tous vos amis en répondant de la manière la plus marrante aux phrases farfelus de Quiplash 3.",
                         "description": "# C'est l'heure de faire rire\n\n Vous allez recevoir une phrase. Essayez d'y répondre de la manière la plus drôle possible. Votre phrase sera face à celle d'un joueur et les autres votent pour leur préférée. Un jeu simple et efficace qui pourra vous faire rire pendant beaucoup de temps.",
                         "images": [
+                            "game_images/Quiplash3/quiplash3starter.mp4",
                             "game_images/Quiplash3/quiplash3_1.webp",
                             "game_images/Quiplash3/quiplash3_2.webp",
                             "game_images/Quiplash3/quiplash3_3.webp",
@@ -2687,6 +2733,7 @@
                         "small_description": "C'est l'heure d'être drôle ! Epatez tous vos amis en répondant de la manière la plus marrante aux phrases farfelus de Quiplash 3.",
                         "description": "# C'est l'heure de faire rire\n\n Vous allez recevoir une phrase. Essayez d'y répondre de la manière la plus drôle possible. Votre phrase sera face à celle d'un joueur et les autres votent pour leur préférée. Un jeu simple et efficace qui pourra vous faire rire pendant beaucoup de temps.",
                         "images": [
+                            "game_images/TeeKO/teekostarter.mp4",
                             "game_images/TeeKO/teeko_1.webp",
                             "game_images/TeeKO/teeko_2.webp",
                             "game_images/TeeKO/teeko_3.webp",
@@ -2730,6 +2777,7 @@
                         "small_description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "images": [
+                            "game_images/TriviaMurderParty2/triviamurderparty2starter.mp4",
                             "game_images/TriviaMurderParty2/triviamurderparty2_1.webp",
                             "game_images/TriviaMurderParty2/triviamurderparty2_2.webp",
                             "game_images/TriviaMurderParty2/triviamurderparty2_3.webp",
