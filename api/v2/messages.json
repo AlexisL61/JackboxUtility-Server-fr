@@ -7,7 +7,7 @@
         "text":"Next game in"
       },
       {
-        "type":"cooldown",
+        "type":"countdown",
         "endText":"Game available",
         "endTime":"2023-07-29 12:00:00"
       }
