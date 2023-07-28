@@ -1,0 +1,6 @@
+{
+  "menuComponent" : {
+    "type":"text",
+    "text":"Hello there"
+  }
+}
