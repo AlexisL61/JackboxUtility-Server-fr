@@ -1,6 +1,16 @@
 {
   "menuComponent" : {
-    "type":"text",
-    "text":"Hello there"
+    "type":"column",
+    "children":[
+      {
+        "type":"text",
+        "text":"Next game in"
+      },
+      {
+        "type":"cooldown",
+        "endText":"Game available",
+        "endTime":"2023-07-29 12:00:00"
+      }
+    ]
   }
 }
