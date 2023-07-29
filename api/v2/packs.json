@@ -1141,7 +1141,7 @@
         {
             "id": "jpp5",
             "name": "Jackbox Party Pack 5",
-            "description": "Le cinquième party pack de Jackboxx",
+            "description": "Le cinquième party pack de Jackbox",
             "executables": {
                 "windows": "The Jackbox Party Pack 5.exe",
                 "mac": "The Jackbox Party Pack 5.app/Contents/MacOS/The Jackbox Party Pack 5",
