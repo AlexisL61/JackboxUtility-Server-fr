@@ -1197,9 +1197,9 @@
                             "authors": "Alexis",
                             "patch_type": {
                                 "game_text": true,
-                                "game_assets": false,
+                                "game_assets": true,
                                 "game_subtitles": false,
-                                "website": false,
+                                "website": true,
                                 "audios": false
                             }
                         }
