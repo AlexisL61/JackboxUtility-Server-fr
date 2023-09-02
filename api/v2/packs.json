@@ -653,9 +653,9 @@
                         "length": "15 - 20 minutes",
                         "type": "VERSUS",
                         "translation": "ENGLISH",
-                        "tagline": "Trouvez le faker",
+                        "tagline": "Trouvez le faussaire",
                         "small_description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
-                        "description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
+                        "description": "Une personne parmi vous est le faussaire, saurez vous le retrouver avant la fin des 3 questions?\n\n*\"Est-ce que vous avez pété depuis le début de la partie ? Pointez la personne la plus susceptible de commettre un meurtre. Combien d'animaux de compagnie avez-vous ?\"* Ce sont des questions du jeu.\n\nDans ce jeu vous allez devoir observer attentivement vos adversaires pour tenter de démasquer celui qui n'a pas eu de questions, autrement dit : le faussaire. Pour cela vous aurez le choix parmis 4 thèmes avant chaques manches *( Main de la vérité / Fait la gueule / 1,2,Doigts / Pointez! )* et droit a 3 questions par manches pour réussir a trouver le faussaire.\nQui est le faussaire ? Le faussaire est désigné aléatoirement en chaque début de manche et ne reçoit pas d'instructions sur son appareil, il doit donc improviser et essayer de s'en sortir sans éveiller les soupçons.\n\nDurant la finale (*D-écrit-toi*) les règles sont un peu différentes, vous devrez répondre a 3 questions en écrivant sur votre appareil, sauf que vous ne saurez pas si vous êtes le faussaire avant l'affichage des 3 vraies questions.",
                         "images": [
                             "game_images/FakinIt/fakinit.mp4",
                             "game_images/FakinIt/fakinit_1.webp",
