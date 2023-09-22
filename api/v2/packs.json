@@ -2982,7 +2982,7 @@
                 {
                     "id": "quiplash3_starter",
                     "name": "Quiplash 3",
-                    "background": "game_backgrounds/Quiplash3.webp",
+                    "background": "game_backgrounds/Quiplash3Starter.webp",
                     "path": "games/Quiplash3",
                     "game_info": {
                         "players": {
@@ -3025,7 +3025,7 @@
                 {
                     "id": "teeko_starter",
                     "name": "Tee KO",
-                    "background": "game_backgrounds/TeeKO.webp",
+                    "background": "game_backgrounds/TeeKOStarter.webp",
                     "path": "games/AwShirt",
                     "game_info": {
                         "players": {
@@ -3069,7 +3069,7 @@
                 {
                     "id": "trivia_murder_party_2_starter",
                     "name": "Trivia Murder Party 2",
-                    "background": "game_backgrounds/TriviaMurderParty2.webp",
+                    "background": "game_backgrounds/TriviaMurderParty2Starter.webp",
                     "path": "games/triviadeath2",
                     "game_info": {
                         "players": {
