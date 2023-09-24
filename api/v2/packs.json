@@ -2170,9 +2170,9 @@
                             "small_description":"Jeu traduit en français !",
                             "patch_type": {
                                 "game_text": true,
-                                "game_assets": false,
-                                "game_subtitles": false,
-                                "website": false,
+                                "game_assets": true,
+                                "game_subtitles": true,
+                                "website": true,
                                 "audios": false
                             }
                         },
