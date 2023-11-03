@@ -2182,11 +2182,11 @@
                             "name":"The Wheel of Enormous Proportions BETA",
                             "description":"",
                             "authors":"MisterShaokahn, Skyion le faerie, Alexis et Elyssej",
-                            "small_description":"[BETA] Jeu traduit en français !",
+                            "small_description":"Jeu traduit en français !",
                             "patch_type": {
                                 "game_text": true,
                                 "game_assets": true,
-                                "game_subtitles": false,
+                                "game_subtitles": true,
                                 "website": true,
                                 "audios": false
                             }
