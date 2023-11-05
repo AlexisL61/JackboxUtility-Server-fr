@@ -320,7 +320,7 @@
 						"version_property":"buildVersion"
 					},
 					"supported_platforms":[
-						"linux"
+						"linux","windows"
 					],
                     "components":[
                         {
