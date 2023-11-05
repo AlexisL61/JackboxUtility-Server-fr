@@ -7,7 +7,7 @@
     "urls":[
         {
             "versions":["1.0.0"],
-            "api":"https://raw.githubusercontent.com/AlexisL61/JackboxUtility-Server-fr/main/api/v2",
+            "api":"https://raw.githubusercontent.com/AlexisL61/JackboxUtility-Server-fr/mac-test/api/v2",
             "assets":"https://raw.githubusercontent.com/AlexisL61/JackboxUtility-Server-fr/main/assets"
         }
     ],
