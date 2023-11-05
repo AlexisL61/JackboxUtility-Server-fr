@@ -292,9 +292,6 @@
                 "steam": "397460",
                 "epic": "Lilac"
             },
-			"supported_platforms":[
-				"linux"
-			],
             "executables": {
                 "windows": "The Jackbox Party Pack 2.exe",
                 "mac": "The Jackbox Party Pack 2.app/Contents/MacOS/The Jackbox Party Pack 2",
@@ -322,6 +319,9 @@
 						"version_file":"https://raw.githubusercontent.com/Jackbox-France/The-Jackbox-Party-Pack-2-French/main/main/config.jet",
 						"version_property":"buildVersion"
 					},
+					"supported_platforms":[
+						"linux"
+					],
                     "components":[
                         {
                             "id":"bidiots_fr",
