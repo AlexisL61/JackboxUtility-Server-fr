@@ -294,7 +294,7 @@
             },
 			"supported_platforms":[
 				"linux"
-			]
+			],
             "executables": {
                 "windows": "The Jackbox Party Pack 2.exe",
                 "mac": "The Jackbox Party Pack 2.app/Contents/MacOS/The Jackbox Party Pack 2",
