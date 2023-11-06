@@ -3120,6 +3120,1188 @@
                 "epic": "https://store.epicgames.com/p/jackbox-party-starter",
                 "jackbox_games_store": "http://shrsl.com/44k1w"
             }
+        },
+        {
+            "id":"fbxl",
+            "name":"Fibbage XL",
+            "description":"Year of release: 2016",
+            "launchers_id":{
+                "steam":"448080"
+            },
+            "executables":{
+                "windows":"Fibbage XL.exe",
+                "mac":"Fibbage XL.app/Contents/MacOS/Fibbage XL",
+                "linux":"Launcher.sh"
+            },
+            "loader":{
+                "path":"loaders/standalones/default.zip",
+                "version":"1.0.0"
+            },
+            "configuration":{
+                "version_origin":"game_file",
+                "version_file":"jbg.config.jet",
+                "version_property":"buildVersion"
+            },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/448080/Fibbage_XL/",
+                "jackbox_games_store":"http://shrsl.com/44k22"
+            },
+                "patchs":[],
+            "games":[
+                {
+                    "id":"fibbagexl_standalone",
+                    "name":"Fibbage XL",
+                    "background":"game_backgrounds/FibbageXLStandalone.webp",
+                    "path":"",
+                    "game_info":{
+                        "players":{
+                            "min":2,
+                            "max":8
+                        },
+                        "length":"15 - 20 minutes",
+                        "playtime":{
+                            "min":15,
+                            "max":20
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":false,
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"NO_MODERATION",
+                        "moderation_description":"Players can submit text.",
+                        "subtitles":false,
+                        "type":"VERSUS",
+                        "translation":"ENGLISH",
+                        "tagline":"The hilarious bluffing party game",
+                        "small_description":"The hilarious bluffing party game",
+                        "description":"Fool your friends with your lies, avoid theirs, and find the (usually outrageous) truth. “The mayor of Rabbit Hash, Kentucky is a ____.” Go!",
+                        "images":[
+                            "game_images/FibbageXL/fibbagexl.mp4",
+                            "game_images/FibbageXL/fibbagexl_1.webp",
+                            "game_images/FibbageXL/fibbagexl_2.webp",
+                            "game_images/FibbageXL/fibbagexl_3.webp"
+                        ],
+                        "tags":[
+                            "writing","knowledge"
+                        ]
+    
+                    },
+                    "loader":{
+                        "path":"loaders/standalones/standalones.zip",
+                        "version":"1.0.0"
+                    },
+                    "patchs":[
+                        
+                    ]
+                }
+            ],
+            "icon":"fbxl.ico",
+            "background":"backgrounds/fbxl.jpg"
+        },
+        {
+            "id":"quip",
+            "name":"Quiplash",
+            "description":"Year of release: 2015",
+            "launchers_id":{
+                "steam":"351510"
+            },
+            "executables":{
+                "windows":"Quiplash.exe",
+                "mac":"Quiplash.app/Contents/MacOS/Quiplash",
+                "linux":"Launcher.sh"
+            },
+            "loader":{
+                "path":"loaders/standalones/default.zip",
+                "version":"1.0.0"
+            },
+            "configuration":{
+                "version_origin":"game_file",
+                "version_file":"jbg.config.jet",
+                "version_property":"buildVersion"
+            },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/351510/Quiplash/",
+                "jackbox_games_store":"http://shrsl.com/44k21"
+            },
+                "patchs":[],
+            "games":[
+                {
+                    "id":"quiplash",
+                    "name":"Quiplash",
+                    "background":"game_backgrounds/Quiplash.webp",
+                    "path":"",
+                    "game_info":{
+                        "players":{
+                            "min":3,
+                            "max":8
+                        },
+                        "length":"15 - 20 minutes",
+                        "playtime":{
+                            "min":15,
+                            "max":20
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"The audience can vote for their favorite answers.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"NO_MODERATION",
+                        "moderation_description":"Players can submit text.",
+                        "subtitles":false,
+                        "type":"VERSUS",
+                        "translation":"ENGLISH",
+                        "tagline":"The Say-Anything Party Game",
+                        "small_description":"The Say-Anything Party Game",
+                        "description":"The laugh-a-minute battle of wits and wittiness in its HUGEST form! Come up with “the best name to give an ugly baby” and win!",
+                        "images":[
+                            "game_images/QuiplashXL/quiplashxl.mp4",
+                            "game_images/QuiplashXL/quiplashxl_1.webp",
+                            "game_images/QuiplashXL/quiplashxl_2.webp",
+                            "game_images/QuiplashXL/quiplashxl_3.webp",
+                            "game_images/QuiplashXL/quiplashxl_4.webp"
+                        ],
+                        "tags":[
+                            "writing"
+                        ]
+    
+                    },
+                    "loader":{
+                        "path":"loaders/standalones/standalones.zip",
+                        "version":"1.0.0"
+                    },
+                    "patchs":[
+                        
+                    ]
+                }
+            ],
+            "icon":"quip.ico",
+            "background":"backgrounds/quip.jpg"
+        },
+        {
+            "id":"quip2int",
+            "name":"Quiplash 2 InterLASHional",
+            "description":"Year of release: 2020",
+            "launchers_id":{
+                "steam":"1111940"
+            },
+            "executables":{
+                "windows":"Quiplash 2 InterLASHional.exe",
+                "mac":"Quiplash 2 InterLASHional.app/Contents/MacOS/Quiplash 2 InterLASHional",
+                "linux":"Launcher.sh"
+            },
+            "loader":{
+                "path":"loaders/standalones/default.zip",
+                "version":"1.0.0"
+            },
+            "configuration":{
+                "version_origin":"game_file",
+                "version_file":"jbg.config.jet",
+                "version_property":"buildVersion"
+            },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/1111940/Quiplash_2_InterLASHional/"
+            },
+                "patchs":[],
+            "games":[
+                {
+                    "id":"quiplash2interlashional",
+                    "name":"Quiplash 2 InterLASHional",
+                    "background":"game_backgrounds/Quiplash2InterLASHional.webp",
+                    "path":"",
+                    "game_info":{
+                        "players":{
+                            "min":3,
+                            "max":8
+                        },
+                        "length":"15 - 20 minutes",
+                        "playtime":{
+                            "min":15,
+                            "max":20
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"The audience can vote for their favorite answers. In addition, they can submit responses that are displayed on-screen with the \"Audience Play-Along\" option turned on.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"CENSORING",
+                        "moderation_description":"With the \"Manual Censoring\" option enabled, the VIP can censor responses from players and the audience once they appear on-screen. If necessary, it's recommended to disable the \"Audience Play-Along\" option so that only players can submit text.",
+                        "subtitles":true,
+                        "type":"VERSUS",
+                        "translation":"NATIVELY_TRANSLATED",
+                        "tagline":"The Say-Anything Party Game",
+                        "small_description":"The Say-Anything Party Game",
+                        "description":"The \"say anything\" party game is going international! All the hilarious content from Quiplash 2, now in French, Italian, German, and Spanish! With 100 NEW prompts in each language! (And you can still play in boring old English.) Get this QUINTILINGUAL Quiplash now, and take your next party global!",
+                        "images":[
+                            "game_images/Quiplash2InterLASHional/quiplash2interlashional.mp4",
+                            "game_images/Quiplash2InterLASHional/quiplash2interlashional_1.webp",
+                            "game_images/Quiplash2InterLASHional/quiplash2interlashional_2.webp",
+                            "game_images/Quiplash2InterLASHional/quiplash2interlashional_3.webp",
+                            "game_images/Quiplash2InterLASHional/quiplash2interlashional_4.webp"
+                        ],
+                        "tags":[
+                            "writing"
+                        ]
+    
+                    },
+                    "loader":{
+                        "path":"loaders/standalones/standalones.zip",
+                        "version":"1.0.0"
+                    },
+                    "patchs":[
+                        
+                    ]
+                }
+            ],
+            "icon":"quip2int.ico",
+            "background":"backgrounds/quip2int.jpg"
+        },
+        {
+            "id":"df2",
+            "name":"Drawful 2",
+            "description":"Year of release: 2016",
+            "launchers_id":{
+                "steam":"442070",
+                "epic":"Daisy"
+            },
+            "executables":{
+                "windows":"Drawful 2.exe",
+                "mac":"Drawful 2.app/Contents/MacOS/Drawful 2",
+                "linux":"Launcher.sh"
+            },
+            "loader":{
+                "path":"loaders/df2/default.zip",
+                "version":"1.0.0"
+            },
+            "configuration":{
+                "version_origin":"game_file",
+                "version_file":"jbg.config.jet",
+                "version_property":"buildVersion"
+            },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/442070/Drawful_2/",
+                "epic":"https://store.epicgames.com/p/drawful-2",
+                "jackbox_games_store":"http://shrsl.com/44k1z"
+            },
+                "patchs":[],
+            "games":[
+                {
+                    "id":"drawful_2",
+                    "name":"Drawful 2",
+                    "background":"game_backgrounds/Drawful2.webp",
+                    "path":"",
+                    "game_info":{
+                        "players":{
+                            "min":3,
+                            "max":8
+                        },
+                        "length":"20 - 25 minutes",
+                        "playtime":{
+                            "min":20,
+                            "max":25
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"The audience tries to guess the correct answer along with the other players, giving points to the players in case they choose their titles, and gives likes to their favorite titles.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"FULL_MODERATION",
+                        "moderation_description":"With the \"Moderation\" option enabled, the mods that enter mod.jackbox.tv will be able to decide what's displayed on-screen. If necessary, it's recommended to enable the \"Profanity Filter\" option. This game also has the \"Manual Censoring\" option, allowing the VIP to censor the player's responses once they appear on-screen.",
+                        "subtitles":true,
+                        "type":"VERSUS",
+                        "translation":"NATIVELY_TRANSLATED",
+                        "tagline":"Draw badly with style!",
+                        "small_description":"Draw badly with style!",
+                        "description":"Drawful is back to liven up your next party with Drawful 2, which challenges players to draw silly things on their smartphones and tablets.",
+                        "images":[
+                            "game_images/Drawful2/drawful2.mp4",
+                            "game_images/Drawful2/drawful2_1.webp",
+                            "game_images/Drawful2/drawful2_2.webp",
+                            "game_images/Drawful2/drawful2_3.webp",
+                            "game_images/Drawful2/drawful2_4.webp"
+                        ],
+                        "tags":[
+                            "drawing",
+                            "writing"
+                        ]
+    
+                    },
+                    "loader":{
+                        "path":"loaders/df2/drawful2.zip",
+                        "version":"1.0.0"
+                    },
+                    "patchs":[
+                        
+                    ]
+                }
+            ],
+            "icon":"df2.ico",
+            "background":"backgrounds/df2.jpg"
+        },
+            {
+            "id":"ydkjvol1",
+            "name":"YOU DON'T KNOW JACK Vol. 1 XL",
+            "description":"Year of release: 1995",
+            "launchers_id":{
+                "steam":"252730"
+            },
+            "executables":{
+                "windows":"YDKJV1.exe",
+                "mac":"",
+                "linux":"YDKJV1.exe"
+            },
+            "configuration":{
+                "version_origin":"game_file",
+                "version_file":"config.dat",
+                "version_property":"buildVersion"
+            },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/252730/YOU_DONT_KNOW_JACK_Vol_1_XL/",
+                "jackbox_games_store":"http://shrsl.com/44k24"
+            },
+                "patchs":[],
+            "games":[
+                {
+                    "id":"youdontknowjackvol1",
+                    "name":"You Don't Know Jack Vol. 1 XL",
+                    "background":"game_backgrounds/YouDontKnowJackVol1.webp",
+                    "path":"",
+                    "game_info":{
+                        "players":{
+                            "min":1,
+                            "max":3
+                        },
+                        "length":"15 - 30 minutes",
+                        "playtime":{
+                            "min":15,
+                            "max":30
+                        },
+                        "family_friendly":"NOT_FAMILY_FRIENDLY",
+                        "audience":false,
+                        "stream_friendly":"NOT_PLAYABLE",
+                        "stream_friendly_description":"This game can only be played locally. It's played with a keyboard and not with Jackbox.TV.",
+                        "moderation":"NO_MODERATION",
+                        "moderation_description":"Players can submit text in the \"Gibberish Question\" sections.",
+                        "subtitles":false,
+                        "type":"VERSUS",
+                        "translation":"ENGLISH",
+                        "tagline":"The irreverent quiz show party game",
+                        "small_description":"The irreverent quiz show party game",
+                        "description":"The world was a much simpler place in 1995. The kids were listening to the grunge, the first test-tube gorilla was born at the Cincinnati Zoo, and a little trivia game called YOU DON’T KNOW JACK took the interactive CD-ROM trivia game show world by storm. Play now and relive that crazy, mixed-up time all over again!",
+                        "images":[
+                            "game_images/YouDontKnowJackVol1/youdontknowjackvol1.mp4",
+                            "game_images/YouDontKnowJackVol1/youdontknowjackvol1_1.jpg",
+                            "game_images/YouDontKnowJackVol1/youdontknowjackvol1_2.jpg",
+                            "game_images/YouDontKnowJackVol1/youdontknowjackvol1_3.jpg",
+                            "game_images/YouDontKnowJackVol1/youdontknowjackvol1_4.jpg"
+                        ],
+                        "tags":[
+                            "knowledge"
+                        ]
+    
+                    },
+                    "patchs":[
+                        
+                    ]
+                }
+            ],
+            "icon":"ydkjvol1.ico",
+            "background":"backgrounds/ydkjvol1.jpg"
+        },
+        {
+            "id":"ydkjsports",
+            "name":"YOU DON'T KNOW JACK SPORTS",
+            "description":"Year of release: 1996",
+            "launchers_id":{
+                "steam":"260020"
+            },
+            "executables":{
+                "windows":"YDKJVS.exe",
+                "mac":"",
+                "linux":"YDKJVS.exe"
+            },
+            "configuration":{
+                "version_origin":"game_file",
+                "version_file":"config.dat",
+                "version_property":"buildVersion"
+            },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/260020/YOU_DONT_KNOW_JACK_SPORTS/",
+                "jackbox_games_store":"http://shrsl.com/44k24"
+            },
+                "patchs":[],
+            "games":[
+                {
+                    "id":"youdontknowjacksports",
+                    "name":"You Don't Know Jack Sports",
+                    "background":"game_backgrounds/YouDontKnowJackSports.webp",
+                    "path":"",
+                    "game_info":{
+                        "players":{
+                            "min":1,
+                            "max":3
+                        },
+                        "length":"15 - 30 minutes",
+                        "playtime":{
+                            "min":15,
+                            "max":30
+                        },
+                        "family_friendly":"NOT_FAMILY_FRIENDLY",
+                        "audience":false,
+                        "stream_friendly":"NOT_PLAYABLE",
+                        "stream_friendly_description":"This game can only be played locally. It's played with a keyboard and not with Jackbox.TV.",
+                        "moderation":"NO_MODERATION",
+                        "moderation_description":"Players can submit text in the \"Gibberish Question\" sections.",
+                        "subtitles":false,
+                        "type":"VERSUS",
+                        "translation":"ENGLISH",
+                        "tagline":"The irreverent quiz show party game",
+                        "small_description":"The irreverent quiz show party game",
+                        "description":"Think you know everything about football, basketball, baseball, or hockey? How about tennis, volleyball, golf, or lawn darts? Then light up the scoreboard with YOU DON’T KNOW JACK Sports – it’s YDKJ all hopped up on 'roids! So put in your mouthguard, adjust your cup, and get ready. Play ball… er, trivia!",
+                        "images":[
+                            "game_images/YouDontKnowJackSports/youdontknowjacksports.mp4",
+                            "game_images/YouDontKnowJackSports/youdontknowjacksports_1.jpg",
+                            "game_images/YouDontKnowJackSports/youdontknowjacksports_2.jpg",
+                            "game_images/YouDontKnowJackSports/youdontknowjacksports_3.jpg",
+                            "game_images/YouDontKnowJackSports/youdontknowjacksports_4.jpg"
+                        ],
+                        "tags":[
+                            "knowledge"
+                        ]
+    
+                    },
+                    "patchs":[
+                        
+                    ]
+                }
+            ],
+            "icon":"ydkjsports.ico",
+            "background":"backgrounds/ydkjsports.jpg"
+        },
+        {
+            "id":"ydkjvol2",
+            "name":"YOU DON'T KNOW JACK Vol. 2",
+            "description":"Year of release: 1996",
+            "launchers_id":{
+                "steam":"259940"
+            },
+            "executables":{
+                "windows":"YDKJV2.exe",
+                "mac":"",
+                "linux":"YDKJV2.exe"
+            },
+            "configuration":{
+                "version_origin":"game_file",
+                "version_file":"config.dat",
+                "version_property":"buildVersion"
+            },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/259940/YOU_DONT_KNOW_JACK_Vol_2/",
+                "jackbox_games_store":"http://shrsl.com/44k24"
+            },
+                "patchs":[],
+            "games":[
+                {
+                    "id":"youdontknowjackvol2",
+                    "name":"You Don't Know Jack Vol. 2",
+                    "background":"game_backgrounds/YouDontKnowJackVol2.webp",
+                    "path":"",
+                    "game_info":{
+                        "players":{
+                            "min":1,
+                            "max":3
+                        },
+                        "length":"15 - 30 minutes",
+                        "playtime":{
+                            "min":15,
+                            "max":30
+                        },
+                        "family_friendly":"NOT_FAMILY_FRIENDLY",
+                        "audience":false,
+                        "stream_friendly":"NOT_PLAYABLE",
+                        "stream_friendly_description":"This game can only be played locally. It's played with a keyboard and not with Jackbox.TV.",
+                        "moderation":"NO_MODERATION",
+                        "moderation_description":"Players can submit text in the \"Gibberish Question\" sections.",
+                        "subtitles":false,
+                        "type":"VERSUS",
+                        "translation":"ENGLISH",
+                        "tagline":"The irreverent quiz show party game",
+                        "small_description":"The irreverent quiz show party game",
+                        "description":"YOU DON’T KNOW JACK Volume 2 is the mutant offspring of the original award-winning, irreverent, fast-paced trivia game where you are a contestant on a manic game show. With all the excitement of the first game, lots of mind-blowing surprises, plus four additional question types, YOU DON’T KNOW JACK Volume 2 will scrape the trivia out of your cranium like the seedy pulp from a melon.",
+                        "images":[
+                            "game_images/YouDontKnowJackVol2/youdontknowjackvol2.mp4",
+                            "game_images/YouDontKnowJackVol2/youdontknowjackvol2_1.jpg",
+                            "game_images/YouDontKnowJackVol2/youdontknowjackvol2_2.jpg",
+                            "game_images/YouDontKnowJackVol2/youdontknowjackvol2_3.jpg",
+                            "game_images/YouDontKnowJackVol2/youdontknowjackvol2_4.jpg"
+                        ],
+                        "tags":[
+                            "knowledge"
+                        ]
+    
+                    },
+                    "patchs":[
+                        
+                    ]
+                }
+            ],
+            "icon":"ydkjvol2.ico",
+            "background":"backgrounds/ydkjvol2.jpg"
+        },
+        {
+            "id":"ydkjmovies",
+            "name":"YOU DON'T KNOW JACK MOVIES",
+            "description":"Year of release: 1997",
+            "launchers_id":{
+                "steam":"260000"
+            },
+            "executables":{
+                "windows":"YDKJVM.exe",
+                "mac":"",
+                "linux":"YDKJVM.exe"
+            },
+            "configuration":{
+                "version_origin":"game_file",
+                "version_file":"config.dat",
+                "version_property":"buildVersion"
+            },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/260000/YOU_DONT_KNOW_JACK_MOVIES/",
+                "jackbox_games_store":"http://shrsl.com/44k24"
+            },
+                "patchs":[],
+            "games":[
+                {
+                    "id":"youdontknowjackmovies",
+                    "name":"You Don't Know Jack Movies",
+                    "background":"game_backgrounds/YouDontKnowJackMovies.webp",
+                    "path":"",
+                    "game_info":{
+                        "players":{
+                            "min":1,
+                            "max":3
+                        },
+                        "length":"15 - 30 minutes",
+                        "playtime":{
+                            "min":15,
+                            "max":30
+                        },
+                        "family_friendly":"NOT_FAMILY_FRIENDLY",
+                        "audience":false,
+                        "stream_friendly":"NOT_PLAYABLE",
+                        "stream_friendly_description":"This game can only be played locally. It's played with a keyboard and not with Jackbox.TV.",
+                        "moderation":"NO_MODERATION",
+                        "moderation_description":"Players can submit text in the \"Gibberish Question\" sections.",
+                        "subtitles":false,
+                        "type":"VERSUS",
+                        "translation":"ENGLISH",
+                        "tagline":"The irreverent quiz show party game",
+                        "small_description":"The irreverent quiz show party game",
+                        "description":"If you've always wanted to see your name in lights, albeit lights from your computer monitor, then YOU DON’T KNOW JACK Movies is the trivia game for you! YDKJ Movies covers everything from Fred Astaire to Freddy Krueger, and all the Freds in between. With all the irreverence, humor and style of the original award-winning YOU DON’T KNOW JACK, YDKJ Movies will have moviegoers rolling in the sticky aisles.",
+                        "images":[
+                            "game_images/YouDontKnowJackMovies/youdontknowjackmovies.mp4",
+                            "game_images/YouDontKnowJackMovies/youdontknowjackmovies_1.jpg",
+                            "game_images/YouDontKnowJackMovies/youdontknowjackmovies_2.jpg",
+                            "game_images/YouDontKnowJackMovies/youdontknowjackmovies_3.jpg",
+                            "game_images/YouDontKnowJackMovies/youdontknowjackmovies_4.jpg"
+                        ],
+                        "tags":[
+                            "knowledge"
+                        ]
+    
+                    },
+                    "patchs":[
+                        
+                    ]
+                }
+            ],
+            "icon":"ydkjmovies.ico",
+            "background":"backgrounds/ydkjmovies.jpg"
+        },
+        {
+            "id":"ydkjtv",
+            "name":"YOU DON'T KNOW JACK TELEVISION",
+            "description":"Year of release: 1997",
+            "launchers_id":{
+                "steam":"260040"
+            },
+            "executables":{
+                "windows":"YDKJVT.exe",
+                "mac":"",
+                "linux":"YDKJVT.exe"
+            },
+            "configuration":{
+                "version_origin":"game_file",
+                "version_file":"config.dat",
+                "version_property":"buildVersion"
+            },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/260040/YOU_DONT_KNOW_JACK_TELEVISION/",
+                "jackbox_games_store":"http://shrsl.com/44k24"
+            },
+                "patchs":[],
+            "games":[
+                {
+                    "id":"youdontknowjacktelevision",
+                    "name":"You Don't Know Jack Television",
+                    "background":"game_backgrounds/YouDontKnowJackTelevision.webp",
+                    "path":"",
+                    "game_info":{
+                        "players":{
+                            "min":1,
+                            "max":3
+                        },
+                        "length":"15 - 30 minutes",
+                        "playtime":{
+                            "min":15,
+                            "max":30
+                        },
+                        "family_friendly":"NOT_FAMILY_FRIENDLY",
+                        "audience":false,
+                        "stream_friendly":"NOT_PLAYABLE",
+                        "stream_friendly_description":"This game can only be played locally. It's played with a keyboard and not with Jackbox.TV.",
+                        "moderation":"NO_MODERATION",
+                        "moderation_description":"Players can submit text in the \"Gibberish Question\" sections.",
+                        "subtitles":false,
+                        "type":"VERSUS",
+                        "translation":"ENGLISH",
+                        "tagline":"The irreverent quiz show party game",
+                        "small_description":"The irreverent quiz show party game",
+                        "description":"If you thought all those hours of watching TV were good for nothing, then YOU DON’T KNOW JACK… Television! With more categories than your local cable provider, YOU DON’T KNOW JACK Television spans over 50 years of boob-tube trivia, from Ralph Kramden to the guy on “King of Queens” who looks like Ralph Kramden. So set down the remote and put your recliner in the upright and locked position… it’s YOU DON’T KNOW JACK Television!",
+                        "images":[
+                            "game_images/YouDontKnowJackTelevision/youdontknowjacktelevision.mp4",
+                            "game_images/YouDontKnowJackTelevision/youdontknowjacktelevision_1.jpg",
+                            "game_images/YouDontKnowJackTelevision/youdontknowjacktelevision_2.jpg",
+                            "game_images/YouDontKnowJackTelevision/youdontknowjacktelevision_3.jpg",
+                            "game_images/YouDontKnowJackTelevision/youdontknowjacktelevision_4.jpg"
+                        ],
+                        "tags":[
+                            "knowledge"
+                        ]
+    
+                    },
+                    "patchs":[
+                        
+                    ]
+                }
+            ],
+            "icon":"ydkjtv.ico",
+            "background":"backgrounds/ydkjtv.jpg"
+        },
+        {
+            "id":"ydkjvol3",
+            "name":"YOU DON'T KNOW JACK Vol. 3",
+            "description":"Year of release: 1997",
+            "launchers_id":{
+                "steam":"259960"
+            },
+            "executables":{
+                "windows":"YDKJV3.exe",
+                "mac":"",
+                "linux":"YDKJV3.exe"
+            },
+            "configuration":{
+                "version_origin":"game_file",
+                "version_file":"config.dat",
+                "version_property":"buildVersion"
+            },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/259960/YOU_DONT_KNOW_JACK_Vol_3/",
+                "jackbox_games_store":"http://shrsl.com/44k24"
+            },
+                "patchs":[],
+            "games":[
+                {
+                    "id":"youdontknowjackvol3",
+                    "name":"You Don't Know Jack Vol. 3",
+                    "background":"game_backgrounds/YouDontKnowJackVol3.webp",
+                    "path":"",
+                    "game_info":{
+                        "players":{
+                            "min":1,
+                            "max":3
+                        },
+                        "length":"15 - 30 minutes",
+                        "playtime":{
+                            "min":15,
+                            "max":30
+                        },
+                        "family_friendly":"NOT_FAMILY_FRIENDLY",
+                        "audience":false,
+                        "stream_friendly":"NOT_PLAYABLE",
+                        "stream_friendly_description":"This game can only be played locally. It's played with a keyboard and not with Jackbox.TV.",
+                        "moderation":"NO_MODERATION",
+                        "moderation_description":"Players can submit text in the \"Gibberish Question\" sections.",
+                        "subtitles":false,
+                        "type":"VERSUS",
+                        "translation":"ENGLISH",
+                        "tagline":"The irreverent quiz show party game",
+                        "small_description":"The irreverent quiz show party game",
+                        "description":"The spawning continues as the award-winning YOU DON’T KNOW JACK series pumps out YOU DON’T KNOW JACK Volume 3. Join your host Cookie as he takes you on a trivia Tilt-a-Whirl that’s a triple-dip of cheeky hip. YDKJ Volume 3 adds a whole slew of question types into a mind-bending mixture of smart-aleckiness and sassitude.",
+                        "images":[
+                            "game_images/YouDontKnowJackVol3/youdontknowjackvol3.mp4",
+                            "game_images/YouDontKnowJackVol3/youdontknowjackvol3_1.jpg",
+                            "game_images/YouDontKnowJackVol3/youdontknowjackvol3_2.jpg",
+                            "game_images/YouDontKnowJackVol3/youdontknowjackvol3_3.jpg",
+                            "game_images/YouDontKnowJackVol3/youdontknowjackvol3_4.jpg"
+                        ],
+                        "tags":[
+                            "knowledge"
+                        ]
+    
+                    },
+                    "patchs":[
+                        
+                    ]
+                }
+            ],
+            "icon":"ydkjvol3.ico",
+            "background":"backgrounds/ydkjvol3.jpg"
+        },
+        {
+            "id":"ydkjheadrush",
+            "name":"YOU DON'T KNOW JACK HEADRUSH",
+            "description":"Year of release: 1998",
+            "launchers_id":{
+                "steam":"260060"
+            },
+            "executables":{
+                "windows":"YDKJVH.exe",
+                "mac":"",
+                "linux":"YDKJVH.exe"
+            },
+            "configuration":{
+                "version_origin":"game_file",
+                "version_file":"config.dat",
+                "version_property":"buildVersion"
+            },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/260060/YOU_DONT_KNOW_JACK_HEADRUSH/",
+                "jackbox_games_store":"http://shrsl.com/44k24"
+            },
+                "patchs":[],
+            "games":[
+                {
+                    "id":"youdontknowjackheadrush",
+                    "name":"You Don't Know Jack Headrush",
+                    "background":"game_backgrounds/YouDontKnowJackHeadrush.webp",
+                    "path":"",
+                    "game_info":{
+                        "players":{
+                            "min":1,
+                            "max":3
+                        },
+                        "length":"15 - 30 minutes",
+                        "playtime":{
+                            "min":15,
+                            "max":30
+                        },
+                        "family_friendly":"NOT_FAMILY_FRIENDLY",
+                        "audience":false,
+                        "stream_friendly":"NOT_PLAYABLE",
+                        "stream_friendly_description":"This game can only be played locally. It's played with a keyboard and not with Jackbox.TV.",
+                        "moderation":"NO_MODERATION",
+                        "moderation_description":"Players can submit text in the \"Gibberish Question\" sections.",
+                        "subtitles":false,
+                        "type":"VERSUS",
+                        "translation":"ENGLISH",
+                        "tagline":"The irreverent quiz show party game",
+                        "small_description":"The irreverent quiz show party game",
+                        "description":"Forget everything you know about a YOU DON’T KNOW JACK game because YDKJ’s horribly deformed, mutant offspring HEADRUSH has been birthed! Twisted animation, insane question types, and a bizarre appetite for all human excretory fluids and gassed add up to the most over-the-top YDKJ game ever! Fire this game up and stand back, because this is not your Mommy and Daddy’s YOU DON’T KNOW JACK!",
+                        "images":[
+                            "game_images/YouDontKnowJackHeadrush/youdontknowjackheadrush.mp4",
+                            "game_images/YouDontKnowJackHeadrush/youdontknowjackheadrush_1.jpg",
+                            "game_images/YouDontKnowJackHeadrush/youdontknowjackheadrush_2.jpg",
+                            "game_images/YouDontKnowJackHeadrush/youdontknowjackheadrush_3.jpg",
+                            "game_images/YouDontKnowJackHeadrush/youdontknowjackheadrush_4.jpg"
+                        ],
+                        "tags":[
+                            "knowledge"
+                        ]
+    
+                    },
+                    "patchs":[
+                        
+                    ]
+                }
+            ],
+            "icon":"ydkjheadrush.ico",
+            "background":"backgrounds/ydkjheadrush.jpg"
+        },
+        {
+            "id":"ydkjvol4",
+            "name":"YOU DON'T KNOW JACK Vol. 4 The Ride",
+            "description":"Year of release: 1998",
+            "launchers_id":{
+                "steam":"259980"
+            },
+            "executables":{
+                "windows":"YDKJV4.exe",
+                "mac":"",
+                "linux":"YDKJV4.exe"
+            },
+            "configuration":{
+                "version_origin":"game_file",
+                "version_file":"config.dat",
+                "version_property":"buildVersion"
+            },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/259980/YOU_DONT_KNOW_JACK_Vol_4_The_Ride/",
+                "jackbox_games_store":"http://shrsl.com/44k24"
+            },
+                "patchs":[],
+            "games":[
+                {
+                    "id":"youdontknowjackvol4",
+                    "name":"You Don't Know Jack Vol. 4",
+                    "background":"game_backgrounds/YouDontKnowJackVol4.webp",
+                    "path":"",
+                    "game_info":{
+                        "players":{
+                            "min":1,
+                            "max":3
+                        },
+                        "length":"15 - 30 minutes",
+                        "playtime":{
+                            "min":15,
+                            "max":30
+                        },
+                        "family_friendly":"NOT_FAMILY_FRIENDLY",
+                        "audience":false,
+                        "stream_friendly":"NOT_PLAYABLE",
+                        "stream_friendly_description":"This game can only be played locally. It's played with a keyboard and not with Jackbox.TV.",
+                        "moderation":"NO_MODERATION",
+                        "moderation_description":"Players can submit text in the \"Gibberish Question\" sections.",
+                        "subtitles":false,
+                        "type":"VERSUS",
+                        "translation":"ENGLISH",
+                        "tagline":"The irreverent quiz show party game",
+                        "small_description":"The irreverent quiz show party game",
+                        "description":"For the fourth volume of the mega-award-winning CD-ROM trivia game show, the YOU DON’T KNOW JACK crew decided to throw out the YDKJ rule book and start fresh! This ain't your daddy’s YOU DON’T KNOW JACK! Suffice to say, you can take any preconceived notions you've had about the YOU DON’T KNOW JACK series and chuck ’em down an open elevator shaft because YOU DON’T KNOW JACK Volume 4 is going to take you on The Ride of your life!",
+                        "images":[
+                            "game_images/YouDontKnowJackVol4/youdontknowjackvol4.mp4",
+                            "game_images/YouDontKnowJackVol4/youdontknowjackvol4_1.jpg",
+                            "game_images/YouDontKnowJackVol4/youdontknowjackvol4_2.jpg",
+                            "game_images/YouDontKnowJackVol4/youdontknowjackvol4_3.jpg",
+                            "game_images/YouDontKnowJackVol4/youdontknowjackvol4_4.jpg"
+                        ],
+                        "tags":[
+                            "knowledge"
+                        ]
+    
+                    },
+                    "patchs":[
+                        
+                    ]
+                }
+            ],
+            "icon":"ydkjvol4.ico",
+            "background":"backgrounds/ydkjvol4.jpg"
+        },
+        {
+            "id":"ydkjvol6",
+            "name":"YOU DON'T KNOW JACK Vol. 6 The Lost Gold",
+            "description":"Year of release: 2003",
+            "launchers_id":{
+                "steam":"260080"
+            },
+            "executables":{
+                "windows":"YDKJ6.exe",
+                "mac":"",
+                "linux":"YDKJ6.exe"
+            },
+            "configuration":{
+                "version_origin":"game_file",
+                "version_file":"config.dat",
+                "version_property":"buildVersion"
+            },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/260080/YOU_DONT_KNOW_JACK_Vol_6_The_Lost_Gold/",
+                "jackbox_games_store":"http://shrsl.com/44k24"
+            },
+        "fixes":[
+            {
+                    "id": "ydkjvol6_fix",
+                    "name": "YDKJ Vol. 6 Fix",
+                    "small_description": "Fixes the game not working in Windows 10/11 and Linux.",
+                    "description": "",
+                    "patch_path":"https://github.com/AkiraArtuhaxis/YOU-DONT-KNOW-JACK-Vol-6-Fix/releases/latest/download/YDKJVol6Fix.zip",
+                    "configuration": {
+                        "version_origin":"repo_file",
+                        "version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/YOU-DONT-KNOW-JACK-Vol-6-Fix/main/config.dat",
+                        "version_property":"buildVersion"
+                    },
+                    "components": [
+                        {
+                            "id": "ydkjvol6_fix_patch",
+                            "linked_game": "youdontknowjackvol6",
+                            "name": "You Don't Know Jack Vol. 6",
+                            "description": "",
+                            "authors": "* Pseudohalogen (Patch)\n* Prismisho (Steam Guide)",
+                            "small_description": "Fixes the game not working in Windows 10/11 and Linux.",
+                            "patch_type": {
+                                "game_text": false,
+                                "game_assets": false,
+                                "game_subtitles": false,
+                                "website": false,
+                                "audios": false
+                            }
+                        }
+                    ]
+                }
+        ],
+            "patchs": [
+                
+            ],
+            "games":[
+                {
+                    "id":"youdontknowjackvol6",
+                    "name":"You Don't Know Jack Vol. 6",
+                    "background":"game_backgrounds/YouDontKnowJackVol6.webp",
+                    "path":"",
+                    "game_info":{
+                        "players":{
+                            "min":1,
+                            "max":3
+                        },
+                        "length":"15 - 30 minutes",
+                        "playtime":{
+                            "min":15,
+                            "max":30
+                        },
+                        "family_friendly":"NOT_FAMILY_FRIENDLY",
+                        "audience":false,
+                        "stream_friendly":"NOT_PLAYABLE",
+                        "stream_friendly_description":"This game can only be played locally. It's played with a keyboard and not with Jackbox.TV.",
+                        "moderation":"NO_MODERATION",
+                        "moderation_description":"Players can submit text in the \"Gibberish Question\" sections.",
+                        "subtitles":false,
+                        "type":"VERSUS",
+                        "translation":"ENGLISH",
+                        "tagline":"The irreverent quiz show party game",
+                        "small_description":"The irreverent quiz show party game",
+                        "description":"YOU DON’T KNOW JACK, the trivia game that became a TV show that became a massage therapist (briefly) is hoisting her billowy sails once again! This multi-award-winningest juggernaut wants to party at your house with freshly mined nuggets of GOLD!\n\nNOTE: This game doesn't work on Windows 10/11. You'll need to install the fix available on the right.",
+                        "images":[
+                            "game_images/YouDontKnowJackVol6/youdontknowjackvol6.mp4",
+                            "game_images/YouDontKnowJackVol6/youdontknowjackvol6_1.jpg",
+                            "game_images/YouDontKnowJackVol6/youdontknowjackvol6_2.jpg",
+                            "game_images/YouDontKnowJackVol6/youdontknowjackvol6_3.jpg",
+                            "game_images/YouDontKnowJackVol6/youdontknowjackvol6_4.jpg"
+                        ],
+                        "tags":[
+                            "knowledge"
+                        ]
+    
+                    },
+                    "patchs":[
+                        
+                    ]
+                }
+            ],
+            "icon":"ydkjvol6.ico",
+            "background":"backgrounds/ydkjvol6.jpg"
+        },
+        {
+            "id":"uyw",
+            "name":"Use Your Words",
+            "description":"Year of release: 2017",
+            "launchers_id":{
+                "steam":"521350"
+            },
+            "executables":{
+                "windows":"uyw.exe",
+                "mac":"Use Your Words.app/Contents/MacOS/uyw",
+                "linux":"uyw.exe"
+            },
+            "configuration":{
+                "version_origin":"game_file",
+                "version_file":"config.dat",
+                "version_property":"buildVersion"
+            },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/521350/Use_Your_Words/"
+            },
+                "patchs":[],
+            "games":[
+                {
+                    "id":"use_your_words",
+                    "name":"Use Your Words",
+                    "background":"game_backgrounds/UseYourWords.webp",
+                    "path":"",
+                    "game_info":{
+                        "players":{
+                            "min":3,
+                            "max":6
+                        },
+                        "length":"20 - 25 minutes",
+                        "playtime":{
+                            "min":20,
+                            "max":25
+                        },
+                        "family_friendly":"OPTIONAL",
+                        "audience":true,
+                        "audience_description":"The audience reacts to the responses of the players and at the end of the game prizes are awarded to the players based on these reactions.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"NO_MODERATION",
+                        "moderation_description":"Players can submit text.",
+                        "subtitles":false,
+                        "type":"VERSUS",
+                        "translation":"ENGLISH",
+                        "tagline":"An amazing word party",
+                        "small_description":"An amazing word party",
+                        "description":"Use Your Words is the new party game for funny people and their unfunny friends! Laugh your way through four hilarious mini-games! Use your smartphone to fill in the blank, or try your luck using one of our answers to get laughs! No matter your strategy, Use Your Words brings comedy home!",
+                        "images":[
+                            "game_images/UseYourWords/useyourwords.mp4",
+                            "game_images/UseYourWords/useyourwords_1.webp",
+                            "game_images/UseYourWords/useyourwords_2.webp",
+                            "game_images/UseYourWords/useyourwords_3.webp",
+                            "game_images/UseYourWords/useyourwords_4.webp"
+                        ],
+                        "tags":[
+                            "writing"
+                        ]
+    
+                    },
+                    "patchs":[
+                        
+                    ]
+                }
+            ],
+            "icon":"uyw.ico",
+            "background":"backgrounds/uyw.jpg"
+        },
+        {
+            "id":"wtd",
+            "name":"What The Dub?!",
+            "description":"Year of release: 2021",
+            "launchers_id":{
+                "steam":"1495860"
+            },
+            "executables":{
+                "windows":"WhatTheDub.exe",
+                "mac":"WhatTheDub.app/Contents/MacOS/WhatTheDub",
+                "linux":"WhatTheDub.exe"
+            },
+            "configuration":{
+                "version_origin":"game_file",
+                "version_file":"config.dat",
+                "version_property":"buildVersion"
+            },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/1495860/What_The_Dub/"
+            },
+                "patchs":[],
+            "games":[
+                {
+                    "id":"what_the_dub",
+                    "name":"What The Dub?!",
+                    "background":"game_backgrounds/WhatTheDub.webp",
+                    "path":"",
+                    "game_info":{
+                        "players":{
+                            "min":1,
+                            "max":6
+                        },
+                        "length":"15 - 20 minutes",
+                        "playtime":{
+                            "min":15,
+                            "max":20
+                        },
+                        "family_friendly":"FAMILY_FRIENDLY",
+                        "audience":true,
+                        "audience_description":"The audience can vote for their favorite answers.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"FULL_MODERATION",
+                        "moderation_description":"With the \"Moderation\" option enabled, the mods that enter playwtd.com/mod will be able to decide what's displayed on-screen.",
+                        "subtitles":true,
+                        "type":"VERSUS",
+                        "translation":"ENGLISH",
+                        "tagline":"Crazy dubbing",
+                        "small_description":"Crazy dubbing",
+                        "description":"What The Dub?! is a multiplayer party game where each player overdubs missing dialogue from hilariously awful B-movies, outdated PSAs, and bizarre industrial films, with their own witty (or just plain stupid) dubs!",
+                        "images":[
+                            "game_images/WhatTheDub/whatthedub.mp4",
+                            "game_images/WhatTheDub/whatthedub_1.webp",
+                            "game_images/WhatTheDub/whatthedub_2.webp",
+                            "game_images/WhatTheDub/whatthedub_3.webp",
+                            "game_images/WhatTheDub/whatthedub_4.webp"
+                        ],
+                        "tags":[
+                            "writing"
+                        ]
+    
+                    },
+                    "patchs":[
+                        
+                    ]
+                }
+            ],
+            "icon":"wtd.ico",
+            "background":"backgrounds/wtd.jpg"
+        },
+        {
+            "id":"rttg",
+            "name":"RiffTrax: The Game",
+            "description":"Year of release: 2022",
+            "launchers_id":{
+                "steam":"1707870"
+            },
+            "executables":{
+                "windows":"RiffTraxTheGame.exe",
+                "mac":"RiffTraxTheGame.app/Contents/MacOS/RiffTraxTheGame",
+                "linux":"RiffTraxTheGame.exe"
+            },
+            "configuration":{
+                "version_origin":"game_file",
+                "version_file":"config.dat",
+                "version_property":"buildVersion"
+            },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/1707870/RiffTrax_The_Game/"
+            },
+                "patchs":[],
+            "games":[
+                {
+                    "id":"rifftrax_the_game",
+                    "name":"RiffTrax: The Game",
+                    "background":"game_backgrounds/RiffTraxTheGame.webp",
+                    "path":"",
+                    "game_info":{
+                        "players":{
+                            "min":1,
+                            "max":6
+                        },
+                        "length":"15 - 20 minutes",
+                        "playtime":{
+                            "min":15,
+                            "max":20
+                        },
+                        "family_friendly":"FAMILY_FRIENDLY",
+                        "audience":true,
+                        "audience_description":"The audience can vote for their favorite answers.",
+                        "stream_friendly":"PLAYABLE",
+                        "moderation":"FULL_MODERATION",
+                        "moderation_description":"With the \"Moderation\" option enabled, the mods that enter rifftrax.games/mod will be able to decide what's displayed on-screen.",
+                        "subtitles":true,
+                        "type":"VERSUS",
+                        "translation":"ENGLISH",
+                        "tagline":"It's riff time!",
+                        "small_description":"It's riff time!",
+                        "description":"RiffTrax: The Game is a multiplayer party game where players compete to make bad movies funny. Do you have what it takes to be the next movie riffing genius? Grab your friends and make fun of some of the worst cinematic abominations ever created.",
+                        "images":[
+                            "game_images/RiffTraxTheGame/rifftraxthegame.mp4",
+                            "game_images/RiffTraxTheGame/rifftraxthegame_1.webp",
+                            "game_images/RiffTraxTheGame/rifftraxthegame_2.webp",
+                            "game_images/RiffTraxTheGame/rifftraxthegame_3.webp",
+                            "game_images/RiffTraxTheGame/rifftraxthegame_4.webp"
+                        ],
+                        "tags":[
+                            "writing"
+                        ]
+    
+                    },
+                    "patchs":[
+                        
+                    ]
+                }
+            ],
+            "icon":"rttg.ico",
+            "background":"backgrounds/rttg.jpg"
         }
     ]
 }
