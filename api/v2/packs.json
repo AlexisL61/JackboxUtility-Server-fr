@@ -306,7 +306,9 @@
                 "version_file":"config.jet",
                 "version_property":"buildVersion"
             },
-            
+            "resource_location":{
+                "mac":"The Jackbox Party Pack 2.app/Contents/Resources"
+            }
             "patchs":[
                 {
                     "id":"jpp2_fr",
