@@ -2196,7 +2196,83 @@
                             "linked_game":"thepollmine",
                             "name":"The Poll Mine FR",
                             "description":"Le patch complet arrive bientôt. Vous pouvez toujours télécharger la preview mais gardez à l'esprit que la traduction n'est pas terminée. Avec cette preview, vous avez accès à 70 questions en français.",
-                            "authors":"Pachat, Alexis et fizzrocks",
+                            "authors":"Pachat, Alexis, fizzrocks et MisterShaokahn",
+                            "small_description":"Jeu traduit en français !",
+                            "patch_type":{
+                                "game_text":true,
+                                "game_assets":true,
+                                "game_subtitles":true,
+                                "website":true,
+                                "audios":false
+                            }
+                        },
+                        {
+                            "id":"weaponsdrawn_fr",
+                            "linked_game":"weaponsdrawn",
+                            "name":"Weapon's Drawn FR",
+                            "small_description": "Traduisez votre jeu en Français !",
+                            "description": "Traduisez votre jeu en français avec ce patch !",
+                            "authors": "MisterShaokahn#0765",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": false,
+                                "game_subtitles": false,
+                                "website": false,
+                                "audios": false
+                            }
+                        }
+                        
+                    ]
+                    
+                },
+		{
+                    "id":"jpp8_sansvoix_fr",
+                    "name":"Traduction en français sans les voix",
+                    "small_description":"Traductions principalement textuelles",
+                    "description":"",
+                    "patch_path":"https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/releases/latest/download/JPP8_SansVoix.zip",
+                    "configuration": {
+						"version_origin":"repo_file",
+						"version_file":"https://raw.githubusercontent.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/main/main/config.jet",
+						"version_property":"buildVersion"
+					},
+                    "components":[
+                        {
+                            "id":"jobjob_fr",
+                            "linked_game":"jobjob",
+                            "name":"Job Job FR",
+                            "description":"",
+                            "authors":"Alexis",
+                            "small_description":"Jeu traduit en français !",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": true,
+                                "website": true,
+                                "audios": false
+                            }
+                        },
+			{
+                            "id":"thewheelofenormousproportions_fr",
+                            "linked_game":"the_wheel_of_enormous_proportions",
+                            "name":"The Wheel of Enormous Proportions BETA",
+                            "description":"",
+                            "authors":"MisterShaokahn, Skyion le faerie, Alexis et Elyssej",
+                            "small_description":"Jeu traduit en français !",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": true,
+                                "website": true,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id":"thepollmine_fr",
+                            "linked_game":"thepollmine",
+                            "name":"The Poll Mine FR",
+                            "description":"Le patch complet arrive bientôt. Vous pouvez toujours télécharger la preview mais gardez à l'esprit que la traduction n'est pas terminée. Avec cette preview, vous avez accès à 70 questions en français.",
+                            "authors":"Pachat, Alexis, fizzrocks et MisterShaokahn",
                             "small_description":"Jeu traduit en français !",
                             "patch_type":{
                                 "game_text":true,
