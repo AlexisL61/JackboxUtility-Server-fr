@@ -349,6 +349,21 @@
                                 "website": true,
                                 "audios": false
                             }
+                        },
+                        {
+                            "id":"earwax_fr",
+                            "linked_game":"earwax",
+                            "name":"Earwax",
+                            "small_description": "Traduisez votre jeu en Français !",
+                            "description": "Jouez à Earwax avec le texte en français !",
+                            "authors": "Brenda Verasoie",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": false,
+                                "game_subtitles": false,
+                                "website": false,
+                                "audios": false
+                            }
                         }
                         
                     ]
@@ -501,7 +516,7 @@
                         },
                         "length": "15 - 20 minutes",
                         "type": "VERSUS",
-                        "translation": "ENGLISH",
+                        "translation": "COMMUNITY_TRANSLATED",
                         "tagline": "Répondez avec beaucoup de bruit",
                         "small_description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
                         "description": "Il n'y a pas encore de description pour ce jeu. Rejoignez le serveur Discord pour proposer la votre !",
@@ -2176,7 +2191,7 @@
                                 "audios": false
                             }
                         },
-			{
+			            {
                             "id":"thewheelofenormousproportions_fr",
                             "linked_game":"the_wheel_of_enormous_proportions",
                             "name":"The Wheel of Enormous Proportions BETA",
@@ -2195,15 +2210,15 @@
                             "id":"thepollmine_fr",
                             "linked_game":"thepollmine",
                             "name":"The Poll Mine FR",
-                            "description":"Le patch complet arrive bientôt. Vous pouvez toujours télécharger la preview mais gardez à l'esprit que la traduction n'est pas terminée. Avec cette preview, vous avez accès à 70 questions en français.",
+                            "description":"",
                             "authors":"Pachat, Alexis, fizzrocks et MisterShaokahn",
-                            "small_description":"Jeu traduit en français !",
+                            "small_description":"Jeu traduit en français avec le doublage !",
                             "patch_type":{
                                 "game_text":true,
                                 "game_assets":true,
                                 "game_subtitles":true,
                                 "website":true,
-                                "audios":false
+                                "audios":true
                             }
                         },
                         {
