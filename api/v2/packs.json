@@ -1904,6 +1904,67 @@
                         
                     ]
                     
+                },
+                {
+                    "id":"jpp7_fr_sans_voix",
+                    "name":"Traduction en français sans les voix françaises",
+                    "small_description":"Traductions principalement textuelles sans les voix",
+                    "description":"",
+                    "patch_path":"https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/releases/latest/download/JPP7_SansVoix.zip",
+                    "configuration": {
+						"version_origin":"repo_file",
+						"version_file":"https://raw.githubusercontent.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/main/main/config.jet",
+						"version_property":"buildVersion"
+					},
+                    "components":[
+                        {
+                            "id":"champdup_fr",
+                            "linked_game":"champdup",
+                            "name":"Champ'd Up FR",
+                            "description":"",
+                            "authors":"CubicOtter",
+                            "small_description":"Jeu traduit en français !",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": true,
+                                "website": false,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id":"talkingpoints_fr",
+                            "linked_game":"talkingpoints",
+                            "name":"Talking Points FR",
+                            "description":"",
+                            "authors":"Alexis",
+                            "small_description":"Jeu traduit en français !",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": false,
+                                "game_subtitles": false,
+                                "website": false,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id":"thedevilsandthedetails_fr",
+                            "linked_game":"thedevilsandthedetails",
+                            "name":"The Devils and the Details FR",
+                            "small_description": "Traduisez votre jeu en Français !",
+                            "description": "",
+                            "authors": "Alexis, MisterShao et PachatFR",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": false
+                            }
+                        }
+                        
+                    ]
+                    
                 }
             ],
             "games": [
