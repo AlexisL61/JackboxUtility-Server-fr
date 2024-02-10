@@ -1850,6 +1850,10 @@
                     "small_description":"Traductions principalement textuelles",
                     "description":"",
                     "patch_path":"https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/releases/latest/download/JPP7.zip",
+		    "patch_paths": [
+			"https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/releases/latest/download/JPP7.zip",
+			"https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/releases/latest/download/JPP7_SansVoix.zip"
+		    ],
                     "configuration": {
 						"version_origin":"repo_file",
 						"version_file":"https://raw.githubusercontent.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/main/main/config.jet",
