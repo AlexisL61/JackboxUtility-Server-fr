@@ -15,6 +15,15 @@
             "image":"news_images/discord.png",
             "link":"https://discord.gg/XhwPfUrCEx",
             "shadow":false
+        },
+        {
+            "id":"2023-02-18 14:29:14",
+            "title":"Binjpipe !",
+            "smallDescription":"Rencontrez notre nouveau partenaire Binjpipe !",
+            "content":"# Everything is content",
+            "image":"news_images/binjPipeWhite.png",
+            "link":"https://discord.gg/XhwPfUrCEx",
+            "shadow":false
         }
     ]
 
