@@ -2348,7 +2348,7 @@
                     "patch_path":"https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/releases/latest/download/JPP8_SansVoix.zip",
                     "configuration": {
 						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/main/main/config.jet",
+						"version_file":"https://raw.githubusercontent.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/main/main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
                     "components":[
