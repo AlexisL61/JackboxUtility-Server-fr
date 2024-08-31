@@ -2259,7 +2259,7 @@
             },
             "configuration":{
                 "version_origin":"game_file",
-                "version_file":"config.jet",
+                "version_file":"jbg.config.jet",
                 "version_property":"buildVersion"
             },
             
