@@ -1881,8 +1881,7 @@
                     "description":"",
                     "patch_path":"https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/releases/latest/download/JPP7.zip",
 		    "patch_paths": [
-			"https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/releases/latest/download/JPP7.zip",
-			"https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/releases/latest/download/JPP7_SansVoix.zip"
+			"https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/releases/latest/download/JPP7.zip"
 		    ],
                     "configuration": {
 						"version_origin":"repo_file",
