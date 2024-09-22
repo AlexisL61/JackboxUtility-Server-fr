@@ -1869,7 +1869,7 @@
             },
             "configuration":{
                 "version_origin":"game_file",
-                "version_file":"config.jet",
+                "version_file":"jbg.config.jet",
                 "version_property":"buildVersion"
             },
             
@@ -1885,7 +1885,7 @@
 		    ],
                     "configuration": {
 						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/main/main/config.jet",
+						"version_file":"https://raw.githubusercontent.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/main/main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
                     "components":[
@@ -1946,7 +1946,7 @@
                     "patch_path":"https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/releases/latest/download/JPP7_SansVoix.zip",
                     "configuration": {
 						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/main/main/config.jet",
+						"version_file":"https://raw.githubusercontent.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/main/main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
                     "components":[
