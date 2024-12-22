@@ -961,6 +961,21 @@
                                 "website": true,
                                 "audios": false
                             }
+                        },
+                        {
+                            "id":"survivetheinternet_fr",
+                            "linked_game":"survivetheinternet",
+                            "name":"Survive the internet FR",
+                            "small_description": "Traduisez votre jeu en Français !",
+                            "description": "",
+                            "authors": "Félcon",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": false,
+                                "game_subtitles": false,
+                                "website": false,
+                                "audios": false
+                            }
                         }
                         
                     ]
