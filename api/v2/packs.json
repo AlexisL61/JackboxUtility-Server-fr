@@ -339,6 +339,15 @@
                         "version_file":"https://raw.githubusercontent.com/Jackbox-France/The-Jackbox-Party-Pack-2-French/main/main/jbg.config.jet",
                         "version_property":"buildVersion"
                     },
+                    "supported_platforms": [
+                        "windows",
+                        "linux",
+                        "mac"
+                    ],
+                    "supported_launchers": [
+                        "steam",
+                        "native"
+                    ],
                     "components":[
                         {
                             "id":"bidiots_fr",
@@ -668,6 +677,15 @@
                         "version_file":"https://raw.githubusercontent.com/Jackbox-France/The-Jackbox-Party-Pack-3-French/main/main/config.jet",
                         "version_property":"buildVersion"
                     },
+                    "supported_platforms": [
+                        "windows",
+                        "linux",
+                        "mac"
+                    ],
+                    "supported_launchers": [
+                        "steam",
+                        "native"
+                    ],
                     "components":[
                         {
                             "id":"fakinit_fr",
@@ -967,6 +985,15 @@
                         "version_file":"https://raw.githubusercontent.com/Jackbox-France/The-Jackbox-Party-Pack-4-French/main/main/jbg.config.jet",
                         "version_property":"buildVersion"
                     },
+                    "supported_platforms": [
+                        "windows",
+                        "linux",
+                        "mac"
+                    ],
+                    "supported_launchers": [
+                        "steam",
+                        "native"
+                    ],
                     "components":[
                         {
                             "id":"monsterseekingmonster_fr",
@@ -1300,6 +1327,15 @@
                         "version_file":"https://raw.githubusercontent.com/Jackbox-France/The-Jackbox-Party-Pack-5-French/main/main/jbg.config.jet",
                         "version_property":"buildVersion"
                     },
+                    "supported_platforms": [
+                        "windows",
+                        "linux",
+                        "mac"
+                    ],
+                    "supported_launchers": [
+                        "steam",
+                        "native"
+                    ],
                     "components":[
                         {
                             "id":"splittheroom_fr",
@@ -1616,6 +1652,15 @@
                         "version_file":"https://raw.githubusercontent.com/Jackbox-France/The-Jackbox-Party-Pack-6-French/main/main/jbg.config.jet",
                         "version_property":"buildVersion"
                     },
+                    "supported_platforms": [
+                        "windows",
+                        "linux",
+                        "mac"
+                    ],
+                    "supported_launchers": [
+                        "steam",
+                        "native"
+                    ],
                     "components":[
                         {
                             "id":"jokeboat_fr",
@@ -1954,6 +1999,15 @@
                         "version_file":"https://raw.githubusercontent.com/Jackbox-France/The-Jackbox-Party-Pack-7-French/main/main/jbg.config.jet",
                         "version_property":"buildVersion"
                     },
+                    "supported_platforms": [
+                        "windows",
+                        "linux",
+                        "mac"
+                    ],
+                    "supported_launchers": [
+                        "steam",
+                        "native"
+                    ],
                     "components":[
                         {
                             "id":"champdup_fr",
@@ -2345,6 +2399,15 @@
                         "version_file":"https://raw.githubusercontent.com/Jackbox-France/The-Jackbox-Party-Pack-8-French/main/main/jbg.config.jet",
                         "version_property":"buildVersion"
                     },
+                    "supported_platforms": [
+                        "windows",
+                        "linux",
+                        "mac"
+                    ],
+                    "supported_launchers": [
+                        "steam",
+                        "native"
+                    ],
                     "components":[
                         {
                             "id":"jobjob_fr",
