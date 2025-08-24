@@ -60,6 +60,9 @@
                 "mac": "The Jackbox Party Pack.app/Contents/MacOS/The Jackbox Party Pack",
                 "linux": "Launcher.sh"
             },
+            "resource_location": {
+                "mac": "The Jackbox Party Pack.app/Contents/Resources/macos"
+            },
             "store_links": {
                 "steam": "https://store.steampowered.com/app/331670/The_Jackbox_Party_Pack/",
                 "epic": "https://store.epicgames.com/p/jackbox-party-pack-1",
@@ -306,12 +309,14 @@
                 "path": "loaders/tjpp2/default.zip",
                 "version": "1.0.0"
             },
+            "resource_location": {
+                "mac": "The Jackbox Party Pack 2.app/Contents/Resources/macos"
+            },
             "configuration":{
                 "version_origin":"game_file",
                 "version_file":"jbg.config.jet",
                 "version_property":"buildVersion"
             },
-            
             "patchs":[
                 {
                     "id":"jpp2_fr",
@@ -623,6 +628,9 @@
                 "mac": "The Jackbox Party Pack 3.app/Contents/MacOS/The Jackbox Party Pack 3",
                 "linux": "Launcher.sh"
             },
+            "resource_location": {
+                "mac": "The Jackbox Party Pack 3.app/Contents/Resources/macos"
+            },
             "loader": {
                 "path": "loaders/tjpp3/default.zip",
                 "version": "1.0.0"
@@ -918,6 +926,9 @@
                 "version_origin":"game_file",
                 "version_file":"jbg.config.jet",
                 "version_property":"buildVersion"
+            },
+            "resource_location": {
+                "mac": "The Jackbox Party Pack 4.app/Contents/Resources/macos"
             },
             "patchs":[
                 {
@@ -1247,6 +1258,9 @@
                 "version_file":"jbg.config.jet",
                 "version_property":"buildVersion"
             },
+            "resource_location": {
+                "mac": "The Jackbox Party Pack 5.app/Contents/Resources/macos"
+            },
             "patchs":[
                 {
                     "id":"jpp5_fr",
@@ -1556,7 +1570,9 @@
                 "version_file":"jbg.config.jet",
                 "version_property":"buildVersion"
             },
-            
+            "resource_location": {
+                "mac": "The Jackbox Party Pack 6.app/Contents/Resources/macos"
+            },
             "patchs":[
                 {
                     "id":"jpp6_fr",
@@ -1887,7 +1903,9 @@
                 "version_file":"jbg.config.jet",
                 "version_property":"buildVersion"
             },
-            
+            "resource_location": {
+                "mac": "The Jackbox Party Pack 7.app/Contents/Resources/macos"
+            },
             "patchs":[
                 {
                     "id":"jpp7_fr",
@@ -2276,7 +2294,9 @@
                 "version_file":"jbg.config.jet",
                 "version_property":"buildVersion"
             },
-            
+            "resource_location": {
+                "mac": "The Jackbox Party Pack 8.app/Contents/Resources/macos"
+            },
             "patchs":[
                 {
                     "id":"jpp8_fr",
