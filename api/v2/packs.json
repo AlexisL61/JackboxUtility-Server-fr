@@ -3329,6 +3329,238 @@
             "background":"backgrounds/jpp10.jpg"
         },
         {
+            "id": "jpp11",
+            "name": "The Jackbox Party Pack 11",
+            "description": "Le 11ème party pack, tout beau tout neuf",
+            "launchers_id": {
+                "steam": "3364070"
+            },
+            "executables": {
+                "windows": "The Jackbox Party Pack 11.exe",
+                "mac": "The Jackbox Party Pack 11.app/Contents/MacOS/The Jackbox Party Pack 11",
+                "linux": "Launcher.sh"
+            },
+            "configuration": {
+                "version_origin": "game_file",
+                "version_file": "jbg.config.jet",
+                "version_property": "buildVersion",
+                "launcher_version_file": {
+                    "steam": "jbg.config.jet",
+                    "native": "jbg.config.jet"
+                }
+            },
+            "resource_location": {
+                "mac": "The Jackbox Party Pack 11.app/Contents/Resources/macos"
+            },
+            "store_links": {
+                "steam": "https://store.steampowered.com/app/3364070/The_Jackbox_Party_Pack_11/"
+            },
+            "patchs": [
+                
+            ],
+            "games": [
+                {
+                    "id": "doominate",
+                    "internal_name": "YouRuinedIt",
+                    "name": "Doominate",
+                    "background": "game_backgrounds/Doominate.png",
+                    "path": "games/YouRuinedIt",
+                    "game_info": {
+                        "players": {
+                            "min": 3,
+                            "max": 8
+                        },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "L'audience peut voter pour ses favoris.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "Lorsque l'option « Modération » est activée, les modérateurs qui accèdent à mod.jackbox.tv peuvent décider ce qui s'affiche à l'écran.",
+                        "subtitles": true,
+                        "length": "15 - 20 minutes",
+                        "type": "VERSUS",
+                        "translation": "ENGLISH",
+                        "tagline": "Le jeu où ça fait tellement de bien... d'être mauvais",
+                        "small_description": "Le jeu où ça fait tellement de bien... d'être mauvais",
+                        "description": "Le jeu où ça fait tellement de bien... d'être mauvais",
+                        "images": [
+                            "game_images/Doominate/Doominate-0001.jpeg",
+                            "game_images/Doominate/Doominate-0002.jpeg",
+                            "game_images/Doominate/Doominate-0003.jpeg",
+                            "game_images/Doominate/Doominate-0004.jpeg",
+                            "game_images/Doominate/Doominate-0005.jpeg"
+                        ],
+                        "tags": [
+                            "writing"
+                        ]
+                    },
+                    "patchs": []
+                },
+                {
+                    "id": "legendsoftrivia",
+                    "internal_name": "TriviaRPG",
+                    "name": "Legends of Trivia",
+                    "background": "game_backgrounds/LegendsofTrivia.png",
+                    "path": "games/TriviaRPG",
+                    "game_info": {
+                        "players": {
+                            "min": 1,
+                            "max": 6
+                        },
+                        "playtime": {
+                            "min": 20,
+                            "max": 30
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "Le public peut soigner les joueurs ou leurs adversaires en lançant les dés.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "Lorsque l'option « Modération » est activée, les modérateurs qui accèdent à mod.jackbox.tv peuvent décider ce qui s'affiche à l'écran.",
+                        "subtitles": true,
+                        "length": "20 - 30 minutes",
+                        "type": "TEAM",
+                        "translation": "ENGLISH",
+                        "tagline": "Prenez votre épée, votre grimoire et vos connaissances inutiles... l'aventure vous attend !",
+                        "small_description": "Prenez votre épée, votre grimoire et vos connaissances inutiles... l'aventure vous attend !",
+                        "description": "Prenez votre épée, votre grimoire et vos connaissances inutiles... l'aventure vous attend !",
+                        "images": [
+                            "game_images/LegendsofTrivia/LegensofTrivia-0001.png"
+                        ],
+                        "tags": [
+                            "knowledge",
+                            "talking"
+                        ]
+                    },
+                    "patchs": []
+                },
+                {
+                    "id": "hearsay",
+                    "internal_name": "MicGame",
+                    "name": "Hear Say",
+                    "background": "game_backgrounds/HearSay.png",
+                    "path": "games/MicGame",
+                    "game_info": {
+                        "players": {
+                            "min": 2,
+                            "max": 8
+                        },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "Le public peut voter et participer aux mini-jeux pendant les pauses.",
+                        "stream_friendly": "PLAYABLE",
+                        "stream_friendly_description": "Comme les joueurs enregistrent les sons, il est recommandé de ne pas jouer avec des joueurs inconnus.",
+                        "moderation": "FULL_MODERATION",
+                        "subtitles": true,
+                        "length": "15 - 20 minutes",
+                        "type": "VERSUS",
+                        "translation": "ENGLISH",
+                        "tagline": "Faites un bruit bizarre, obtenez une vidéo encore plus bizarre. Que le spectacle commence !",
+                        "small_description": "Faites un bruit bizarre, obtenez une vidéo encore plus bizarre. Que le spectacle commence !",
+                        "description": "Faites un bruit bizarre, obtenez une vidéo encore plus bizarre. Que le spectacle commence !",
+                        "images": [
+                            "game_images/HearSay/Hearsay-0001.png",
+                            "game_images/HearSay/Hearsay-0002.png",
+                            "game_images/HearSay/Hearsay-0003.png",
+                            "game_images/HearSay/Hearsay-0004.png",
+                            "game_images/HearSay/Hearsay-0005.png"
+                        ],
+                        "tags": [
+                            "talking"
+                        ]
+                    },
+                    "patchs": []
+                },
+                {
+                    "id": "cookiehaus",
+                    "internal_name": "CookiesGame",
+                    "name": "Cookie Haus",
+                    "background": "game_backgrounds/CookieHaus.png",
+                    "path": "games/CookiesGame",
+                    "game_info": {
+                        "players": {
+                            "min": 3,
+                            "max": 8
+                        },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "Le public peut voter pour les meilleurs biscuits.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "Lorsque l'option « Modération » est activée, les modérateurs qui accèdent à mod.jackbox.tv peuvent décider ce qui s'affiche à l'écran.",
+                        "subtitles": true,
+                        "length": "15 - 20 minutes",
+                        "type": "VERSUS",
+                        "translation": "ENGLISH",
+                        "tagline": "Cuisez-le jusqu'à ce qu'il soit cuit. Le glaçage est votre seul espoir.",
+                        "small_description": "Cuisez-le jusqu'à ce qu'il soit cuit. Le glaçage est votre seul espoir.",
+                        "description": "Cuisez-le jusqu'à ce qu'il soit cuit. Le glaçage est votre seul espoir.",
+                        "images": [
+                            "game_images/CookieHaus/CookieHaus-0001.png",
+                            "game_images/CookieHaus/CookieHaus-0002.png",
+                            "game_images/CookieHaus/CookieHaus-0003.png",
+                            "game_images/CookieHaus/CookieHaus-0004.png",
+                            "game_images/CookieHaus/CookieHaus-0005.png"
+                        ],
+                        "tags": [
+                            "drawing"
+                        ]
+                    },
+                    "patchs": []
+                },
+                {
+                    "id": "suspectives",
+                    "internal_name": "DirtyDetectives",
+                    "name": "Suspectives",
+                    "background": "game_backgrounds/Suspectives.png",
+                    "path": "games/DirtyDetectives",
+                    "game_info": {
+                        "players": {
+                            "min": 4,
+                            "max": 8
+                        },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "FAMILY_FRIENDLY",
+                        "audience": true,
+                        "audience_description": "Le public peut également voter.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "subtitles": true,
+                        "length": "15 - 20 minutes",
+                        "type": "VERSUS",
+                        "translation": "ENGLISH",
+                        "tagline": "Étudiez les preuves, interrogez les autres joueurs et trouvez le coupable !",
+                        "small_description": "Étudiez les preuves, interrogez les autres joueurs et trouvez le coupable !",
+                        "description": "Étudiez les preuves, interrogez les autres joueurs et trouvez le coupable !",
+                        "images": [
+                            "game_images/Suspectives/Suspectives-0001.png"
+                        ],
+                        "tags": [
+                            "deduction"
+                        ]
+                    },
+                    "patchs": []
+                }
+            ],
+            "icon": "jpp11.ico",
+            "background": "backgrounds/jpp11.jpg"
+        },
+        {
             "id":"jpstarter",
             "name":"Jackbox Party Starter",
             "description":"La compilation de 3 jeux en français",
