@@ -3413,7 +3413,7 @@
                             "name":"Suspectives FR",
                             "description":"",
                             "authors":"Alexis et Alexandre Roy",
-                            "small_description":"Jeu traduit en français avec le doublage !",
+                            "small_description":"Textes traduits en français !",
                             "patch_type":{
                                 "game_text":true,
                                 "game_assets":false,
