@@ -3356,7 +3356,74 @@
                 "steam": "https://store.steampowered.com/app/3364070/The_Jackbox_Party_Pack_11/"
             },
             "patchs": [
-                
+                {
+                    "id":"jpp11_fr",
+                    "name":"Traduction en français",
+                    "small_description":"Traductions principalement textuelles",
+                    "description":"",
+                    "patch_path":"https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French/releases/latest/download/JPP11.zip",
+                    "configuration":{
+                        "version_origin":"repo_file",
+                        "version_file":"https://raw.githubusercontent.com/Jackbox-France/The-Jackbox-Party-Pack-11-French/main/main/jbg.config.jet",
+                        "version_property":"buildVersion"
+                    },
+                    "supported_platforms": [
+                        "windows",
+                        "linux",
+                        "mac"
+                    ],
+                    "supported_launchers": [
+                        "steam",
+                        "native"
+                    ],
+                    "components":[
+                        {
+                            "id":"doominate_fr",
+                            "linked_game":"doominate",
+                            "name":"Doominate FR",
+                            "description":"",
+                            "authors":"MisterShaokahn et Alexandre Roy",
+                            "small_description":"Textes traduits en français !",
+                            "patch_type":{
+                                "game_text":true,
+                                "game_assets":false,
+                                "game_subtitles":false,
+                                "website":false,
+                                "audios":false
+                            }
+                        },
+                        {
+                            "id":"hearsay_fr",
+                            "linked_game":"hearsay",
+                            "name":"Hear Say",
+                            "description":"",
+                            "authors":"MisterShaokahn et Alexandre Roy",
+                            "small_description":"Textes traduits en français !",
+                            "patch_type":{
+                                "game_text":true,
+                                "game_assets":false,
+                                "game_subtitles":false,
+                                "website":false,
+                                "audios":false
+                            }
+                        },
+                        {
+                            "id":"suspectives_fr",
+                            "linked_game":"suspectives",
+                            "name":"Suspectives FR",
+                            "description":"",
+                            "authors":"Alexis et Alexandre Roy",
+                            "small_description":"Jeu traduit en français avec le doublage !",
+                            "patch_type":{
+                                "game_text":true,
+                                "game_assets":false,
+                                "game_subtitles":false,
+                                "website":false,
+                                "audios":false
+                            }
+                        }
+                    ]
+                }
             ],
             "games": [
                 {
