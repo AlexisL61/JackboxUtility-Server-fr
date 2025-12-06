@@ -3382,7 +3382,7 @@
                             "linked_game":"doominate",
                             "name":"Doominate FR",
                             "description":"",
-                            "authors":"MisterShaokahn et Alexandre Roy",
+                            "authors":"MisterShaokahn, Alexandre Roy et Sockonacab",
                             "small_description":"Textes traduits en français !",
                             "patch_type":{
                                 "game_text":true,
@@ -3397,7 +3397,7 @@
                             "linked_game":"hearsay",
                             "name":"Hear Say",
                             "description":"",
-                            "authors":"MisterShaokahn et Alexandre Roy",
+                            "authors":"MisterShaokahn, Alexandre Roy et AntNv335",
                             "small_description":"Textes traduits en français !",
                             "patch_type":{
                                 "game_text":true,
@@ -3412,11 +3412,124 @@
                             "linked_game":"suspectives",
                             "name":"Suspectives FR",
                             "description":"",
-                            "authors":"Alexis et Alexandre Roy",
+                            "authors":"Alexis, Alexandre Roy, AntNv335 et Sockonacab",
                             "small_description":"Textes traduits en français !",
                             "patch_type":{
                                 "game_text":true,
                                 "game_assets":false,
+                                "game_subtitles":false,
+                                "website":false,
+                                "audios":false
+                            }
+                        },
+                        {
+                            "id":"cookiehaus_fr",
+                            "linked_game":"cookiehaus",
+                            "name":"Cookie Haus FR",
+                            "description":"",
+                            "authors":"Alexandre Roy",
+                            "small_description":"Textes traduits en français !",
+                            "patch_type":{
+                                "game_text":true,
+                                "game_assets":true,
+                                "game_subtitles":false,
+                                "website":false,
+                                "audios":false
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id":"jpp11_beta_fr",
+                    "name":"[BETA] - Traduction en français",
+                    "small_description":"Traductions principalement textuelles",
+                    "description":"",
+                    "patch_path":"https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French/releases/latest/download/JPP11-beta.zip",
+                    "configuration":{
+                        "version_origin":"repo_file",
+                        "version_file":"https://raw.githubusercontent.com/Jackbox-France/The-Jackbox-Party-Pack-11-French/main/main/jbg.config.jet",
+                        "version_property":"buildVersion"
+                    },
+                    "supported_platforms": [
+                        "windows",
+                        "linux",
+                        "mac"
+                    ],
+                    "supported_launchers": [
+                        "steam",
+                        "native"
+                    ],
+                    "components":[
+                        {
+                            "id":"doominate_fr",
+                            "linked_game":"doominate",
+                            "name":"Doominate FR",
+                            "description":"",
+                            "authors":"MisterShaokahn, Alexandre Roy et Sockonacab",
+                            "small_description":"Textes traduits en français !",
+                            "patch_type":{
+                                "game_text":true,
+                                "game_assets":false,
+                                "game_subtitles":false,
+                                "website":false,
+                                "audios":false
+                            }
+                        },
+                        {
+                            "id":"hearsay_fr",
+                            "linked_game":"hearsay",
+                            "name":"Hear Say",
+                            "description":"",
+                            "authors":"MisterShaokahn, Alexandre Roy et AntNv335",
+                            "small_description":"Textes traduits en français !",
+                            "patch_type":{
+                                "game_text":true,
+                                "game_assets":false,
+                                "game_subtitles":false,
+                                "website":false,
+                                "audios":false
+                            }
+                        },
+                        {
+                            "id":"suspectives_fr",
+                            "linked_game":"suspectives",
+                            "name":"Suspectives FR",
+                            "description":"",
+                            "authors":"Alexis, Alexandre Roy, AntNv335 et Sockonacab",
+                            "small_description":"Textes traduits en français !",
+                            "patch_type":{
+                                "game_text":true,
+                                "game_assets":false,
+                                "game_subtitles":false,
+                                "website":false,
+                                "audios":false
+                            }
+                        },
+                        {
+                            "id":"cookiehaus_fr",
+                            "linked_game":"cookiehaus",
+                            "name":"Cookie Haus FR",
+                            "description":"",
+                            "authors":"Alexandre Roy",
+                            "small_description":"Textes traduits en français !",
+                            "patch_type":{
+                                "game_text":true,
+                                "game_assets":true,
+                                "game_subtitles":false,
+                                "website":false,
+                                "audios":false
+                            }
+                        },
+                        {
+                            "id":"triviarpg_fr",
+                            "linked_game":"triviarpg",
+                            "name":"Legends of trivia FR",
+                            "description":"",
+                            "authors":"MisterShaokahn, Alexandre ROY, AntNv335 et Sockonacab",
+                            "small_description":"Textes traduits en français !",
+                            "patch_type":{
+                                "game_text":true,
+                                "game_assets":true,
                                 "game_subtitles":false,
                                 "website":false,
                                 "audios":false
