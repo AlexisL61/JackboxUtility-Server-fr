@@ -3781,7 +3781,9 @@
                         "online_service_url": "https://api.jackboxgames.com/arcade"
                     },
                     "supported_platforms": [
-                        "windows"
+                        "windows",
+                        "linux",
+                        "mac"
                     ],
                     "supported_launchers": [
                         "steam"
