@@ -3743,6 +3743,322 @@
             "background": "backgrounds/jpp11.jpg"
         },
         {
+            "id": "jpp12",
+            "name": "The Jackbox Party Pack 12",
+            "description": "Date de sortie : 2026",
+            "launchers_id": {
+                "steam": "4199960",
+                "epic": "9294aad1dcf845d5a800f309facae1f1"
+            },
+            "executables": {
+                "windows": "The Jackbox Party Pack 12.exe",
+                "mac": "The Jackbox Party Pack 12.app/Contents/MacOS/The Jackbox Party Pack 12",
+                "linux": "Launcher.sh"
+            },
+            "configuration": {
+                "version_origin": "game_file",
+                "version_file": "jbg.config.jet",
+                "version_property": "buildVersion",
+                "launcher_version_file": {
+                    "steam": "jbg.config.jet",
+                    "epic_games": "config.jet",
+                    "native": "jbg.config.jet"
+                }
+            },
+            "resource_location": {
+                "mac": "The Jackbox Party Pack 12.app/Contents/Resources/macos"
+            },
+            "store_links": {
+                "steam": "https://store.steampowered.com/app/4199960/The_Jackbox_Party_Pack_12/"
+            },
+            "patchs": [
+                {
+                    "id": "jpp12_de",
+                    "name": "The Jackbox Party Pack 12",
+                    "small_description": "TBW",
+                    "description": "TBW",
+                    "patch_path": "https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French/releases/latest/download/JPP11.zip",
+                    "configuration": {
+                        "version_origin": "repo_file",
+                        "version_file": "https://raw.githubusercontent.com/Jackbox-France/The-Jackbox-Party-Pack-11-French/main/jbg.config.jet",
+                        "version_property": "buildVersion"
+                    },
+                    "supported_platforms": [
+                        "windows",
+                        "linux",
+                        "mac"
+                    ],
+                    "supported_launchers": [
+                        "steam",
+                        "epic",
+                        "native"
+                    ],
+                    "components": [
+                        {
+                            "id": "idolfactions_patch",
+                            "linked_game": "idolfactions",
+                            "name": "Idol Factions",
+                            "description": "TBW",
+                            "authors": "",
+                            "small_description": "TBW",
+                            "patch_type": {
+                                "game_text": false,
+                                "game_assets": false,
+                                "game_subtitles": false,
+                                "website": false,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id": "weforgotacard_patch",
+                            "linked_game": "weforgotacard",
+                            "name": "We forgot a card",
+                            "description": "TBW",
+                            "authors": "",
+                            "small_description": "TBW",
+                            "patch_type": {
+                                "game_text": false,
+                                "game_assets": false,
+                                "game_subtitles": false,
+                                "website": false,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id": "debateandswitch_patch",
+                            "linked_game": "debateandswitch",
+                            "name": "Debate and Switch",
+                            "description": "TBW",
+                            "authors": "",
+                            "small_description": "TBW",
+                            "patch_type": {
+                                "game_text": false,
+                                "game_assets": false,
+                                "game_subtitles": false,
+                                "website": false,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id": "megapals_patch",
+                            "linked_game": "megapals",
+                            "name": "MegaPals",
+                            "description": "TBW",
+                            "authors": "",
+                            "small_description": "TBW",
+                            "patch_type": {
+                                "game_text": false,
+                                "game_assets": false,
+                                "game_subtitles": false,
+                                "website": false,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id": "hyperface_patch",
+                            "linked_game": "hyperface",
+                            "name": "Hyperface",
+                            "description": "TBW",
+                            "authors": "",
+                            "small_description": "TBW",
+                            "patch_type": {
+                                "game_text": false,
+                                "game_assets": false,
+                                "game_subtitles": false,
+                                "website": false,
+                                "audios": false
+                            }
+                        }
+                    ]
+                }
+            ],
+            "games": [
+                {
+                    "id": "idolfactions",
+                    "internal_name": "WordProcessing",
+                    "name": "Idol Factions",
+                    "background": "game_backgrounds/IdolFactions.png",
+                    "path": "games/WordProcessing",
+                    "game_info": {
+                        "players": {
+                            "min": 2,
+                            "max": 8
+                        },
+                        "playtime": {
+                            "min": 15,
+                            "max": 15
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "subtitles": true,
+                        "length": "15 Minutes",
+                        "type": "TEAM",
+                        "translation": "COMMUNITY_TRANSLATED",
+                        "tagline": "TBW",
+                        "small_description": "TBW",
+                        "description": "TBW",
+                        "images": [
+                            "game_images/IdolFactions/IdolFactions-0001.jpg"
+                        ],
+                        "tags": [
+                            "knowledge",
+                            "talking"
+                        ]
+                    },
+                    "patchs": []
+                },
+                {
+                    "id": "weforgotacard",
+                    "internal_name": "GratingCards",
+                    "name": "We forgot a card",
+                    "background": "game_backgrounds/WeforgotaCard.png",
+                    "path": "games/GratingCards",
+                    "game_info": {
+                        "players": {
+                            "min": 3,
+                            "max": 8
+                        },
+                        "playtime": {
+                            "min": 20,
+                            "max": 20
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "subtitles": true,
+                        "length": "20 Minutes",
+                        "type": "VERSUS",
+                        "translation": "COMMUNITY_TRANSLATED",
+                        "tagline": "TBW",
+                        "small_description": "TBW",
+                        "description": "TBW",
+                        "images": [
+                            "game_images/WeforgotaCard/WeforgotaCard-0001.jpg",
+                            "game_images/WeforgotaCard/WeforgotaCard-0002.jpg",
+                            "game_images/WeforgotaCard/WeforgotaCard-0003.jpg"
+                        ],
+                        "tags": [
+                            "writing",
+                            "drawing"
+                        ]
+                    },
+                    "patchs": []
+                },
+                {
+                    "id": "debateandswitch",
+                    "internal_name": "Debate",
+                    "name": "Debate and Switch",
+                    "background": "game_backgrounds/DebateandSwitch.png",
+                    "path": "games/Debate",
+                    "game_info": {
+                        "players": {
+                            "min": 2,
+                            "max": 8
+                        },
+                        "playtime": {
+                            "min": 15,
+                            "max": 15
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "subtitles": true,
+                        "length": "15 Minutes",
+                        "type": "VERSUS",
+                        "translation": "COMMUNITY_TRANSLATED",
+                        "tagline": "TBW",
+                        "small_description": "TBW",
+                        "description": "TBW",
+                        "images": [
+                            "game_images/DebateandSwitch/DebateandSwitch-0001.jpg"
+                        ],
+                        "tags": [
+                            "talking",
+                            "writing"
+                        ]
+                    },
+                    "patchs": []
+                },
+                {
+                    "id": "megapals",
+                    "internal_name": "MegaFriends",
+                    "name": "MegaPals",
+                    "background": "game_backgrounds/MegaPals.png",
+                    "path": "games/MegaFriends",
+                    "game_info": {
+                        "players": {
+                            "min": 3,
+                            "max": 8
+                        },
+                        "playtime": {
+                            "min": 15,
+                            "max": 15
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "subtitles": true,
+                        "length": "15 Minutes",
+                        "type": "VERSUS",
+                        "translation": "COMMUNITY_TRANSLATED",
+                        "tagline": "TBW",
+                        "small_description": "TBW",
+                        "description": "TBW",
+                        "images": [
+                            "game_images/MegaPals/MegaPals.jpg"
+                        ],
+                        "tags": [
+                            "writing",
+                            "deduction"
+                        ]
+                    },
+                    "patchs": []
+                },
+                {
+                    "id": "hyperface",
+                    "internal_name": "ReactionGame",
+                    "name": "Hyperface",
+                    "background": "game_backgrounds/Hyperface.png",
+                    "path": "games/ReactionGame",
+                    "game_info": {
+                        "players": {
+                            "min": 3,
+                            "max": 8
+                        },
+                        "playtime": {
+                            "min": 15,
+                            "max": 15
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "subtitles": true,
+                        "length": "15 Minutes",
+                        "type": "VERSUS",
+                        "translation": "COMMUNITY_TRANSLATED",
+                        "tagline": "TBW",
+                        "small_description": "TBW",
+                        "description": "TBW",
+                        "images": [
+                            "game_images/Hyperface/Hyperface-0001.jpg"
+                        ],
+                        "tags": [
+                            "drawing"
+                        ]
+                    },
+                    "patchs": []
+                }
+            ],
+            "icon": "jpp12.ico",
+            "background": "backgrounds/jpp12.jpg"
+        },
+        {
             "id": "tmp3",
             "name": "Trivia Murder Party 3",
             "description": "Sortie : 2026",
