@@ -3777,10 +3777,10 @@
                     "name": "The Jackbox Party Pack 12",
                     "small_description": "TBW",
                     "description": "TBW",
-                    "patch_path": "https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French/releases/latest/download/JPP11.zip",
+                    "patch_path": "https://github.com/Jackbox-France/The-Jackbox-Party-Pack-12-French/releases/latest/download/JPP12.zip",
                     "configuration": {
                         "version_origin": "repo_file",
-                        "version_file": "https://raw.githubusercontent.com/Jackbox-France/The-Jackbox-Party-Pack-11-French/main/jbg.config.jet",
+                        "version_file": "https://raw.githubusercontent.com/Jackbox-France/The-Jackbox-Party-Pack-12-French/main/main/jbg.config.jet",
                         "version_property": "buildVersion"
                     },
                     "supported_platforms": [
